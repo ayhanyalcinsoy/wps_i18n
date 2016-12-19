@@ -50,7 +50,11 @@
     </message>
     <message>
         <source>First Row</source>
+<<<<<<< HEAD
         <translation>首列:</translation>
+=======
+        <translation>首列</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Last Column</source>
@@ -269,11 +273,19 @@
     </message>
     <message>
         <source>First Row And First Column</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>首列首欄</translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation>首列末列</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Styless, No grid</source>
@@ -424,11 +436,19 @@
     </message>
     <message>
         <source>First Row And First Column</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>首列首欄</translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation>首列末列</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Light</source>

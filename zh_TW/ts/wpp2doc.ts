@@ -375,5 +375,12 @@ For example, 1,3,5-9.</source>
         <source>save file</source>
         <translation type="obsolete">儲存</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>No Select Slide</source>
+        <translation>未選取投影片</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 </TS>

@@ -457,6 +457,7 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>&amp;Alignment</source>
+<<<<<<< HEAD
         <translation>對齊方式(&amp;A)</translation>
     </message>
     <message>
@@ -474,6 +475,25 @@
     <message>
         <source>&amp;Lock anchor</source>
         <translation>鎖定定位點(&amp;L)</translation>
+=======
+        <translation type="obsolete">對齊方式(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation type="obsolete">文字在前(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation type="obsolete">與文字排列(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation type="obsolete">只有左邊(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Lock anchor</source>
+        <translation type="obsolete">鎖定定位點(&amp;L)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Move Object with text</source>
@@ -481,6 +501,7 @@
     </message>
     <message>
         <source>&amp;Move object with text</source>
+<<<<<<< HEAD
         <translation>物件隨文字一起移動(&amp;M)</translation>
     </message>
     <message>
@@ -498,6 +519,25 @@
     <message>
         <source>&amp;to the right of</source>
         <translation>右方的(&amp;T)</translation>
+=======
+        <translation type="obsolete">物件隨文字一起移動(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation type="obsolete">只有右邊(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation type="obsolete">緊密(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;relative to</source>
+        <translation type="obsolete">相對於(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;to the right of</source>
+        <translation type="obsolete">右方的(&amp;T)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Absloute &amp;position</source>
@@ -509,6 +549,7 @@
     </message>
     <message>
         <source>Absolute &amp;position</source>
+<<<<<<< HEAD
         <translation>絕對位置(&amp;P)</translation>
     </message>
     <message>
@@ -558,6 +599,57 @@
     <message>
         <source>Horizontal</source>
         <translation>水平</translation>
+=======
+        <translation type="obsolete">絕對位置(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Absolute po&amp;sition</source>
+        <translation type="obsolete">絕對位置(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Advanced Layout</source>
+        <translation type="obsolete">進階配置​​</translation>
+    </message>
+    <message>
+        <source>Al&amp;ignment</source>
+        <translation type="obsolete">對齊方式(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Allow o&amp;verlap</source>
+        <translation type="obsolete">允許重疊(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation type="obsolete">兩邊都要(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation type="obsolete">下(&amp;M):</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="obsolete">底端對齊</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="obsolete">置中對齊</translation>
+    </message>
+    <message>
+        <source>Character</source>
+        <translation type="obsolete">字元</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="obsolete">直條圖</translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation type="obsolete">與文字距離</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="obsolete">水平</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>In &amp;front of text</source>
@@ -565,6 +657,7 @@
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
+<<<<<<< HEAD
         <translation>文字在後(&amp;F)</translation>
     </message>
     <message>
@@ -630,6 +723,73 @@
     <message>
         <source>T&amp;op and bottom</source>
         <translation>上及下​​(&amp;O)</translation>
+=======
+        <translation type="obsolete">文字在後(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation type="obsolete">邊界</translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation type="obsolete">僅最大者(&amp;A)</translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation type="obsolete">左(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="obsolete">靠左對齊</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="obsolete">線段</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="obsolete">邊界</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="obsolete">選項</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation type="obsolete">頁</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="obsolete">頁面</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">段落</translation>
+    </message>
+    <message>
+        <source>Picture Position</source>
+        <translation type="obsolete">圖片位置</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation type="obsolete">右(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="obsolete">靠右對齊</translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation type="obsolete">矩形(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation type="obsolete">穿透​​(&amp;H)</translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation type="obsolete">上及下​​(&amp;O)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -637,6 +797,7 @@
     </message>
     <message>
         <source>Text wrapping</source>
+<<<<<<< HEAD
         <translation>文繞圖</translation>
     </message>
     <message>
@@ -650,6 +811,21 @@
     <message>
         <source>Vertical</source>
         <translation>垂直</translation>
+=======
+        <translation type="obsolete">文繞圖</translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation type="obsolete">上(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="obsolete">靠上對齊</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="obsolete">垂直</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Warp text</source>
@@ -661,6 +837,7 @@
     </message>
     <message>
         <source>Wrap text</source>
+<<<<<<< HEAD
         <translation>自動換列</translation>
     </message>
     <message>
@@ -682,6 +859,25 @@
     <message>
         <source>r&amp;elative to</source>
         <translation>相對於(&amp;E)</translation>
+=======
+        <translation type="obsolete">自動換列</translation>
+    </message>
+    <message>
+        <source>Wrapping style</source>
+        <translation type="obsolete">文繞圖的方式</translation>
+    </message>
+    <message>
+        <source>belo&amp;w</source>
+        <translation type="obsolete">之下(&amp;W)</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="obsolete">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="obsolete">相對於(&amp;E)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -1004,6 +1200,16 @@
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KWpsStylesGalleryModel</name>
+    <message>
+        <source>Style</source>
+        <translation>樣式</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
@@ -1029,7 +1235,11 @@
     </message>
     <message>
         <source>No content</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>無內容</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Paragraph</source>
@@ -1251,6 +1461,107 @@
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxContentControlDlg</name>
+    <message>
+        <source>Bounding Box</source>
+        <translation>週框方塊</translation>
+    </message>
+    <message>
+        <source>Start/End Tag</source>
+        <translation>開始/結束標籤</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+    <message>
+        <source>(All Categories)</source>
+        <translation>(所有類別)</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">一般</translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation>西曆</translation>
+    </message>
+    <message>
+        <source>Text (same as display)</source>
+        <translation>文字 (與顯示相同)</translation>
+    </message>
+    <message>
+        <source>Date (xsd:date)</source>
+        <translation>日期 (xsd:date)</translation>
+    </message>
+    <message>
+        <source>Date and Time (xsd:dateTime)</source>
+        <translation>日期與時間 (xsd:dateTime)</translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation>中文 (台灣)</translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation>英文 (美國)</translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation>日文 (日本)</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation>越南文</translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation>中文 (中國)</translation>
+    </message>
+    <message>
+        <source>Group Properties</source>
+        <translation>群組內容</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentListEntriesDlg</name>
+    <message>
+        <source>Add Choice</source>
+        <translation>新增選項</translation>
+    </message>
+    <message>
+        <source>Modify Choice</source>
+        <translation>修改選擇</translation>
+    </message>
+    <message>
+        <source>Display &amp;Name:</source>
+        <translation>顯示名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation>值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
+        <translation>相同值的項目已經存在 - 每個項目必須指定唯一的值。</translation>
+    </message>
+    <message>
+        <source>Wps</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>Display name cannot be blank.</source>
+        <translation>顯示名稱不能空白。</translation>
+    </message>
+    <message>
+        <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
+        <translation>相同的顯示名稱已經存在 - 每個項目必須指定顯示名稱。</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxContentsDlg</name>
     <message>
         <source>Do you want to replace the selected table of contents?</source>
@@ -1644,11 +1955,19 @@
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+<<<<<<< HEAD
         <translation type="unfinished">新增詞典 %1 時發生錯誤，請檢查檔案格式。</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
         <translation type="unfinished">新增詞典 %1 時發生錯誤，該檔案已經存在。</translation>
+=======
+        <translation>加入字典 %1 時發生錯誤，請檢查檔案格式。</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation>加入字典 %1 時發生錯誤，檔案已經存在。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Create Custom Dictionary</source>
@@ -1680,11 +1999,19 @@
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
+<<<<<<< HEAD
         <translation type="unfinished">不能刪除最後一個詞典！</translation>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
         <translation type="unfinished">自訂詞典數已到達上限。</translation>
+=======
+        <translation>無法刪除最後一個字典。</translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
+        <translation>自訂字典已達上限。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
@@ -1695,22 +2022,38 @@
     <name>KxCustomizeBulletedlistDlg</name>
     <message>
         <source>&amp;Less</source>
+<<<<<<< HEAD
         <translation>更少(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <translation>其他(&amp;M)</translation>
+=======
+        <translation>較少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <translation>更多(&amp;M)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KxCustomizeNumberedListDlg</name>
     <message>
         <source>&amp;Less</source>
+<<<<<<< HEAD
         <translation>更少(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <translation>其他(&amp;M)</translation>
+=======
+        <translation>較少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <translation>更多(&amp;M)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>(None)</source>
@@ -1756,7 +2099,11 @@
     </message>
     <message>
         <source>&amp;Go To</source>
+<<<<<<< HEAD
         <translation>移至(&amp;G)</translation>
+=======
+        <translation>到(&amp;G)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Hidden bookmarks</source>
@@ -1800,7 +2147,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Color:</source>
+<<<<<<< HEAD
         <translation>字型顏色(&amp;C):</translation>
+=======
+        <translation>色彩(&amp;C):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;None</source>
@@ -1996,7 +2347,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>M&amp;ore Colors...</source>
+<<<<<<< HEAD
         <translation>其他色彩(&amp;O)...</translation>
+=======
+        <translation type="obsolete">其他色彩(&amp;O)...</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Patterns</source>
@@ -2369,7 +2724,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Set Language</source>
+<<<<<<< HEAD
         <translation type="unfinished">設置拼字檢查語言(&amp;S)</translation>
+=======
+        <translation>設定語言(&amp;S)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -2499,7 +2858,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Size:</source>
+<<<<<<< HEAD
         <translation>字型大小(&amp;S):</translation>
+=======
+        <translation>大小(&amp;S):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Text (up to 6):</source>
@@ -2595,6 +2958,168 @@ use buttons to apply borders</source>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxDlgContentControl</name>
+    <message>
+        <source>Content Control Properties</source>
+        <translation>內容控制項屬性</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>一般</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation>標題(&amp;T):</translation>
+    </message>
+    <message>
+        <source>T&amp;ag:</source>
+        <translation>標籤(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Show as:</source>
+        <translation>顯示(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation>色彩(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Use a style to format text typed into the empty control</source>
+        <translation>利用樣式為您在空白控制項輸入的文字設定格式(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Style:</source>
+        <translation>樣式(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;New Style...</source>
+        <translation>新增樣式(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove content control when contents are edited</source>
+        <translation>編輯內容時移除內容控制項(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Locking</source>
+        <translation>鎖定</translation>
+    </message>
+    <message>
+        <source>Content control cannot be &amp;deleted</source>
+        <translation>內容控制項無法刪除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Contents cannot be &amp;edited</source>
+        <translation>內容無法編輯(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Plain Text Properties</source>
+        <translation>純文字內容</translation>
+    </message>
+    <message>
+        <source>Allow &amp;carriage returns (multiple paragraphs)</source>
+        <translation>允許換行字元 (多個段落)</translation>
+    </message>
+    <message>
+        <source>Document Building Block Properties</source>
+        <translation>文件建置組塊內容</translation>
+    </message>
+    <message>
+        <source>&amp;Category:</source>
+        <translation>類別(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Gallery:</source>
+        <translation>圖庫(G):</translation>
+    </message>
+    <message>
+        <source>Check Box Properties</source>
+        <translation>核取方塊內容</translation>
+    </message>
+    <message>
+        <source>Checked symbol:</source>
+        <translation>已核取符號:</translation>
+    </message>
+    <message>
+        <source>&amp;Change...</source>
+        <translation>變更(&amp;C)...</translation>
+    </message>
+    <message>
+        <source>Unchecked symbol:</source>
+        <translation>未核取符號:</translation>
+    </message>
+    <message>
+        <source>Cha&amp;nge...</source>
+        <translation>變更(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>Drop-Down &amp;List Properties</source>
+        <translation>下拉式清單內容(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation>顯示名稱</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation>新增(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation>修改(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation>移除(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Move U&amp;p</source>
+        <translation>上移(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Move Do&amp;wn</source>
+        <translation>下移(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Date Picker Properties</source>
+        <translation>日期選擇器內容</translation>
+    </message>
+    <message>
+        <source>Displa&amp;y the date like this:</source>
+        <translation>顯示日期的格式(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>&amp;Locale:</source>
+        <translation>地區設定(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Calendar type:</source>
+        <translation>行事曆類型(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Store &amp;XML contents in the following format when mapped:</source>
+        <translation>對應時以下列格式儲存 XML 內容(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Repeating Section Properties</source>
+        <translation>重複區段屬性</translation>
+    </message>
+    <message>
+        <source>Allow users to add and remove &amp;sections</source>
+        <translation>允許使用者新增和移除區段(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Section tit&amp;le:</source>
+        <translation>區段標題(&amp;L):</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxDlgContents</name>
     <message>
         <source>&amp;Options...</source>
@@ -2786,7 +3311,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>cancel</source>
+<<<<<<< HEAD
         <translation>取消</translation>
+=======
+        <translation type="obsolete">取消</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ed1</source>
@@ -2836,6 +3365,13 @@ use buttons to apply borders</source>
         <source>sp2</source>
         <translation></translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgCrossReference</name>
@@ -2928,6 +3464,7 @@ use buttons to apply borders</source>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>&amp;Add...</source>
+<<<<<<< HEAD
         <translation></translation>
     </message>
     <message>
@@ -2937,6 +3474,17 @@ use buttons to apply borders</source>
     <message>
         <source>&amp;New...</source>
         <translation>新增(&amp;N)...</translation>
+=======
+        <translation>新增(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation>變更(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation>建立(&amp;N)...</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2948,7 +3496,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Custom Dictionary</source>
+<<<<<<< HEAD
         <translation>自訂</translation>
+=======
+        <translation>自訂字典</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Dictionary &amp;list</source>
@@ -2956,11 +3508,19 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Full Path</source>
+<<<<<<< HEAD
         <translation></translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
         <translation></translation>
+=======
+        <translation>完整途徑</translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
+        <translation>變更預設設定(&amp;C)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -3139,10 +3699,13 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>DocumentField Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>&amp;Insert</source>
         <translation type="unfinished">插入(&amp;I)</translation>
     </message>
@@ -3152,7 +3715,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Go To</source>
+<<<<<<< HEAD
         <translation type="unfinished">移至(&amp;G)</translation>
+=======
+        <translation type="unfinished">到(&amp;G)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -3199,10 +3766,13 @@ use buttons to apply borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>When inserted at beginning and end, then counted in. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>OK</source>
         <translation type="unfinished">確定</translation>
     </message>
@@ -3210,6 +3780,17 @@ use buttons to apply borders</source>
         <source>Cancel</source>
         <translation type="unfinished">取消</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Document&amp;Field Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When inserted at beginning and end, then &amp;counted in. </source>
+        <translation type="unfinished"></translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgDrawingGrid</name>
@@ -3467,14 +4048,24 @@ use buttons to apply borders</source>
         <translation>字典(&amp;C)</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Edit Dictionary</source>
         <translation></translation>
+=======
+        <source>编辑字典</source>
+        <translation>編輯辭典</translation>
+    </message>
+    <message>
+        <source>Edit Dictionary</source>
+        <translation type="obsolete">編輯辭典</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
+<<<<<<< HEAD
         <translation type="unfinished">對話方塊</translation>
     </message>
     <message>
@@ -3484,12 +4075,33 @@ use buttons to apply borders</source>
     <message>
         <source>Remember this operation, do not remind anymore</source>
         <translation type="unfinished">記住此操作，不再提醒</translation>
+=======
+        <translation>對話框</translation>
+    </message>
+    <message>
+        <source>Infotip</source>
+        <translation>資訊提示</translation>
+    </message>
+    <message>
+        <source>Remember this operation, do not remind anymore</source>
+        <translation type="obsolete">記住此操作，不再提醒</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The document has applied online font. If your document needs to be circulated, we recommend that you save the font in document. 
 If unnecessary, please click Cancel.</source>
+<<<<<<< HEAD
         <translation type="unfinished">文件中應用了[線上字型]，若您的文件需要傳閱他人，我們建議您將字型保持到文件中。
 若不需要，請按一下[取消]。</translation>
+=======
+        <translation>文件中應用了「雲端字型」，若您的文件需要傳閱他人，
+我們建議您將字體保存到文件中。
+是否將雲端字型保存到文件中？</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation>記住此操作，不再提醒</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -3512,7 +4124,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Text:</source>
+<<<<<<< HEAD
         <translation>內容(&amp;T):</translation>
+=======
+        <translation>字元(&amp;T):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>1</source>
@@ -3560,6 +4176,147 @@ If unnecessary, please click Cancel.</source>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxDlgEnvelopeOption</name>
+    <message>
+        <source>Envelope Options</source>
+        <translation type="obsolete">信封選項</translation>
+    </message>
+    <message>
+        <source>Envelope size:</source>
+        <translation type="obsolete">信封大小</translation>
+    </message>
+    <message>
+        <source>Delivery address</source>
+        <translation type="obsolete">收件者地址</translation>
+    </message>
+    <message>
+        <source>From top:</source>
+        <translation type="obsolete">與頂端距離:</translation>
+    </message>
+    <message>
+        <source>From left:</source>
+        <translation type="obsolete">與左邊距離:</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">自動</translation>
+    </message>
+    <message>
+        <source>Return address</source>
+        <translation type="obsolete">寄件者地址</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="obsolete">預覽</translation>
+    </message>
+    <message>
+        <source>Printing Options</source>
+        <translation type="obsolete">列印選項</translation>
+    </message>
+    <message>
+        <source>Feed method</source>
+        <translation type="obsolete">進紙方式</translation>
+    </message>
+    <message>
+        <source>Face up</source>
+        <translation type="obsolete">正面向上</translation>
+    </message>
+    <message>
+        <source>Face down</source>
+        <translation type="obsolete">正面向下</translation>
+    </message>
+    <message>
+        <source>Clockwise rotation</source>
+        <translation type="obsolete">向右旋轉</translation>
+    </message>
+    <message>
+        <source>Feed from:</source>
+        <translation type="obsolete">紙張來源:</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">重設</translation>
+    </message>
+    <message>
+        <source>Printer:</source>
+        <translation type="obsolete">印表機:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEnvelopesAndLabels</name>
+    <message>
+        <source>Envelopes and Labels</source>
+        <translation type="obsolete">信封及標籤</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation type="obsolete">信封</translation>
+    </message>
+    <message>
+        <source>Delivery address:</source>
+        <translation type="obsolete">收件者地址:</translation>
+    </message>
+    <message>
+        <source>Add electronic postage</source>
+        <translation type="obsolete">新增電子郵資</translation>
+    </message>
+    <message>
+        <source>Return address:</source>
+        <translation type="obsolete">寄件者地址:</translation>
+    </message>
+    <message>
+        <source>Omit</source>
+        <translation type="obsolete">省略</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="obsolete">預覽</translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <translation type="obsolete">進紙</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="obsolete">列印</translation>
+    </message>
+    <message>
+        <source>Add Document</source>
+        <translation type="obsolete">新增至文件</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="obsolete">選項</translation>
+    </message>
+    <message>
+        <source>E-postage Properties</source>
+        <translation type="obsolete">電子郵資內容</translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation type="obsolete">標籤</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">關閉</translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing:</source>
+        <translation type="obsolete">列印之前，將信封插入下列的印表機紙匣.</translation>
+    </message>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="obsolete">使用印表機設定</translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing.</source>
+        <translation type="obsolete">列印之前，將信封插入下列的印表機紙匣.</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxDlgField</name>
     <message>
         <source>&amp;Example:</source>
@@ -3771,8 +4528,13 @@ If unnecessary, please click Cancel.</source>
         <translation type="obsolete">文件​​摘要資訊(&amp;P):</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Add the &amp;path to the file name</source>
         <translation type="unfinished"></translation>
+=======
+        <source>Add &amp;path to filename</source>
+        <translation>將路徑加到檔名(&amp;P)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -3859,11 +4621,19 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Go To</source>
+<<<<<<< HEAD
         <translation>移至(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <translation>其他(&amp;M)</translation>
+=======
+        <translation>到(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <translation>更多(&amp;M)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;More Options</source>
@@ -4084,7 +4854,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Nex&amp;t</source>
+<<<<<<< HEAD
         <translation>下一頁(&amp;T)</translation>
+=======
+        <translation>下一位置(&amp;T)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Object</source>
@@ -4092,11 +4866,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Page</source>
+<<<<<<< HEAD
         <translation>頁面</translation>
     </message>
     <message>
         <source>Previou&amp;s</source>
         <translation>上一步(&amp;S)</translation>
+=======
+        <translation>頁</translation>
+    </message>
+    <message>
+        <source>Previou&amp;s</source>
+        <translation>前一位置(&amp;S)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Re&amp;place</source>
@@ -4144,7 +4926,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Sounds Like(&amp;Japanese)</source>
+<<<<<<< HEAD
         <translation>類似拼音 (日文)(&amp;J)</translation>
+=======
+        <translation>類似音符 (日文)(&amp;J)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Sp&amp;ecial</source>
@@ -4171,8 +4957,17 @@ Example: +4 will move forward four items:</source>
         <translation type="obsolete">找到的項目以醒目提示(&amp;R)</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>replace options</source>
         <translation></translation>
+=======
+        <source>Replace options</source>
+        <translation>取代選項</translation>
+    </message>
+    <message>
+        <source>replace options</source>
+        <translation type="obsolete">取代選項</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -4195,7 +4990,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>find text</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>搜尋文本</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -4238,7 +5037,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Size:</source>
+<<<<<<< HEAD
         <translation>字型大小(&amp;S):</translation>
+=======
+        <translation>大小(&amp;S):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -4396,6 +5199,13 @@ Example: +4 will move forward four items:</source>
         <source>p&amp;oints and above</source>
         <translation>點以上套用(&amp;O)</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation>文字效果​​(&amp;E)...</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgFootAndEndnote</name>
@@ -4651,6 +5461,13 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>UnderLine</source>
+<<<<<<< HEAD
+=======
+        <translation type="obsolete">底線</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation>底線</translation>
     </message>
 </context>
@@ -5298,6 +6115,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>Cancel</source>
+<<<<<<< HEAD
         <translation type="unfinished">取消</translation>
     </message>
     <message>
@@ -5379,6 +6197,161 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>Te&amp;xtboxes</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Field&amp;s</source>
+        <translation>功能變數(&amp;S)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>&amp;Character level</source>
+        <translation>字元階層(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Revised document</source>
+        <translation>修訂的文件(&amp;R)</translation>
+    </message>
+    <message>
+        <source>New doc&amp;ument</source>
+        <translation>新文件(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Word level</source>
+        <translation>文字階層(&amp;W)</translation>
+    </message>
+    <message>
+        <source>White s&amp;pace</source>
+        <translation>空白字元(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Case chan&amp;ges</source>
+        <translation>大小寫轉換(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Comme&amp;nts</source>
+        <translation>註解(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Comparison settings</source>
+        <translation>比較設定</translation>
+    </message>
+    <message>
+        <source>Show changes in:</source>
+        <translation>將變更顯示在:</translation>
+    </message>
+    <message>
+        <source>Show changes</source>
+        <translation>顯示變更</translation>
+    </message>
+    <message>
+        <source>Footnotes and en&amp;dnotes</source>
+        <translation>註腳及章節附註(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Insertions and Deletions</source>
+        <translation>插入與刪除</translation>
+    </message>
+    <message>
+        <source>Original documen&amp;t</source>
+        <translation>原始文件(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Rev&amp;ised document</source>
+        <translation>修訂的文件(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Original document</source>
+        <translation>原始文件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Show changes at:</source>
+        <translation>將變更顯示在:</translation>
+    </message>
+    <message>
+        <source>T&amp;ables</source>
+        <translation>資料表(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Te&amp;xtboxes</source>
+        <translation>文字方塊(&amp;X)</translation>
+    </message>
+    <message>
+        <source>&amp;CharLevel</source>
+        <translation type="obsolete">字元階層(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;ReviseDoc:</source>
+        <translation type="obsolete">修訂的文件(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;UseNewDoc</source>
+        <translation type="obsolete">新文件(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;WordLevel</source>
+        <translation type="obsolete">文字階層(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Blank&amp;Part</source>
+        <translation type="obsolete">空白區域(&amp;P)</translation>
+    </message>
+    <message>
+        <source>CaseChan&amp;ge</source>
+        <translation type="obsolete">大小寫轉換(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Comme&amp;nt</source>
+        <translation type="obsolete">註解(&amp;N)</translation>
+    </message>
+    <message>
+        <source>CompareOption</source>
+        <translation type="obsolete">比較設定</translation>
+    </message>
+    <message>
+        <source>DisplayLocation</source>
+        <translation type="obsolete">將變更顯示在:</translation>
+    </message>
+    <message>
+        <source>DisplayRevision</source>
+        <translation type="obsolete">顯示修訂</translation>
+    </message>
+    <message>
+        <source>FootEn&amp;dNote</source>
+        <translation type="obsolete">註腳及章節附註(&amp;D)</translation>
+    </message>
+    <message>
+        <source>InsertAndDelete</source>
+        <translation type="obsolete">插入和刪除</translation>
+    </message>
+    <message>
+        <source>Loca&amp;teOriginalDoc</source>
+        <translation type="obsolete">原始文件(&amp;T)</translation>
+    </message>
+    <message>
+        <source>LocateRev&amp;iseDoc</source>
+        <translation type="obsolete">修訂后檔案(&amp;I)</translation>
+    </message>
+    <message>
+        <source>OriginalD&amp;oc:</source>
+        <translation type="obsolete">原始文件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>RevisionLevel</source>
+        <translation type="obsolete">修訂的顯示級別</translation>
+    </message>
+    <message>
+        <source>T&amp;able</source>
+        <translation type="obsolete">表格(&amp;A)</translation>
+    </message>
+    <message>
+        <source>TextBo&amp;x</source>
+        <translation type="obsolete">文字方塊(&amp;X)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -5826,7 +6799,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Color:</source>
+<<<<<<< HEAD
         <translation>字型顏色(&amp;C):</translation>
+=======
+        <translation>色彩(&amp;C):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Comments</source>
@@ -5926,7 +6903,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;New Document</source>
+<<<<<<< HEAD
         <translation>新增檔案(&amp;N)</translation>
+=======
+        <translation>新增文件(&amp;N)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
@@ -5946,11 +6927,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
+<<<<<<< HEAD
         <translation type="unfinished">最近使用檔案的清單(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
         <translation>重新輸入密碼(&amp;R):</translation>
+=======
+        <translation>最近使用檔案的清單(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Reenter password:</source>
+        <translation>再次輸入密碼(&amp;R):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Reverse print order</source>
@@ -6054,7 +7043,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Auto d&amp;elete paragraph indent when align center</source>
+<<<<<<< HEAD
         <translation type="unfinished">置中對齊時自動刪除段落縮進(&amp;E)</translation>
+=======
+        <translation>置中對齊時自動刪除段落縮排(&amp;E)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Auto load default language &amp;IME</source>
@@ -6226,11 +7219,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Discern &amp;location</source>
+<<<<<<< HEAD
         <translation>地名分詞(僅對中文有效)(&amp;L)</translation>
     </message>
     <message>
         <source>Discern &amp;person</source>
         <translation>人名分詞(僅對中文有效)(&amp;P)</translation>
+=======
+        <translation type="obsolete">地名分詞(僅對中文有效)(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Discern &amp;person</source>
+        <translation type="obsolete">人名分詞(僅對中文有效)(&amp;P)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -6411,7 +7412,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
+<<<<<<< HEAD
         <translation>幫助我們改進產品。</translation>
+=======
+        <translation type="unfinished">幫助我們改進產品。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Hidden</source>
@@ -6491,7 +7496,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
+<<<<<<< HEAD
         <translation>靠左對齊</translation>
+=======
+        <translation>靠左</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Left border</source>
@@ -6599,7 +7608,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
+<<<<<<< HEAD
         <translation type="unfinished">復原/重複操作步數(&amp;N):</translation>
+=======
+        <translation>復原/取消復原步驟數(&amp;N):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Millimeters</source>
@@ -6743,7 +7756,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
+<<<<<<< HEAD
         <translation>隱私</translation>
+=======
+        <translation type="obsolete">隱私</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Privacy Options</source>
@@ -6775,7 +7792,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
+<<<<<<< HEAD
         <translation>靠右對齊</translation>
+=======
+        <translation>靠右</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Right border</source>
@@ -6907,7 +7928,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Steps(Need restart program)</source>
+<<<<<<< HEAD
         <translation type="unfinished">次(需重啟程序才能生效)</translation>
+=======
+        <translation>次(重新啟動才能生效)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Strikethrough</source>
@@ -6987,7 +8012,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Use the recommended width(&amp;F)</source>
+<<<<<<< HEAD
         <translation type="unfinished">使用推薦寬度(&amp;F)</translation>
+=======
+        <translation>使用建議的寬度(&amp;F)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>User Information</source>
@@ -7043,6 +8072,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Set default target out&amp;put to:</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7056,6 +8086,21 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>96 ppi</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>將預設目標輸出設為(&amp;P):</translation>
+    </message>
+    <message>
+        <source>220 ppi</source>
+        <translation>220 ppi</translation>
+    </message>
+    <message>
+        <source>150 ppi</source>
+        <translation>150 ppi</translation>
+    </message>
+    <message>
+        <source>96 ppi</source>
+        <translation>96 ppi</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Create &amp;backup file at the first save</source>
@@ -7063,7 +8108,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>字體預覽框（&amp;O）</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>AutoNumber</source>
@@ -7071,11 +8120,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
+<<<<<<< HEAD
         <translation type="unfinished">第一次儲存時，建立備份檔案(&amp;B)</translation>
     </message>
     <message>
         <source>Do &amp;not compress images in file</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>第一次儲存時，建立備份檔案(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Do &amp;not compress images in file</source>
+        <translation>不要壓縮檔案中的影像(&amp;N)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Recent Documents</source>
@@ -7083,7 +8140,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>提醒文件中嵌入雲端字型(&amp;C)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -7095,6 +8156,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7112,11 +8174,145 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>File sharing options for this document:</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>顯示工作列上的視窗(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation>密碼保護</translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation>按一下 [進階] 按鈕選擇不同的加密類型，可以為您的文件設定不同層級的加密保護。</translation>
+    </message>
+    <message>
+        <source>File encryption options for this document:</source>
+        <translation>這份文件的檔案加密選項:</translation>
+    </message>
+    <message>
+        <source>File sharing options for this document:</source>
+        <translation>這份文件的檔案共用選項:</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>D&amp;ocument fields</source>
         <translation type="unfinished"></translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Compatibility options</source>
+        <translation>相容選項</translation>
+    </message>
+    <message>
+        <source>Compatibilit&amp;y options for:</source>
+        <translation>套用於(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Split &amp;apart page break and paragraph mark</source>
+        <translation>分割分頁符號及段落標記(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>訂閱 WPS 熱點</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>當日顯示(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>一周後顯示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>不要再顯示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Font Preview Label</source>
+        <translation type="obsolete">字體預覽框(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>按滑鼠右鍵時顯示浮動工具列(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>選取時顯示浮動工具列(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Discern &amp;person(only effective in Chinese)</source>
+        <translation>人名分詞（僅對中文有效）(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Discern &amp;location(only effective in Chinese)</source>
+        <translation>地名分詞（僅對中文有效）(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;如何去除其他廣告？了解新的變化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>回應</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">加入使用者經歷改進計劃，以幫助改進和完善 WPS Office。</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">語言</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">自動下載與更新語言套件</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="obsolete">選擇顯示與說明語言</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="obsolete">選擇...</translation>
+    </message>
+    <message>
+        <source>&amp;FontPreview Label</source>
+        <translation type="obsolete">字體預覽框(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght clicked minitool bar</source>
+        <translation type="obsolete">按滑鼠右鍵時顯示浮動工具列(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Selecte&amp;d content minitool bar</source>
+        <translation type="obsolete">選取時顯示浮動工具列(&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPSMinisite</source>
+        <translation type="obsolete">訂閱 WPS 熱點</translation>
+    </message>
+    <message>
+        <source>E&amp;verydayShow</source>
+        <translation type="obsolete">當日顯示(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Ever&amp;yweekShow</source>
+        <translation type="obsolete">一周後再顯示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never&amp;AutoShow</source>
+        <translation type="obsolete">不要再顯示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="obsolete">快速鍵</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="obsolete">自訂快速鍵:</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -7126,7 +8322,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Less</source>
+<<<<<<< HEAD
         <translation>更少(&amp;L)</translation>
+=======
+        <translation>較少(&amp;L)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Position:</source>
@@ -7162,7 +8362,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
+<<<<<<< HEAD
         <translation>靠左對齊</translation>
+=======
+        <translation>左</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Middle</source>
@@ -7194,7 +8398,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
+<<<<<<< HEAD
         <translation>靠右對齊</translation>
+=======
+        <translation>右</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Start &amp;at:</source>
@@ -7457,7 +8665,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
+<<<<<<< HEAD
         <translation>靠左對齊</translation>
+=======
+        <translation>靠左</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Line &amp;between</source>
@@ -7589,7 +8801,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Top</source>
+<<<<<<< HEAD
         <translation>靠上對齊</translation>
+=======
+        <translation>靠上</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Use &amp;character units</source>
@@ -7720,7 +8936,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Bottom</source>
+<<<<<<< HEAD
         <translation>底端對齊</translation>
+=======
+        <translation>向下</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Center</source>
@@ -7748,7 +8968,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Exactly</source>
+<<<<<<< HEAD
         <translation>固定值</translation>
+=======
+        <translation>固定行高</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>First line</source>
@@ -7840,7 +9064,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Multiple, 2, 0.06, 132, 0.5</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>多行</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Page &amp;break before</source>
@@ -7872,7 +9100,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Single</source>
+<<<<<<< HEAD
         <translation>單倍行高</translation>
+=======
+        <translation>單行間距</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
@@ -7888,7 +9120,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Top</source>
+<<<<<<< HEAD
         <translation>靠上對齊</translation>
+=======
+        <translation>向上</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Widow/Orphan &amp;control</source>
@@ -7955,7 +9191,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Size:</source>
+<<<<<<< HEAD
         <translation>字型大小(&amp;S):</translation>
+=======
+        <translation>大小(&amp;S):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Tone</source>
@@ -8176,6 +9416,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Zoom</source>
         <translation>並行列印和縮放</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>如何解決印表機的問題？</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgProtectDocument</name>
@@ -8408,7 +9655,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Bottom</source>
+<<<<<<< HEAD
         <translation>底端對齊</translation>
+=======
+        <translation>下</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Center</source>
@@ -8416,7 +9667,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Column</source>
+<<<<<<< HEAD
         <translation>直條圖</translation>
+=======
+        <translation>欄</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Distance form surrounding text</source>
@@ -8436,7 +9691,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Left</source>
+<<<<<<< HEAD
         <translation>靠左對齊</translation>
+=======
+        <translation>左</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Margin</source>
@@ -8452,7 +9711,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Page</source>
+<<<<<<< HEAD
         <translation>頁面</translation>
+=======
+        <translation>整個頁面</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Paragraph</source>
@@ -8468,7 +9731,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Right</source>
+<<<<<<< HEAD
         <translation>靠右對齊</translation>
+=======
+        <translation>右</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Table Positioning</source>
@@ -8476,7 +9743,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Top</source>
+<<<<<<< HEAD
         <translation>靠上對齊</translation>
+=======
+        <translation>上</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Vertical</source>
@@ -8587,7 +9858,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Exactly</source>
+<<<<<<< HEAD
         <translation>固定值</translation>
+=======
+        <translation>設定</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Options</source>
@@ -8762,7 +10037,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Appl&amp;y to:</source>
+<<<<<<< HEAD
         <translation>套用至(&amp;Y):</translation>
+=======
+        <translation>套用於(&amp;Y):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Preview </source>
@@ -8774,7 +10053,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Text direction</source>
+<<<<<<< HEAD
         <translation>本文方向</translation>
+=======
+        <translation>直書/橫書</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTextEffects</name>
+    <message>
+        <source>Format Text Effects</source>
+        <translation>文字效果格式</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>確定</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -8864,7 +10158,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Text:</source>
+<<<<<<< HEAD
         <translation>內容(&amp;T):</translation>
+=======
+        <translation>文字(&amp;T):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -8933,6 +10231,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Field name record delimiter</source>
@@ -9077,6 +10376,199 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Record delimiter:</source>
         <translation type="unfinished"></translation>
+=======
+    <name>KxDlgWpsConvertPrompt</name>
+    <message>
+        <source>Convert</source>
+        <translation>轉換</translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to newest file format.
+
+While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
+        <translation>您的文件將升級至最新的檔案格式。
+
+這可能會造成少許的版面配置變更。如果您傾向不升級，請按下 [取消]。
+轉換讓您可以使用 WPS Writer 所有新功能並縮減檔案大小。轉換的版本將會取代此文件。</translation>
+    </message>
+    <message>
+        <source>Do not ask me again about converting documents.</source>
+        <translation>不要再問我是否轉換文件</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsFieldNameDelimiter</name>
+    <message>
+        <source>(None)</source>
+        <translation>(無)</translation>
+    </message>
+    <message>
+        <source>(Paragraph mark)</source>
+        <translation>(段落標記)</translation>
+    </message>
+    <message>
+        <source>(Tabs)</source>
+        <translation>(定位點)</translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation>,</translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation>.</translation>
+    </message>
+    <message>
+        <source>!</source>
+        <translation>!</translation>
+    </message>
+    <message>
+        <source>#</source>
+        <translation>#</translation>
+    </message>
+    <message>
+        <source>$</source>
+        <translation>$</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;</source>
+        <translation>&amp;</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation>(</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation>)</translation>
+    </message>
+    <message>
+        <source>*</source>
+        <translation>*</translation>
+    </message>
+    <message>
+        <source>+</source>
+        <translation>+</translation>
+    </message>
+    <message>
+        <source>-</source>
+        <translation>-</translation>
+    </message>
+    <message>
+        <source>/</source>
+        <translation>/</translation>
+    </message>
+    <message>
+        <source>:</source>
+        <translation>:</translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation>;</translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation>&lt;</translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation>=</translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation>&gt;</translation>
+    </message>
+    <message>
+        <source>?</source>
+        <translation>?</translation>
+    </message>
+    <message>
+        <source>@</source>
+        <translation>@</translation>
+    </message>
+    <message>
+        <source>[</source>
+        <translation>[</translation>
+    </message>
+    <message>
+        <source>]</source>
+        <translation>]</translation>
+    </message>
+    <message>
+        <source>^</source>
+        <translation>^</translation>
+    </message>
+    <message>
+        <source>_</source>
+        <translation>_</translation>
+    </message>
+    <message>
+        <source>`</source>
+        <translation>`</translation>
+    </message>
+    <message>
+        <source>{</source>
+        <translation>{</translation>
+    </message>
+    <message>
+        <source>}</source>
+        <translation>}</translation>
+    </message>
+    <message>
+        <source>|</source>
+        <translation>|</translation>
+    </message>
+    <message>
+        <source>~</source>
+        <translation>~</translation>
+    </message>
+    <message>
+        <source>Header Record Delimiters</source>
+        <translation>資料名稱記錄分隔</translation>
+    </message>
+    <message>
+        <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
+        <translation>資料欄必須以欄位分隔符號相互隔開，而資料列也必須以列分隔符號隔開，請由下列清單選擇適當的分隔符號。</translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter:</source>
+        <translation>欄位分隔符號:(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Record delimiter:</source>
+        <translation>記錄分隔符號:(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Field delimiter: </source>
+        <translation type="obsolete">欄位分隔符號:(&amp;F)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation>保留相容性提示汽球</translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you&apos;ll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation>您的文件將升級至最新的檔案格式。
+
+雖然您將可使用 WPS Writer 中的所有新功能，但可能會有少許的版面配置變更。
+如果您傾向不升級，請按下 [取消] 並核取維持相容性核取方塊。</translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
+        <translation>不要再問我</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -9103,11 +10595,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Set as &amp;Default Printer</source>
+<<<<<<< HEAD
         <translation>設定為預設印表機(&amp;D)</translation>
     </message>
     <message>
         <source>Setting the default printer or options will affect WPS Writer and all other Windows-based applications.</source>
         <translation type="unfinished">設置預設印表機或選項會影響 WPS 和所有其他基於 Windows 的應用程序。</translation>
+=======
+        <translation>設成預設的印表機(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Setting the default printer or options will affect WPS Writer and all other Windows-based applications.</source>
+        <translation>設定的預設印表機或選項，將會影響 WPS Writer 和其他所有 Windows 應用程式。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -9249,6 +10749,25 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>pt</source>
         <translation>點</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>+Heading</source>
+        <translation>+標題</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation>+本文</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation>+標題中文字型</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation>+本文中文字型</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDropDownFormFieldDlg</name>
@@ -9304,6 +10823,53 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxEnvelopeOptionDlg</name>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="obsolete">使用印表機設定</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
+        <translation type="obsolete">您已經改變 WPS Writer 在此印表機之預設信封控制方式 這些變更並不正確。請選擇 [重設] 以恢復 WPS 預設值。</translation>
+    </message>
+    <message>
+        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
+        <translation type="obsolete">WPS Writer 建議如上放入信封。
+若此方法不適用於您的印表機，請選擇正確的送紙方式。</translation>
+    </message>
+    <message>
+        <source>You have changed WPS Writer&apos;s default envelope handling method for this printer. These changes could be incorrect. Choose Reset to return to WPS Writer defaults.</source>
+        <translation type="obsolete">您已經改變 WPS Writer 在此印表機之預設信封控制方式 這些變更並不正確。請選擇 [重設] 以恢復 WPS 預設值。</translation>
+    </message>
+    <message>
+        <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
+        <translation type="obsolete">WPS Writer 建議如上放入信封。
+若此方法不適用於您的印表機，請選擇正確的送紙方式。</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="obsolete">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnvelopesAndLabelsDlg</name>
+    <message>
+        <source>Change Document</source>
+        <translation type="obsolete">更改文件</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxExpUserListPanel</name>
     <message>
         <source>&amp;Find Next Region This User Can Edit</source>
@@ -9331,6 +10897,99 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxExportToOFDDlg</name>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="unfinished">請輸入權限設定密碼!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">確認密碼不相符。</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <translation type="unfinished">權限設定密碼和文件開啟密碼不能相同。</translation>
+    </message>
+    <message>
+        <source>Please specify the file name.</source>
+        <translation type="unfinished">請指定檔案名稱。</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">檔案與此目錄具有相同的名稱。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定的目錄不存在。</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="unfinished">您無權在此目錄中寫入檔案。</translation>
+    </message>
+    <message>
+        <source>Save OFD File As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing file?</source>
+        <translation type="unfinished">您指定的檔案已存在，是否要取代現有檔案並繼續?</translation>
+    </message>
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation type="unfinished">並非有效的頁面範圍。</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to OFD.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">關閉</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <translation type="unfinished">正在匯出摘要資訊...</translation>
+    </message>
+    <message>
+        <source>Exporting page %1...</source>
+        <translation type="unfinished">正在處理第 %1 頁...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">正在匯出標籤...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxExportToPDFDlg</name>
     <message>
         <source>Confirmation password does not match.</source>
@@ -9392,6 +11051,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>You have no permission to write files into this directory.</source>
         <translation>您無權在此目錄中寫入檔案。</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>This is not a valid page range.</source>
+        <translation>並非有效的頁面範圍。</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
@@ -9493,7 +11159,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Insert a mail merge field</source>
         <comment>wps-&gt; insert field -&gt; mergefield</comment>
+<<<<<<< HEAD
         <translation type="unfinished">插入郵件合併功能變數</translation>
+=======
+        <translation>插入合併列印功能變數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Insert a picture from a file</source>
@@ -9542,7 +11212,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>MergeField</source>
         <comment>wps-&gt; insert field</comment>
+<<<<<<< HEAD
         <translation type="unfinished">郵件合併</translation>
+=======
+        <translation>合併欄位</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>NumPages</source>
@@ -9554,7 +11228,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Open and activate the file Kingsoft.wps under the C drive.</source>
+<<<<<<< HEAD
         <translation type="obsolete">開啟並啟動 C 磁碟機下的 KingSoft.wps 檔案。</translation>
+=======
+        <translation type="obsolete">開啟並啟動 C 磁碟機下的 Kingsoft.wps 檔案。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -9582,11 +11260,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume set the Kingsoft variable assignment as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+<<<<<<< HEAD
         <translation type="obsolete">假設先在 VBA 中為 KingSoft 變數賦值 100。功能變數代碼: DOCVARIABLE Kingsoft</translation>
     </message>
     <message>
         <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
         <translation>假設先在 VBA 中為 KingSoft 變數賦值 100。功能變數代碼: DOCVARIABLE Kingsoft</translation>
+=======
+        <translation type="obsolete">假設先在 VBA 中給 Kingsoft 變異值賦值給了 100。功能變數代碼:DOCVARIABLE Kingsoft</translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
+        <translation type="obsolete">假設先在 VBA 中為 KingSoft 變數賦值 100。功能變數代碼: DOCVARIABLE Kingsoft</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK C:\\KingSoft.wps</source>
@@ -9594,7 +11280,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Presume the Kingsoft.wps is in C drive. Field code:HYPERLINK C:\\Kingsoft.wps</source>
+<<<<<<< HEAD
         <translation type="obsolete">假設 C 磁碟機有 KingSoft.wps 檔案。功能變數代碼: HYPERLINK &quot;C:\\Kingsoft.wps&quot;</translation>
+=======
+        <translation type="obsolete">假設 C 磁碟機有 Kingsoft.wps 檔案。功能變數代碼: HYPERLINK &quot;C:\\Kingsoft.wps&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Presume the author of this document is WPS. Field code: DOCPPROPERTY Author</source>
@@ -9603,7 +11293,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Presume the document has opened a database which has the &quot;Company&quot; field. Field code:MERGEFIELD &quot;Company&quot;</source>
         <comment>wps-&gt; insert field -&gt; mergefield</comment>
+<<<<<<< HEAD
         <translation type="unfinished">假設文件開啟了一個帶有&quot;公司&quot;功能變數的數據庫。功能變數代碼：MERGEFIELD &quot;公司&quot;</translation>
+=======
+        <translation>假定文件開啟了一個帶有&quot;公司&quot;功能變數的資料庫。功能變數代碼：MERGEFIELD &quot;公司&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Presume the last print date is August 8 of 2008. Field code:PrintDate \@ yyyy-M-d</source>
@@ -9703,7 +11397,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>/</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation type="unfinished">/</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>root directory</source>
@@ -9730,6 +11428,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;.Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9760,13 +11459,105 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Document &amp;property:</source>
         <translation type="unfinished">文件​​摘要資訊(&amp;P):</translation>
+=======
+        <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
+        <translation>假定此檔案的名稱為[Doc1.doc].功能變數代碼: FILENAME</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation>檔名</translation>
+    </message>
+    <message>
+        <source>Forma&amp;t:</source>
+        <translation>格式(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Document &amp;property:</source>
+        <translation>文件​​摘要資訊(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Presume the Kingsoft variable assignment is set as 100 in VBA. Field code:DOCVARIABLE Kingsoft</source>
+        <translation>假設先在 VBA 中為 Kingsoft 變數賦值 100。功能變數代碼: DOCVARIABLE Kingsoft</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Text</source>
+        <translation>插入文字</translation>
+    </message>
+    <message>
+        <source>Insert text from file</source>
+        <translation>從檔案插入文字</translation>
+    </message>
+    <message>
+        <source>Insert file name of the document</source>
+        <translation>插入檔案的名稱</translation>
+    </message>
+    <message>
+        <source>(Nothing)</source>
+        <translation>(無)</translation>
+    </message>
+    <message>
+        <source>Upper</source>
+        <translation>大寫</translation>
+    </message>
+    <message>
+        <source>Lower</source>
+        <translation>小寫</translation>
+    </message>
+    <message>
+        <source>FirstCap</source>
+        <translation>第一個字母大寫</translation>
+    </message>
+    <message>
+        <source>Caps</source>
+        <translation>標題大寫</translation>
+    </message>
+    <message>
+        <source>SBCHAR</source>
+        <translation>半形...</translation>
+    </message>
+    <message>
+        <source>DBCHAR</source>
+        <translation>全形...</translation>
+    </message>
+    <message>
+        <source>Insert text to from a file</source>
+        <translation type="obsolete">從檔案插入文字</translation>
+    </message>
+    <message>
+        <source>Presume a file&apos;s url is &quot;d:\\wps.doc&quot;. Field code: INCLUDETEXT &quot;d:\\wps.doc&quot;</source>
+        <translation type="obsolete">假定檔案的路徑為[d:\\wps.doc]. 功能變數代碼:INCLUDETEXT &quot;d:\\wps.doc&quot;</translation>
+    </message>
+    <message>
+        <source>Presume the file path of this document is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert part of a file by using OLE</source>
+        <translation type="unfinished"></translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KxFindReplaceDlg</name>
     <message>
         <source>%1 is not a valid special character for the Find What box.</source>
+<<<<<<< HEAD
         <translation>%1 不是可用於“尋找內容”框的有效特殊字元</translation>
+=======
+        <translation>%1 在 [尋找目標] 中不是一個有效的特殊字元</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Any &amp;Character</source>
@@ -9846,7 +11637,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Less</source>
+<<<<<<< HEAD
         <translation>更少(&amp;L)</translation>
+=======
+        <translation>較少(&amp;L)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Main Document</source>
@@ -9854,7 +11649,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;More</source>
+<<<<<<< HEAD
         <translation>其他(&amp;M)</translation>
+=======
+        <translation>更多(&amp;M)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;More Options</source>
@@ -9994,7 +11793,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Any &amp;Character</source>
+<<<<<<< HEAD
         <translation>任一字元</translation>
+=======
+        <translation>任一字元(&amp;C)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Any Di&amp;git</source>
@@ -10030,7 +11833,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Current Selection</source>
+<<<<<<< HEAD
         <translation>目前的選取</translation>
+=======
+        <translation>目前的選取範圍</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Document</source>
@@ -10050,7 +11857,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Fiel&amp;d</source>
+<<<<<<< HEAD
         <translation>欄位(&amp;D)</translation>
+=======
+        <translation>功能變數(&amp;D)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Find Font</source>
@@ -10090,11 +11901,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Go &amp;To</source>
+<<<<<<< HEAD
         <translation>移至</translation>
     </message>
     <message>
         <source>Graph&amp;ic</source>
         <translation>圖形</translation>
+=======
+        <translation>到(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Graph&amp;ic</source>
+        <translation>圖形(&amp;I)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Headers and Footers</source>
@@ -10186,7 +12005,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Nex&amp;t</source>
+<<<<<<< HEAD
         <translation>下一頁(&amp;T)</translation>
+=======
+        <translation>下一位置(&amp;T)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>No Highlight</source>
@@ -10222,7 +12045,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Search options:</source>
+<<<<<<< HEAD
         <translation>搜尋選項:</translation>
+=======
+        <translation>選項:</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Section &amp;Break</source>
@@ -10298,6 +12125,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Writer Cannot replace the found item with text containing a break.</source>
+<<<<<<< HEAD
         <translation type="obsolete">KingSoft Writer無法以內含分頁符號的文字取代找到的項目。</translation>
     </message>
     <message>
@@ -10307,6 +12135,17 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>WPS Writer could not determine the destination.</source>
         <translation>KingSoft Writer無法決定目標。</translation>
+=======
+        <translation type="obsolete">Kingsoft Writer無法以內含分頁符號的文字取代找到的項目。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot replace the found item with text containing a break.</source>
+        <translation>WPS Writer無法以內含分頁符號的文字取代找到的項目。</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not determine the destination.</source>
+        <translation>WPS Writer無法決定目標。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Writer found %1 items matching this criteria</source>
@@ -10326,11 +12165,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Writer has finished searching the document.</source>
+<<<<<<< HEAD
         <translation type="obsolete">KingSoft Writer已完成文件的搜尋</translation>
     </message>
     <message>
         <source>WPS Writer has finished searching the document. The search item was not found.</source>
         <translation type="obsolete">KingSoft Writer已結束搜尋。找不到要搜尋的項目。</translation>
+=======
+        <translation type="obsolete">Kingsoft Writer已完成文件的搜尋</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document. The search item was not found.</source>
+        <translation type="obsolete">Kingsoft Writer已結束搜尋。找不到要搜尋的項目。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Writer highlighted %1 items. To clear highlighting, click Reading Highlight and then click Clear Highlighting.</source>
@@ -10436,11 +12283,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxFontDlg</name>
     <message>
         <source>(None)</source>
+<<<<<<< HEAD
         <translation>(無)</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
         <translation>(使用中文字型)</translation>
+=======
+        <translation type="obsolete">(無)</translation>
+    </message>
+    <message>
+        <source>(Use Asian text font)</source>
+        <translation type="obsolete">(使用中文字型)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>(none) .</source>
@@ -10448,6 +12303,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
+<<<<<<< HEAD
         <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
@@ -10461,11 +12317,30 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Bold Italic</source>
         <translation>粗體 斜體</translation>
+=======
+        <translation type="obsolete">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>Asian text fo&amp;nt:</source>
+        <translation type="obsolete">中文字型(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="obsolete">粗體</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="obsolete">粗體 斜體</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Do you want to change the default settings for font?
 This change will affect all new documents based on the %1 template.</source>
+<<<<<<< HEAD
         <translation>您要變更預設的字型設定嗎?
+=======
+        <translation type="obsolete">您要變更預設的字型設定嗎?
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 此變更將影響所有以 %1 為範本的新文件。</translation>
     </message>
     <message>
@@ -10476,11 +12351,19 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Italic</source>
+<<<<<<< HEAD
         <translation>斜體</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
         <translation>英文字型(&amp;X):</translation>
+=======
+        <translation type="obsolete">斜體</translation>
+    </message>
+    <message>
+        <source>Latin text &amp;font:</source>
+        <translation type="obsolete">英文字型(&amp;X):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Measured value must be between %1 pt and %2 pt</source>
@@ -10488,6 +12371,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Measurement must be between %1 pt and %2 pt</source>
+<<<<<<< HEAD
         <translation>度量值必須介於 %1 點 和 %2 點之間。</translation>
     </message>
     <message>
@@ -10501,6 +12385,21 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>Regular</source>
         <translation>標準</translation>
+=======
+        <translation type="obsolete">度量值必須介於 %1 點 和 %2 點之間。</translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="obsolete">非粗體</translation>
+    </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="obsolete">非斜體</translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation type="obsolete">標準</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Save Failed, Normal Template is occupied.</source>
@@ -10508,11 +12407,19 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
+<<<<<<< HEAD
         <translation>變更失敗，Normal 範本被占用。</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
         <translation>您的系統沒有 %1 字型，因此顯示的是替代字型，仍要使用該字型嗎?</translation>
+=======
+        <translation type="obsolete">變更失敗，Normal 範本被占用。</translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation type="obsolete">您的系統沒有 %1 字型，因此顯示的是替代字型，仍要使用該字型嗎?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The font style is imitated for display. The closest matching style will be printed.</source>
@@ -10520,7 +12427,11 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
+<<<<<<< HEAD
         <translation>數字必須介於 %1 和 %2 之間。</translation>
+=======
+        <translation type="obsolete">數字必須介於 %1 和 %2 之間。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -10528,11 +12439,19 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This font has not been installed. The most similar available font will be printed.</source>
+<<<<<<< HEAD
         <translation>尚未安裝此字型。列印時將採用最相近的有效字型。</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
         <translation>字型樣式名稱不存在。</translation>
+=======
+        <translation type="obsolete">尚未安裝此字型。列印時將採用最相近的有效字型。</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="obsolete">字型樣式名稱不存在。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This font style name does not exist.</source>
@@ -10544,6 +12463,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
+<<<<<<< HEAD
         <translation>此為 TrueType 字型，該字型可用於印表機列印與螢幕顯示。</translation>
     </message>
     <message>
@@ -10553,6 +12473,33 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>This is not a valid number.</source>
         <translation>這不是一個正確的號碼。</translation>
+=======
+        <translation type="obsolete">此為 TrueType 字型，該字型可用於印表機列印與螢幕顯示。</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="obsolete">這是無效的度量單位。</translation>
+    </message>
+    <message>
+        <source>This is not a valid number.</source>
+        <translation type="obsolete">這不是一個正確的號碼。</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="obsolete">+標題中文字型</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="obsolete">+本文中文字型</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="obsolete">+標題</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="obsolete">+本文</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -10627,6 +12574,23 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>轉換</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation>屬性</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxFormatRestrictionsDlg</name>
     <message>
         <source>All styles</source>
@@ -10634,7 +12598,11 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Built-in</source>
+<<<<<<< HEAD
         <translation>內建</translation>
+=======
+        <translation>內建樣式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The All Styles</source>
@@ -10670,17 +12638,41 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxGenkoSettingDlg</name>
     <message>
         <source>The selected paper is too small, Genko is invalid!</source>
         <translation>頁面尺寸太小，稿紙方式無效!</translation>
     </message>
 </context>
+=======
+    <name>KxFormattingTp</name>
+    <message>
+        <source>Format Text</source>
+        <translation>格式化文字</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation>格式化圖案</translation>
+    </message>
+</context>
+<context>
+    <name>KxGenkoSettingDlg</name>
+    <message>
+        <source>The selected paper is too small, Genko is invalid!</source>
+        <translation>頁面尺寸太小，稿紙方式無效!</translation>
+    </message>
+</context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 <context>
     <name>KxHighlightColorModel</name>
     <message>
         <source>No Color</source>
+<<<<<<< HEAD
         <translation>無顏色</translation>
+=======
+        <translation>無</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -11042,6 +13034,7 @@ This change will affect all the new documents based on the %1 template.</source>
     <name>KxMergeCompareDlg</name>
     <message>
         <source>Author</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11095,6 +13088,105 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>Open</source>
         <translation type="unfinished">開啟</translation>
+=======
+        <translation>作者</translation>
+    </message>
+    <message>
+        <source>browse...</source>
+        <translation>瀏覽...</translation>
+    </message>
+    <message>
+        <source>Need to save the changes of &quot;%1&quot; before comparing documents, please save the document.</source>
+        <translation>在文件比較前需要保存對&quot;%1&quot;文件的更改，請保存文件。</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Less</source>
+        <translation>&lt;&lt; 較少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Cannot compare the unsaved read-only document.</source>
+        <translation>無法比較未保存的只讀文件。</translation>
+    </message>
+    <message>
+        <source>WPS Writer found no differences between the two documents.</source>
+        <translation>WPS Writer 在兩份文件之間找不到差異。</translation>
+    </message>
+    <message>
+        <source>Merge Documents</source>
+        <translation>合併文件</translation>
+    </message>
+    <message>
+        <source>&amp;More&gt;&gt;</source>
+        <translation>更多(&amp;M)&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Lab&amp;el changes with</source>
+        <translation>標記變更(&amp;E)</translation>
+    </message>
+    <message>
+        <source>La&amp;bel changes with</source>
+        <translation>標記變更(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Lab&amp;el unmarked changes with:</source>
+        <translation>標記未標示的變更(&amp;E):</translation>
+    </message>
+    <message>
+        <source>La&amp;bel unmarked changes with:</source>
+        <translation>標記未標示的變更(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Compare Documents</source>
+        <translation>文件版本比較</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>開啟</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; Less(&amp;L)</source>
+        <translation type="obsolete">&lt;&lt; 更少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Can&apos;t compare a unsaved read only file.</source>
+        <translation type="obsolete">無法比較一個未保存的只讀文件。</translation>
+    </message>
+    <message>
+        <source>Difference not found</source>
+        <translation type="obsolete">WPS 在兩份文件之間找不到差異。</translation>
+    </message>
+    <message>
+        <source>Merge documents</source>
+        <translation type="obsolete">合併文件</translation>
+    </message>
+    <message>
+        <source>More(&amp;M) &gt;&gt;</source>
+        <translation type="obsolete">更多(&amp;M) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>R&amp;eviserBeDisplayed:</source>
+        <translation type="obsolete">標記變更(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Reviser&amp;BeDisplayed:</source>
+        <translation type="obsolete">標記變更(&amp;B)</translation>
+    </message>
+    <message>
+        <source>UnmarkedR&amp;eviserBeDisplayed:</source>
+        <translation type="obsolete">標記未標示的變更(&amp;E)</translation>
+    </message>
+    <message>
+        <source>UnmarkedReviser&amp;BeDisplayed:</source>
+        <translation type="obsolete">標記未標示的變更(&amp;B)</translation>
+    </message>
+    <message>
+        <source>compare documents</source>
+        <translation type="obsolete">文件版本比較</translation>
+    </message>
+    <message>
+        <source>open</source>
+        <translation type="obsolete">開啟</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -11206,6 +13298,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>0#</source>
+<<<<<<< HEAD
         <translation>初號</translation>
     </message>
     <message>
@@ -11219,6 +13312,21 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>1-#</source>
         <translation>小一</translation>
+=======
+        <translation type="obsolete">初號</translation>
+    </message>
+    <message>
+        <source>0-#</source>
+        <translation type="obsolete">小初</translation>
+    </message>
+    <message>
+        <source>1#</source>
+        <translation type="obsolete">一號</translation>
+    </message>
+    <message>
+        <source>1-#</source>
+        <translation type="obsolete">小一</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>1.5 line space</source>
@@ -11230,6 +13338,7 @@ This change will affect all the new documents based on the %1 template.</source>
     </message>
     <message>
         <source>2#</source>
+<<<<<<< HEAD
         <translation>二號</translation>
     </message>
     <message>
@@ -11271,6 +13380,49 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>8#</source>
         <translation>八號</translation>
+=======
+        <translation type="obsolete">二號</translation>
+    </message>
+    <message>
+        <source>2-#</source>
+        <translation type="obsolete">小二</translation>
+    </message>
+    <message>
+        <source>3#</source>
+        <translation type="obsolete">三號</translation>
+    </message>
+    <message>
+        <source>3-#</source>
+        <translation type="obsolete">小三</translation>
+    </message>
+    <message>
+        <source>4#</source>
+        <translation type="obsolete">四號</translation>
+    </message>
+    <message>
+        <source>4-#</source>
+        <translation type="obsolete">小四</translation>
+    </message>
+    <message>
+        <source>5#</source>
+        <translation type="obsolete">五號</translation>
+    </message>
+    <message>
+        <source>5-#</source>
+        <translation type="obsolete">小五</translation>
+    </message>
+    <message>
+        <source>6#</source>
+        <translation type="obsolete">六號</translation>
+    </message>
+    <message>
+        <source>7#</source>
+        <translation type="obsolete">七號</translation>
+    </message>
+    <message>
+        <source>8#</source>
+        <translation type="obsolete">八號</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Bold, </source>
@@ -11327,7 +13479,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Itatic, </source>
+<<<<<<< HEAD
         <translation>斜體,</translation>
+=======
+        <translation type="obsolete">斜體,</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Justify alignment</source>
@@ -11465,6 +13621,93 @@ Cancel:	Return to the dialog.</source>
         <source>yi hao</source>
         <translation type="obsolete">一號</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation>初號</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation>小初</translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation>一號</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation>小一</translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation>二號</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation>小二</translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation>三號</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation>小三</translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation>四號</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation>小四</translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation>五號</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation>小五</translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation>六號</translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation>七號</translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation>八號</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation>斜體,</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation>+標題中文字型</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation>+本文中文字型</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation>+標題</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation>+本文</translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation>文字效果​​(&amp;E)...</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -11517,6 +13760,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>0#</source>
+<<<<<<< HEAD
         <translation>0#</translation>
     </message>
     <message>
@@ -11530,6 +13774,21 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>1-#</source>
         <translation>小一</translation>
+=======
+        <translation type="obsolete">初號</translation>
+    </message>
+    <message>
+        <source>0-#</source>
+        <translation type="obsolete">小初</translation>
+    </message>
+    <message>
+        <source>1#</source>
+        <translation type="obsolete">一號</translation>
+    </message>
+    <message>
+        <source>1-#</source>
+        <translation type="obsolete">小一</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>1.5 line space</source>
@@ -11541,6 +13800,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2#</source>
+<<<<<<< HEAD
         <translation>2#</translation>
     </message>
     <message>
@@ -11582,6 +13842,49 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>8#</source>
         <translation>8#</translation>
+=======
+        <translation type="obsolete">二號</translation>
+    </message>
+    <message>
+        <source>2-#</source>
+        <translation type="obsolete">小二</translation>
+    </message>
+    <message>
+        <source>3#</source>
+        <translation type="obsolete">三號</translation>
+    </message>
+    <message>
+        <source>3-#</source>
+        <translation type="obsolete">小三</translation>
+    </message>
+    <message>
+        <source>4#</source>
+        <translation type="obsolete">四號</translation>
+    </message>
+    <message>
+        <source>4-#</source>
+        <translation type="obsolete">小四</translation>
+    </message>
+    <message>
+        <source>5#</source>
+        <translation type="obsolete">五號</translation>
+    </message>
+    <message>
+        <source>5-#</source>
+        <translation type="obsolete">小五</translation>
+    </message>
+    <message>
+        <source>6#</source>
+        <translation type="obsolete">六號</translation>
+    </message>
+    <message>
+        <source>7#</source>
+        <translation type="obsolete">七號</translation>
+    </message>
+    <message>
+        <source>8#</source>
+        <translation type="obsolete">八號</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Bold, </source>
@@ -11593,7 +13896,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Centered</source>
+<<<<<<< HEAD
         <translation>置中對齊</translation>
+=======
+        <translation>置中</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Decrease indent</source>
@@ -11609,7 +13916,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Dispersion</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>散佈</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -11642,7 +13953,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Itatic, </source>
+<<<<<<< HEAD
         <translation>斜體,</translation>
+=======
+        <translation type="obsolete">斜體,</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Justify alignment</source>
@@ -11650,17 +13965,24 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left</source>
+<<<<<<< HEAD
         <translation>靠左對齊</translation>
+=======
+        <translation>左側</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Left alignment</source>
         <translation>靠左對齊</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>LeftAndRight</source>
         <translation></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>Line spacing: 1.5 lines, </source>
         <translation>行距: 1.5 倍行高, </translation>
     </message>
@@ -11678,7 +14000,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Right</source>
+<<<<<<< HEAD
         <translation>靠右對齊</translation>
+=======
+        <translation>右側</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Right alignment</source>
@@ -11784,6 +14110,120 @@ Cancel:	Return to the dialog.</source>
         <source>yi hao</source>
         <translation type="obsolete">一號</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Left and Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chinese Chuhao</source>
+        <translation>0#</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaochu</source>
+        <translation>小初</translation>
+    </message>
+    <message>
+        <source>Chinese Yihao</source>
+        <translation>1#</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoyi</source>
+        <translation>小一</translation>
+    </message>
+    <message>
+        <source>Chinese Erhao</source>
+        <translation>2#</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaoer</source>
+        <translation>小二</translation>
+    </message>
+    <message>
+        <source>Chinese Sanhao</source>
+        <translation>3#</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosan</source>
+        <translation>小三</translation>
+    </message>
+    <message>
+        <source>Chinese Sihao</source>
+        <translation>4#</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaosi</source>
+        <translation>小四</translation>
+    </message>
+    <message>
+        <source>Chinese Wuhao</source>
+        <translation>5#</translation>
+    </message>
+    <message>
+        <source>Chinese Xiaowu</source>
+        <translation>小五</translation>
+    </message>
+    <message>
+        <source>Chinese Liuhao</source>
+        <translation>6#</translation>
+    </message>
+    <message>
+        <source>Chinese Qihao</source>
+        <translation>7#</translation>
+    </message>
+    <message>
+        <source>Chinese Bahao</source>
+        <translation>8#</translation>
+    </message>
+    <message>
+        <source>Italic, </source>
+        <translation>斜體,</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation>+標題中文字型</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation>+本文中文字型</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation>+標題</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation>+本文</translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation>文字效果​​(&amp;E)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxOnlineFontTipDlg</name>
+    <message>
+        <source>Renew</source>
+        <translation type="obsolete">立即續費</translation>
+    </message>
+    <message>
+        <source>Cannot connect to this service. Check your network connection please.</source>
+        <translation type="obsolete">無法連線到服務，請檢查網路連線。</translation>
+    </message>
+    <message>
+        <source>Your VIP %1 expires now.  Please renew for more discount.</source>
+        <translation type="obsolete">你的 VIP %1 到期。請更新您的訂閱。</translation>
+    </message>
+    <message>
+        <source>Unable to connect to server, please check your network connection.</source>
+        <translation type="obsolete">無法連線到伺服器，請檢查網路連線。</translation>
+    </message>
+    <message>
+        <source>Vip %1 has expired, please renew</source>
+        <translation type="obsolete">%1會員已過期，立即續費享用云字體及更多優惠</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxOptionsDlg</name>
@@ -11817,7 +14257,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
+<<<<<<< HEAD
         <translation type="unfinished">復原/重複步數必須介於 %1 次 和 %2 次 之間</translation>
+=======
+        <translation>復原/重做步驟數必須介於 %1 和 %2 之間</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Remove &amp;Protection...</source>
@@ -11857,6 +14301,21 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+<<<<<<< HEAD
+=======
+        <translation type="obsolete">您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>No Documents Open</source>
+        <translation>無開啟的文件</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="obsolete">您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
@@ -11868,11 +14327,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;Less</source>
+<<<<<<< HEAD
         <translation>更少(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <translation>其他(&amp;M)</translation>
+=======
+        <translation>較少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <translation>更多(&amp;M)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>(No style)</source>
@@ -11900,7 +14367,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Level %1</source>
+<<<<<<< HEAD
         <translation>Level %1</translation>
+=======
+        <translation>階層 %1</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>New Bullet...</source>
@@ -11912,6 +14383,20 @@ Cancel:	Return to the dialog.</source>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxPDF2WordButton</name>
+    <message id="NULL">
+        <source>Loading the PDF To Word. Please wait...</source>
+        <translation type="obsolete">正在加載 [將PDF匯出為Word]...</translation>
+    </message>
+    <message>
+        <source>PDF Format to Word Format</source>
+        <translation type="obsolete">PDF 轉換至 Word</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxPageNumbersDlg</name>
     <message>
         <source>%1</source>
@@ -11919,11 +14404,19 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>&amp;Less</source>
+<<<<<<< HEAD
         <translation>更少(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;More</source>
         <translation>其他(&amp;M)</translation>
+=======
+        <translation>較少(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <translation>更多(&amp;M)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>-1-,-2-,-3-...</source>
@@ -11939,7 +14432,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>2</source>
+<<<<<<< HEAD
         <translation>2</translation>
+=======
+        <translation>2%</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>3</source>
@@ -12100,7 +14597,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
+<<<<<<< HEAD
         <translation type="unfinished">您輸入的內容不是合法的整數值</translation>
+=======
+        <translation>這不是正確的度量單位。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This point forward</source>
@@ -12108,7 +14609,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This section</source>
+<<<<<<< HEAD
         <translation>此節</translation>
+=======
+        <translation>此一節</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Using the Printer Setup</source>
@@ -12151,7 +14656,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxParagraphDlg</name>
     <message>
         <source>This is not a valid measurement.</source>
+<<<<<<< HEAD
         <translation>您輸入的內容不是合法的整數值。</translation>
+=======
+        <translation type="obsolete">這是無效的度量單位。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -12227,7 +14736,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxRulerBtn</name>
     <message>
         <source>Show Ruler</source>
+<<<<<<< HEAD
         <translation>顯示尺規</translation>
+=======
+        <translation>尺規</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>show ruler</source>
@@ -12250,11 +14763,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Insert Section After</source>
+<<<<<<< HEAD
         <translation>插入在選取範圍之後</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
         <translation>插入在選取範圍之前</translation>
+=======
+        <translation>插入節在後</translation>
+    </message>
+    <message>
+        <source>Insert Section Before</source>
+        <translation>插入節在前</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>InsertSectionAfter</source>
@@ -12266,7 +14787,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Merge to Previous</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>合併到上一節</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>MergeToPrevious</source>
@@ -12285,7 +14810,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Section %1: </source>
+<<<<<<< HEAD
         <translation>節 %1: </translation>
+=======
+        <translation>第 %1 節:</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Unnamed</source>
@@ -12410,7 +14939,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTabsDlg</name>
     <message>
         <source>All</source>
+<<<<<<< HEAD
         <translation>全部</translation>
+=======
+        <translation type="obsolete">全部</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -12429,7 +14962,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+<<<<<<< HEAD
         <translation>方向設定無效的原因，如太少列寬。請調整您的配置。</translation>
+=======
+        <translation>由於欄寬過小等原因，文字方向設定失敗。請重新調整您的設定。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Text Direction</source>
@@ -12445,7 +14982,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This section</source>
+<<<<<<< HEAD
         <translation>此節</translation>
+=======
+        <translation>此一節</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Whole Document</source>
@@ -12607,7 +15148,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Restrict permission...</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>進階權限設定...</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -12642,7 +15187,11 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>If you make this change in document protection, WPS Writer will ignore all the exceptions in this document.
 
 Do you want to remove the ignored exceptions?</source>
+<<<<<<< HEAD
         <translation>若在文件保護模式下做此變更，Kingsoft Writer 將會略過此文件中的所有例外。
+=======
+        <translation>若在文件保護模式下做此變更，WPS Writer 將會略過此文件中的所有例外。
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 
 您是否要移除略過的例外?</translation>
     </message>
@@ -12670,7 +15219,11 @@ Select the part of the contents in the document, and select the users can edit.<
     </message>
     <message>
         <source>Section </source>
+<<<<<<< HEAD
         <translation>章節 </translation>
+=======
+        <translation>節 </translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Select Sections...</source>
@@ -12744,7 +15297,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Restrict permission...</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>進階權限設定...</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -12791,7 +15348,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Show:</source>
+<<<<<<< HEAD
         <translation>播放:</translation>
+=======
+        <translation>顯示:</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>clear format...</source>
@@ -12822,7 +15383,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Valid styles</source>
+<<<<<<< HEAD
         <translation>有效樣式</translation>
+=======
+        <translation>可用樣式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>all styles</source>
@@ -12834,6 +15399,127 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxTpWpsXMLMappingWidget</name>
+    <message>
+        <source>(add customXmlparts...)</source>
+        <translation>(新增組件...)</translation>
+    </message>
+    <message>
+        <source>&amp;Insert Content Control</source>
+        <translation>插入內容控制項(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Repeat</source>
+        <translation>重複(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Rich Text</source>
+        <translation>RTF 格式(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Plain &amp;Text</source>
+        <translation>純文字(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Picture</source>
+        <translation>圖片(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Checkbox</source>
+        <translation>核取方塊(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Comno &amp;Box</source>
+        <translation>下拉式方塊(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Dropdown List</source>
+        <translation>下拉式清單(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Data Pic&amp;ker</source>
+        <translation>日期選擇器(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Map to Selected Content Control</source>
+        <translation>對應至選取的內容控制項(&amp;M)</translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation>XML 檔案</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>所有檔案</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>開啟</translation>
+    </message>
+    <message>
+        <source>(empty namespaceURI)</source>
+        <translation>(空的命名空間 URI)</translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped to built-in document properties.</source>
+        <translation>RTF 內容控制項無法對應至內建文件摘要資訊。</translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped when they are nested within other mapped rich text content controls.</source>
+        <translation>RTF 內容控制項巢狀於其他已對應的 RTF 內容控制項時，無法對應。</translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a plain text Content control, so it can&apos;t be mapped to a rich text content control.</source>
+        <translation>自訂的 XML 節點已對應至純文字內容控制項，因此無法對應到 RTF 內容控制項。</translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a rich text Content control, so it can&apos;t be mapped to a plain text content control.</source>
+        <translation>自訂的 XML 節點已對應至 RTF 內容控制項，因此無法對應至純文字內容控制項。</translation>
+    </message>
+    <message>
+        <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
+        <translation>無法使用此 XML 檔案在文件中建立新組件，因為它不是有效的 XML。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpXMLStructureWidget</name>
+    <message>
+        <source>Templates And AddIns...</source>
+        <translation>範本與增益集...</translation>
+    </message>
+    <message>
+        <source>This is applied to the first element of this document. Do you want to apply to the entire document or only to the current range.</source>
+        <translation>這是套用至此文件的第一個元件。您要將此元件套用至整份文件，或僅套用至目前選取範圍?</translation>
+    </message>
+    <message>
+        <source>Add to entire document(&amp;E)</source>
+        <translation>套用至整份文件(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Add to current selected content range only(&amp;S)</source>
+        <translation>僅套用至選取範圍(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Cancel(&amp;C)</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements in multi areas.</source>
+        <translation>無法在多重選取周圍插入這個 XML 元素。</translation>
+    </message>
+    <message>
+        <source>Cann&apos;t add XML elements here.</source>
+        <translation>此處無法套用這個 XML 元素。</translation>
+    </message>
+    <message>
+        <source>&amp;Remove %1 tag</source>
+        <translation>移除 %1 標記(&amp;R)</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxTwoLinesInOneDlg</name>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -12883,7 +15569,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Drawing Grid</source>
+<<<<<<< HEAD
         <translation>繪製格線</translation>
+=======
+        <translation type="obsolete">繪製格線</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Form</source>
@@ -12903,7 +15593,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>To&amp;p and bottom</source>
+<<<<<<< HEAD
         <translation>上及下(&amp;P)</translation>
+=======
+        <translation type="obsolete">上及下(&amp;P)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Wrapping style</source>
@@ -12911,6 +15605,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>rbHorizontalCenter</source>
+<<<<<<< HEAD
         <translation></translation>
     </message>
     <message>
@@ -12924,6 +15619,76 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>rbHorizontalRight</source>
         <translation></translation>
+=======
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rbHorizontalLeft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rbHorizontalOther</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>rbHorizontalRight</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLMapping</name>
+    <message>
+        <source>custom xmlparts:</source>
+        <translation>自訂 XML 組件:</translation>
+    </message>
+    <message>
+        <source>XmlMapping</source>
+        <translation>XML 對應</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLStructure</name>
+    <message>
+        <source>Form</source>
+        <translation>格線</translation>
+    </message>
+    <message>
+        <source>Elements in the document:</source>
+        <translation>文件中的元素:</translation>
+    </message>
+    <message>
+        <source>No XML elements have been applied to this document.</source>
+        <translation>不曾有 XML 元素套用至這個文件。</translation>
+    </message>
+    <message>
+        <source>Make a selection in the document and then choose which element you want to apply from the list of elements.</source>
+        <translation>在文件中選取內容，然後選擇要套用元件清單中的哪個元件。</translation>
+    </message>
+    <message>
+        <source>Show XML tags in the document</source>
+        <translation>在文件中顯示 XML 標籤</translation>
+    </message>
+    <message>
+        <source>Choose an element to apply to your current selection:</source>
+        <translation>選擇元素以套用至您目前的選取範圍:</translation>
+    </message>
+    <message>
+        <source>List only child elements of current element</source>
+        <translation>僅列出目前元素的子元素</translation>
+    </message>
+    <message>
+        <source>You can apply your own XML elements
+to a Word XML document.</source>
+        <translation>您可以套用自己的 XML 元素至 Word XML 文件。</translation>
+    </message>
+    <message>
+        <source>In order to apply your own XML elements in this document,you must first select a schema.</source>
+        <translation>若要在此文件套用您自己的 XML 元素，您必須先選取一個結構描述。</translation>
+    </message>
+    <message>
+        <source>you can do this by going to:</source>
+        <translation>您可以通過以下方式執行該操作:</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -12985,14 +15750,22 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Automatic</source>
+<<<<<<< HEAD
         <translation>自動設定</translation>
+=======
+        <translation type="obsolete">自動</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KxWpsApplication</name>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+<<<<<<< HEAD
         <translation type="unfinished">插入的圖案顯示不完全,你要依圖案的大小自動調整行距嗎？</translation>
+=======
+        <translation>插入的圖案顯示不完全,你要依圖案的大小自動調整行距嗎？</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -13160,7 +15933,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>pt</source>
+<<<<<<< HEAD
         <translation>pt</translation>
+=======
+        <translation>點</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -13174,7 +15951,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxWpsBrowserTriggerCommand</name>
     <message>
         <source>Next Bookmark</source>
+<<<<<<< HEAD
         <translation>下一個標籤</translation>
+=======
+        <translation>下一書籤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Next Comment</source>
@@ -13210,7 +15991,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Next Section</source>
+<<<<<<< HEAD
         <translation>下一區段</translation>
+=======
+        <translation>下一節</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Next Table</source>
@@ -13218,7 +16003,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Previous Bookmark</source>
+<<<<<<< HEAD
         <translation>前一個標籤</translation>
+=======
+        <translation>前一書籤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Previous Comment</source>
@@ -13254,7 +16043,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Previous Section</source>
+<<<<<<< HEAD
         <translation>前一區段</translation>
+=======
+        <translation>前一節</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Previous Table</source>
@@ -13285,7 +16078,25 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Column</source>
+<<<<<<< HEAD
         <translation>直條圖</translation>
+=======
+        <translation>欄</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCompatibilityModeCommand</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation>相容模式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsContentButtonMgr</name>
+    <message>
+        <source>Picture</source>
+        <translation>圖片</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -13321,8 +16132,12 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Table of Content</source>
+<<<<<<< HEAD
         <translation>在文檔中插入或繪製表格，以及
 文本與表格的相互轉換</translation>
+=======
+        <translation>目錄頁</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -13333,7 +16148,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Classic</source>
+<<<<<<< HEAD
         <translation>古典的</translation>
+=======
+        <translation>古典</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Current</source>
@@ -13345,6 +16164,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Distinctive</source>
+<<<<<<< HEAD
         <translation>特別的</translation>
     </message>
     <message>
@@ -13354,6 +16174,17 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Formal</source>
         <translation>正式的</translation>
+=======
+        <translation>特別</translation>
+    </message>
+    <message>
+        <source>Fancy</source>
+        <translation>新潮</translation>
+    </message>
+    <message>
+        <source>Formal</source>
+        <translation>正式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Manual</source>
@@ -13361,7 +16192,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Modern</source>
+<<<<<<< HEAD
         <translation>摩登的</translation>
+=======
+        <translation>摩登</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Simple</source>
@@ -13395,7 +16230,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>(No picture)</source>
+<<<<<<< HEAD
         <translation>(無圖案)</translation>
+=======
+        <translation>(無圖片)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>100%</source>
@@ -13479,11 +16318,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
+<<<<<<< HEAD
         <translation>All Image Files(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>Auto</source>
         <translation>自動數列</translation>
+=======
+        <translation>所有圖片格式(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Bottom</source>
@@ -13527,7 +16374,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Horizontal</source>
+<<<<<<< HEAD
         <translation>階層</translation>
+=======
+        <translation>水平</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Left</source>
@@ -13539,7 +16390,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Picture Tooltip</source>
+<<<<<<< HEAD
         <translation>圖案工具提示</translation>
+=======
+        <translation>圖片浮水印</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>PictureTooltip</source>
@@ -13575,7 +16430,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Select Picture</source>
+<<<<<<< HEAD
         <translation>選取圖案</translation>
+=======
+        <translation>選取圖片</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Size Tooltip</source>
@@ -13587,7 +16446,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Text Tooltip</source>
+<<<<<<< HEAD
         <translation>文字工具提示</translation>
+=======
+        <translation>文字浮水印</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>TextTooltip</source>
@@ -13623,6 +16486,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>This section</source>
+<<<<<<< HEAD
         <translation>目前選取範圍</translation>
     </message>
     <message>
@@ -13632,6 +16496,17 @@ Select parts of the document and choose users who are allowed to freely edit the
     <message>
         <source>Top</source>
         <translation>靠上對齊</translation>
+=======
+        <translation>此節</translation>
+    </message>
+    <message>
+        <source>Tooltip </source>
+        <translation>文字浮水印</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>向上</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>URGENT</source>
@@ -13711,7 +16586,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>inch</source>
+<<<<<<< HEAD
         <translation>inch</translation>
+=======
+        <translation>英吋</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>italic</source>
@@ -13739,7 +16618,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>pt</source>
+<<<<<<< HEAD
         <translation>重量</translation>
+=======
+        <translation>磅</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>rightAlign</source>
@@ -13845,7 +16728,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Different first p&amp;age</source>
+<<<<<<< HEAD
         <translation>首頁不同</translation>
+=======
+        <translation>首頁不同(&amp;A)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Different first page</source>
@@ -13861,7 +16748,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Different odd and &amp;even pages</source>
+<<<<<<< HEAD
         <translation>奇偶頁不同</translation>
+=======
+        <translation>奇偶頁不同(&amp;V)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Even Footer Link To Previous</source>
@@ -13873,7 +16764,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Even footer lin&amp;k to previous</source>
+<<<<<<< HEAD
         <translation>偶數頁頁尾同前節</translation>
+=======
+        <translation>偶數頁頁尾同前節(&amp;K)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Even footer link to previous</source>
@@ -13885,11 +16780,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Even header link to previous(&amp;G)</source>
+<<<<<<< HEAD
         <translation>偶數頁頁首同前節</translation>
     </message>
     <message>
         <source>F&amp;irst header link to previous</source>
         <translation>首頁頁首同前節</translation>
+=======
+        <translation>偶數頁頁首同前節(&amp;G)</translation>
+    </message>
+    <message>
+        <source>F&amp;irst header link to previous</source>
+        <translation>首頁頁首同前節(&amp;I)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>First Footer Link To Previous</source>
@@ -13905,7 +16808,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>First footer &amp;link to previous</source>
+<<<<<<< HEAD
         <translation>首頁頁尾同前節</translation>
+=======
+        <translation>首頁頁尾同前節(&amp;L)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>First footer link to previous</source>
@@ -13981,7 +16888,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Header and Footer</source>
+<<<<<<< HEAD
         <translation>活頁簿格式</translation>
+=======
+        <translation>頁首及頁尾配置</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Header inside</source>
@@ -14029,11 +16940,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Odd footer link to previous(&amp;J)</source>
+<<<<<<< HEAD
         <translation>奇數頁頁尾同前節</translation>
     </message>
     <message>
         <source>Odd h&amp;eader link to previous</source>
         <translation>奇數頁頁首同前節</translation>
+=======
+        <translation>奇數頁頁尾同前節(&amp;J)</translation>
+    </message>
+    <message>
+        <source>Odd h&amp;eader link to previous</source>
+        <translation>奇數頁頁首同前節(&amp;E)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Odd header link to previous</source>
@@ -14081,7 +17000,11 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Show first page hea&amp;der line</source>
+<<<<<<< HEAD
         <translation>顯示首頁頁首橫線</translation>
+=======
+        <translation>顯示首頁頁首橫線(&amp;D)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Show first page header line</source>
@@ -14109,6 +17032,23 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxWpsDlgHorizontalLine</name>
+    <message>
+        <source>Format Horizontal Line</source>
+        <translation>設定水平線格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgShapeLayout</name>
+    <message>
+        <source>Layout</source>
+        <translation>版面配置</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxWpsDlgTemplateAndAddin</name>
     <message>
         <source> Full path: </source>
@@ -14150,6 +17090,7 @@ Select parts of the document and choose users who are allowed to freely edit the
         <source>Templates and Add-ins</source>
         <translation>範本與增益集</translation>
     </message>
+<<<<<<< HEAD
 </context>
 <context>
     <name>KxWpsDocMapWindow</name>
@@ -15829,6 +18770,3138 @@ to the picture size?</source>
     <message>
         <source>dialogstest</source>
         <translation></translation>
+=======
+    <message>
+        <source>XML Schema</source>
+        <translation>XML 結構描述</translation>
+    </message>
+    <message>
+        <source>Available &amp;XML schemas</source>
+        <translation>可用的 XML 結構描述(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Checked schemas are currently attached:</source>
+        <translation>核取的結構描述目前已附加:</translation>
+    </message>
+    <message>
+        <source>Schema &amp;Library...</source>
+        <translation>結構描述程式庫(&amp;L)...</translation>
+    </message>
+    <message>
+        <source>Add S&amp;chema...</source>
+        <translation>新增結構描述(&amp;C)...</translation>
+    </message>
+    <message>
+        <source>Schema Information</source>
+        <translation>結構描述資訊</translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation>URI:</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>路徑: </translation>
+    </message>
+    <message>
+        <source>XMLExtend</source>
+        <translation>XML 擴充套件</translation>
+    </message>
+    <message>
+        <source>Attached XMLExtend Pack</source>
+        <translation>附加的 XML 擴充套件:</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>名稱: </translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Source URL:</source>
+        <translation>來源 URL:</translation>
+    </message>
+    <message>
+        <source>Delete(&amp;R)</source>
+        <translation>刪除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Available XMLExtend Pack</source>
+        <translation>可用的 XML 擴充套件(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Select(&amp;A)</source>
+        <translation>選取(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Delete(&amp;E)</source>
+        <translation>刪除(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Update(&amp;P)</source>
+        <translation>更新(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Add(&amp;D)...</source>
+        <translation>新增(&amp;D)...</translation>
+    </message>
+    <message>
+        <source>Disa&amp;ble</source>
+        <translation>停用(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Enable</source>
+        <translation>啟用(&amp;E)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaLibrary</name>
+    <message>
+        <source>Schema Library</source>
+        <translation>結構描述程式庫</translation>
+    </message>
+    <message>
+        <source>Schemas</source>
+        <translation>結構描述</translation>
+    </message>
+    <message>
+        <source>&amp;Select a schema:</source>
+        <translation>選取結構描述(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Add Schema...</source>
+        <translation>新增結構描述(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>Sch&amp;ema Settings...</source>
+        <translation>結構描述設定(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Schema</source>
+        <translation>刪除結構描述(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Update Schema</source>
+        <translation>結構描述更新(&amp;U)</translation>
+    </message>
+    <message>
+        <source>URI:</source>
+        <translation>URI: </translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>路徑: </translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgXMLSchemaSetting</name>
+    <message>
+        <source>Schema Settings</source>
+        <translation>結構描述設定...</translation>
+    </message>
+    <message>
+        <source>Edit schema information</source>
+        <translation>編輯結構描述資訊</translation>
+    </message>
+    <message>
+        <source>&amp;URI</source>
+        <translation>URI(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Alias</source>
+        <translation>別名(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Location</source>
+        <translation>位置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;Changes affect current user only</source>
+        <translation>只對目前的使用者變更(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocMapWindow</name>
+    <message>
+        <source>Bookmark</source>
+        <translation>書籤</translation>
+    </message>
+    <message>
+        <source>Document Map</source>
+        <translation>文件引導模式</translation>
+    </message>
+    <message>
+        <source>Document map</source>
+        <translation type="obsolete">文件引導模式</translation>
+    </message>
+    <message>
+        <source>Level %1</source>
+        <translation>階層 %1</translation>
+    </message>
+    <message>
+        <source>Show Bookmark</source>
+        <translation type="obsolete">顯示書籤</translation>
+    </message>
+    <message>
+        <source>Show Level</source>
+        <translation>顯示層級</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDropDownButton</name>
+    <message>
+        <source>(No entry)</source>
+        <translation>(無項目)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFieldNameDelimiterDlg</name>
+    <message>
+        <source>The field delimiter cannot be the same as the record delimiter.</source>
+        <translation>欄位分隔符號不能與列分隔符號相同。</translation>
+    </message>
+    <message>
+        <source>Field delimiter and record delimiter cannot be same.</source>
+        <translation type="obsolete">欄位分隔符號不能與列分隔符號相同。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFillColorModel</name>
+    <message>
+        <source>No Color</source>
+        <translation>無填滿</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="obsolete">無色彩</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFillColorModel2</name>
+    <message>
+        <source>No Color</source>
+        <translation type="obsolete">無填滿</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="obsolete">無填滿</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFillColorRainbowModel</name>
+    <message>
+        <source>No Color</source>
+        <translation>無填滿</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="obsolete">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontDlg</name>
+    <message>
+        <source>(Use Asian text font)</source>
+        <translation type="unfinished">(使用中文字型)</translation>
+    </message>
+    <message>
+        <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
+        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
+        <translation type="unfinished">此為 TrueType 字型，該字型可用於印表機列印與螢幕顯示。</translation>
+    </message>
+    <message>
+        <source>This font has not been installed. The most similar available font will be printed.</source>
+        <translation type="unfinished">尚未安裝此字型。列印時將採用最相近的有效字型。</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished">+標題中文字型</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished">+本文中文字型</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished">+標題</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished">+本文</translation>
+    </message>
+    <message>
+        <source>Not Italic</source>
+        <translation type="unfinished">非斜體</translation>
+    </message>
+    <message>
+        <source>Not Bold</source>
+        <translation type="unfinished">非粗體</translation>
+    </message>
+    <message>
+        <source>Latin text &amp;font:</source>
+        <translation type="unfinished">英文字型(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Asian text fo&amp;nt:</source>
+        <translation type="unfinished">中文字型(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation type="unfinished">標準</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">斜體</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">粗體</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">粗體 斜體</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="unfinished">(無)</translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation type="unfinished">您的系統沒有 %1 字型，因此顯示的是替代字型，仍要使用該字型嗎?</translation>
+    </message>
+    <message>
+        <source>The number must be between %1 and %2.</source>
+        <translation type="unfinished">數字必須介於 %1 和 %2 之間。</translation>
+    </message>
+    <message>
+        <source>This is not a valid number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished">字型樣式名稱不存在。</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all new documents based on the %1 template.</source>
+        <translation type="unfinished">您要變更預設的字型設定嗎?
+此變更將影響所有以 %1 為範本的新文件。</translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="unfinished">變更失敗，Normal 範本被占用。</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Measurement must be between %1 pt and %2 pt</source>
+        <translation type="unfinished">度量值必須介於 %1 點 和 %2 點之間。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>無外框</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation>靠上對齊</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>靠下對齊</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation>上方置中</translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation>中間置中</translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation>底端置中</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>靠右對齊</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>置中對齊</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>靠左對齊</translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation>右中</translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation>正中</translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation>左中</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>圖表選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文字選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>圖案選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文字選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translation>陰影</translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation>反射</translation>
+    </message>
+    <message>
+        <source>GLOW</source>
+        <translation>光暈</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_FillAndLine</name>
+    <message>
+        <source>FILL</source>
+        <translation>填滿</translation>
+    </message>
+    <message>
+        <source>LINE</source>
+        <translation>線條</translation>
+    </message>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>文字填滿</translation>
+    </message>
+    <message>
+        <source>TEXT OUTLINE</source>
+        <translation>文字外框</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsGalleryFontComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation>宋體</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHFLinkToPreviousCommand</name>
+    <message>
+        <source>Header and Footer Link to Previous</source>
+        <translation>頁首/頁尾同前節</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderFooterPageNumCommand</name>
+    <message>
+        <source>Delete Page Number</source>
+        <translation>刪除頁碼</translation>
+    </message>
+    <message>
+        <source>Insert Page Number</source>
+        <translation type="obsolete">插入頁碼</translation>
+    </message>
+    <message>
+        <source>Insert page number</source>
+        <translation>插入頁碼</translation>
+    </message>
+    <message>
+        <source>Set Page Number</source>
+        <translation>設定頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineBaseCommand</name>
+    <message>
+        <source>Show Header Line</source>
+        <translation>顯示頁首橫線</translation>
+    </message>
+    <message>
+        <source>Show header line</source>
+        <translation type="obsolete">顯示頁首橫線</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHeaderLineMoreColorCommand</name>
+    <message>
+        <source>Show Header Line Color</source>
+        <translation>頁首橫線色彩</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHorizontalLineDlg</name>
+    <message>
+        <source>Horizontal Line</source>
+        <translation>水平線</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation>圖片</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertKeyCommand</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>開啟</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertPictureCommand</name>
+    <message>
+        <source>The inserted picture is displayed incompletely, do you 
+want to adjust the line space automatically according 
+to the picture size?</source>
+        <translation type="obsolete">插入的圖片顯示不完全，您要依圖片的大小自動調整行距嗎?</translation>
+    </message>
+    <message>
+        <source>The inserted picture is displayed incompletely, do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation type="obsolete">插入的圖案顯示不完全,你要依圖案的大小自動調整行距嗎？</translation>
+    </message>
+    <message>
+        <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
+        <translation type="obsolete">插入的圖案顯示不完全,你要依圖案的大小自動調整行距嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertSectionCommand</name>
+    <message>
+        <source>Insert Section After</source>
+        <translation>插入節在後</translation>
+    </message>
+    <message>
+        <source>Insert Section Before</source>
+        <translation>插入節在前</translation>
+    </message>
+    <message>
+        <source>InsertSectionAfter</source>
+        <translation type="obsolete">插入節在後</translation>
+    </message>
+    <message>
+        <source>InsertSectionBefore</source>
+        <translation type="obsolete">插入節在前</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsLineColorModel</name>
+    <message>
+        <source>No Line</source>
+        <translation>無外框</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsLineSpacingCommand</name>
+    <message>
+        <source>%1 lines</source>
+        <translation>%1 倍行高</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>1 line</source>
+        <translation>1 倍行高</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="obsolete">1.5</translation>
+    </message>
+    <message>
+        <source>1.5 lines</source>
+        <translation>1.5 倍行高</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="obsolete">2</translation>
+    </message>
+    <message>
+        <source>2 lines</source>
+        <translation>2 倍行高</translation>
+    </message>
+    <message>
+        <source>: %1 pt</source>
+        <translation>:%1 點</translation>
+    </message>
+    <message>
+        <source>At Least</source>
+        <translation>最小行高</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation>2 倍行高</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation>固定行高</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation>多行</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>單行間距</translation>
+    </message>
+    <message>
+        <source>wpsLineSpace1pt5</source>
+        <translation type="obsolete">1.5 倍行高</translation>
+    </message>
+    <message>
+        <source>wpsLineSpaceAtLeast</source>
+        <translation type="obsolete">最小行高</translation>
+    </message>
+    <message>
+        <source>wpsLineSpaceDouble</source>
+        <translation type="obsolete">2 倍行高</translation>
+    </message>
+    <message>
+        <source>wpsLineSpaceExactly</source>
+        <translation type="obsolete">固定值</translation>
+    </message>
+    <message>
+        <source>wpsLineSpaceMultiple</source>
+        <translation type="obsolete">多倍行高</translation>
+    </message>
+    <message>
+        <source>wpsLineSpaceSingle</source>
+        <translation type="obsolete">單行間距</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsLocateCloseBtn</name>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsLocateWidget</name>
+    <message>
+        <source>%1 hours ago</source>
+        <translation>%1小時以前</translation>
+    </message>
+    <message>
+        <source>%1 minutes ago</source>
+        <translation>%1分鐘以前</translation>
+    </message>
+    <message>
+        <source>A few seconds ago</source>
+        <translation>幾秒鐘以前</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>從離開的位置繼續</translation>
+    </message>
+    <message>
+        <source>Continue editing</source>
+        <translation>從上次編輯的位置繼續</translation>
+    </message>
+    <message>
+        <source>Continue where you edit</source>
+        <translation type="obsolete">從上次編輯的位置繼續</translation>
+    </message>
+    <message>
+        <source>Continue where you left off</source>
+        <translation type="obsolete">從離開的位置繼續</translation>
+    </message>
+    <message>
+        <source>Return to where you edit when you closed the view</source>
+        <translation type="obsolete">返回到上一次編輯的位置</translation>
+    </message>
+    <message>
+        <source>Return to where you read when you closed the view</source>
+        <translation type="obsolete">返回到之前離開的位置</translation>
+    </message>
+    <message>
+        <source>Welcome Back</source>
+        <translation>歡迎回來</translation>
+    </message>
+    <message>
+        <source>to last editing position</source>
+        <translation>返回到上一次編輯的位置</translation>
+    </message>
+    <message>
+        <source>to previous position</source>
+        <translation>返回到之前離開的位置</translation>
+    </message>
+    <message>
+        <source>yyyy years MM months dd days</source>
+        <translation type="obsolete">yyyy 年 MM 月 dd 日</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsMainWindow</name>
+    <message>
+        <source>Command name</source>
+        <translation>命令名稱</translation>
+    </message>
+    <message>
+        <source>Editing tools</source>
+        <translation>編輯工具</translation>
+    </message>
+    <message>
+        <source>Key</source>
+        <translation>按鍵</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageDifferCommand</name>
+    <message>
+        <source>Different first page</source>
+        <translation>與第一頁[頁首/頁尾]不同</translation>
+    </message>
+    <message>
+        <source>Different odd &amp;even Pages</source>
+        <translation type="obsolete">奇數與偶數頁的頁首頁尾</translation>
+    </message>
+    <message>
+        <source>Different odd &amp;even pages</source>
+        <translation>奇數與偶數頁的頁首頁尾</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageMarginCommand</name>
+    <message>
+        <source>Page Margins</source>
+        <translation>邊界</translation>
+    </message>
+    <message>
+        <source>PageMargins</source>
+        <translation type="obsolete">邊界</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins, column spacing, or paragraph indents are too large for the page width in some sections.</source>
+        <translation>對於某些節的頁寬而言，您所選擇的左右邊界、欄寬或段落縮排的設定都太大了。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="obsolete">方向設定無效的原因，如太少列寬。請調整您的配置。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the top/bottom margins are too large for the page height in some sections.</source>
+        <translation type="obsolete">對某些節的頁高而言，其上邊界/下邊界太大了。</translation>
+    </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections</source>
+        <translation>對某些節的頁高而言，其上邊界/下邊界太大了。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageMarginModel</name>
+    <message>
+        <source>Bottom: %1 %2</source>
+        <translation>下: %1 %2</translation>
+    </message>
+    <message>
+        <source>Last Custom Setting</source>
+        <translation>上次的自訂設定</translation>
+    </message>
+    <message>
+        <source>Left: %1 %2</source>
+        <translation>左: %1 %2</translation>
+    </message>
+    <message>
+        <source>Moderate</source>
+        <translation>中等</translation>
+    </message>
+    <message>
+        <source>Narrow</source>
+        <translation>窄</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Right: %1 %2</source>
+        <translation>右: %1 %2</translation>
+    </message>
+    <message>
+        <source>Top: %1 %2</source>
+        <translation>上: %1 %2</translation>
+    </message>
+    <message>
+        <source>Wide</source>
+        <translation>寬</translation>
+    </message>
+    <message>
+        <source>bottom: %1 %2</source>
+        <translation type="obsolete">下: %1 %2</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation>英吋</translation>
+    </message>
+    <message>
+        <source>left: %1 %2</source>
+        <translation type="obsolete">左: %1 %2</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation>公釐</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>點</translation>
+    </message>
+    <message>
+        <source>right: %1 %2</source>
+        <translation type="obsolete">右: %1 %2</translation>
+    </message>
+    <message>
+        <source>textPageMarginCommon</source>
+        <translation type="obsolete">標準</translation>
+    </message>
+    <message>
+        <source>textPageMarginModerate</source>
+        <translation type="obsolete">中等</translation>
+    </message>
+    <message>
+        <source>textPageMarginNarrow</source>
+        <translation type="obsolete">窄</translation>
+    </message>
+    <message>
+        <source>textPageMarginWide</source>
+        <translation type="obsolete">寬</translation>
+    </message>
+    <message>
+        <source>the last user setting</source>
+        <translation type="obsolete">上次的自訂設定</translation>
+    </message>
+    <message>
+        <source>up: %1 %2</source>
+        <translation type="obsolete">上: %1 %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageNumFormatCommand</name>
+    <message>
+        <source>Set Page Number</source>
+        <translation>設定頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageNumPositionModel</name>
+    <message>
+        <source>Footer</source>
+        <translation>頁尾</translation>
+    </message>
+    <message>
+        <source>Footer Inside</source>
+        <translation type="obsolete">頁尾內側</translation>
+    </message>
+    <message>
+        <source>Footer Left</source>
+        <translation type="obsolete">頁尾 (左側)</translation>
+    </message>
+    <message>
+        <source>Footer Middle</source>
+        <translation type="obsolete">頁尾 (置中)</translation>
+    </message>
+    <message>
+        <source>Footer Outside</source>
+        <translation type="obsolete">頁尾外側</translation>
+    </message>
+    <message>
+        <source>Footer Right</source>
+        <translation type="obsolete">頁尾 (右側)</translation>
+    </message>
+    <message>
+        <source>Footer inside</source>
+        <translation>頁尾內側</translation>
+    </message>
+    <message>
+        <source>Footer left</source>
+        <translation>頁尾 (左側)</translation>
+    </message>
+    <message>
+        <source>Footer middle</source>
+        <translation>頁尾 (置中)</translation>
+    </message>
+    <message>
+        <source>Footer outside</source>
+        <translation>頁尾外側</translation>
+    </message>
+    <message>
+        <source>Footer right</source>
+        <translation>頁尾 (右側)</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>頁首</translation>
+    </message>
+    <message>
+        <source>Header Inside</source>
+        <translation type="obsolete">頁首內側</translation>
+    </message>
+    <message>
+        <source>Header Left</source>
+        <translation type="obsolete">頁首 (左側)</translation>
+    </message>
+    <message>
+        <source>Header Middle</source>
+        <translation type="obsolete">頁首( 置中)</translation>
+    </message>
+    <message>
+        <source>Header Outside</source>
+        <translation type="obsolete">頁首外側</translation>
+    </message>
+    <message>
+        <source>Header Right</source>
+        <translation type="obsolete">頁首 (右側)</translation>
+    </message>
+    <message>
+        <source>Header inside</source>
+        <translation>頁首內側</translation>
+    </message>
+    <message>
+        <source>Header left</source>
+        <translation>頁首 (左側)</translation>
+    </message>
+    <message>
+        <source>Header middle</source>
+        <translation>頁首( 置中)</translation>
+    </message>
+    <message>
+        <source>Header outside</source>
+        <translation>頁首外側</translation>
+    </message>
+    <message>
+        <source>Header right</source>
+        <translation>頁首 (右側)</translation>
+    </message>
+    <message>
+        <source>No Page Number</source>
+        <translation>無頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageNumStartCommand</name>
+    <message>
+        <source>Page Number Start</source>
+        <translation>開始頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageOrientationCommand</name>
+    <message>
+        <source>Orientation</source>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
+        <translation type="obsolete">方向設定無效的原因，如太少列寬。請調整您的配置。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>對某些節的頁寬而言，頁面的左右邊界、欄寬或段落縮排的設定都太大了。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageOrientationModel</name>
+    <message>
+        <source>Landscape</source>
+        <translation>橫向</translation>
+    </message>
+    <message>
+        <source>OrientLandscape</source>
+        <translation type="obsolete">橫向</translation>
+    </message>
+    <message>
+        <source>OrientPortrait</source>
+        <translation type="obsolete">直向</translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation>縱向</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageSizeCommand</name>
+    <message>
+        <source>Paper Size</source>
+        <translation>紙張大小</translation>
+    </message>
+    <message>
+        <source>PaperSize</source>
+        <translation type="obsolete">紙張大小</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins, column spacing, or paragraph indents are too large for the page width in some sections.</source>
+        <translation>對於某些節的頁寬而言，您所選擇的左右邊界、欄寬或段落縮排的設定都太大了。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation type="obsolete">方向設定無效的原因，如太少列寬。請調整您的配置。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the top/bottom margins are too large for the page height in some sections.</source>
+        <translation type="obsolete">對某些節的頁高而言，其上邊界/下邊界太大了。</translation>
+    </message>
+    <message>
+        <source>The top/bottom margins are too large for the page height in some sections</source>
+        <translation>對某些節的頁高而言，其上邊界/下邊界太大了。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageSizeModel</name>
+    <message>
+        <source>%1%2 x %3%4</source>
+        <translation>%1%2  x  %3%4</translation>
+    </message>
+    <message>
+        <source>A3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A4</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Executive</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Legal</source>
+        <translation>合法</translation>
+    </message>
+    <message>
+        <source>Legal_CN</source>
+        <translation>法律專用紙</translation>
+    </message>
+    <message>
+        <source>Letter</source>
+        <translation>信件</translation>
+    </message>
+    <message>
+        <source>Letter_CN</source>
+        <translation>信紙</translation>
+    </message>
+    <message>
+        <source>Tabloid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>inch</source>
+        <translation>英吋</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation>公釐</translation>
+    </message>
+    <message>
+        <source>point</source>
+        <translation>點</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsParagraphDlg</name>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation>我的權限</translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>您已經過驗證，可以下列身份檢視此文件：</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>變更使用者...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>您有下列權限：</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>檢視</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編輯</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>複製</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>列印</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>儲存</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>匯出</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation>以程式存此文件</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>完全控制</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>使用者名稱</translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation>權限過期日：</translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation>要求其他權限...</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="obsolete">要求其他權限...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPictureButton</name>
+    <message>
+        <source>Click here to insert pictures.</source>
+        <translation>按一下這裡以插入圖片</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPictureWrapTypeComboBox</name>
+    <message>
+        <source>Behind Text</source>
+        <translation>文字在前</translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation>文字在後</translation>
+    </message>
+    <message>
+        <source>In Line With Text</source>
+        <translation type="obsolete">與文字排列</translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation>矩形</translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation>穿透</translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation>緊密</translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation>上及下</translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation>與文字排列</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPrintSetupDlg</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsRecordMacroDlg</name>
+    <message>
+        <source>%1(Document)</source>
+        <translation type="obsolete">%1(文件)</translation>
+    </message>
+    <message>
+        <source>%1(document)</source>
+        <translation>%1(文件)</translation>
+    </message>
+    <message>
+        <source>All Document(%1)</source>
+        <translation>所有文件(%1)</translation>
+    </message>
+    <message>
+        <source>Macro &quot;%1&quot; already exists, whether to replace the existing macro</source>
+        <translation type="obsolete">已有相同名稱“%1”的巨集，您是否要取代原有巨集</translation>
+    </message>
+    <message>
+        <source>Macro &quot;%1&quot; already exists. Do you want to replace the existing macro?</source>
+        <translation>已有相同名稱“%1”的巨集，您是否要取代原有巨集</translation>
+    </message>
+    <message>
+        <source>Macro recorded %2 by %1</source>
+        <translation>巨集由 %1 錄製，時間: %2</translation>
+    </message>
+    <message>
+        <source>The name you entered is not valid.</source>
+        <translation>您輸入的名稱無效</translation>
+    </message>
+    <message>
+        <source>enter the macro name is invalid</source>
+        <translation type="obsolete">您輸入的名稱無效</translation>
+    </message>
+    <message>
+        <source>macro record by %1, date: %2</source>
+        <translation type="obsolete">巨集由 %1 錄製，時間: %2</translation>
+    </message>
+    <message>
+        <source>You cannot record a macro to a locked file</source>
+        <translation>你無法在被鎖定的檔案中錄製巨集</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsRestartPageNumCommand</name>
+    <message>
+        <source>Restart Page Number</source>
+        <translation>重新啟動頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewPane</name>
+    <message>
+        <source>Reviewing Pane</source>
+        <translation>檢閱窗格</translation>
+    </message>
+    <message>
+        <source>Insertions: %1</source>
+        <translation>插入：%1 個</translation>
+    </message>
+    <message>
+        <source>Deletions: %1</source>
+        <translation>刪除:%1 個</translation>
+    </message>
+    <message>
+        <source>Formatting: %1</source>
+        <translation>調整格式：%1 個</translation>
+    </message>
+    <message>
+        <source>Comments: %1</source>
+        <translation>註解：%1 個</translation>
+    </message>
+    <message>
+        <source>Revisions: %1</source>
+        <translation>修訂： %1 個</translation>
+    </message>
+    <message>
+        <source>Revision: %1</source>
+        <translation type="obsolete">修訂： %1 個</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSectNavViewItemSeperator</name>
+    <message>
+        <source>Insert Section Break</source>
+        <translation>點擊此處拆開章節</translation>
+    </message>
+    <message>
+        <source>Insert section break</source>
+        <translation type="obsolete">點擊此處拆開章節</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSectionListCommand</name>
+    <message>
+        <source>Section %1</source>
+        <translation>第 %1 節</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSectionToolboxModel</name>
+    <message>
+        <source>Cover Page (None)</source>
+        <translation>封面頁(未插入)</translation>
+    </message>
+    <message>
+        <source>Table Content (None)</source>
+        <translation type="obsolete">目錄頁(未插入)</translation>
+    </message>
+    <message>
+        <source>Table of Contents (None)</source>
+        <translation>目錄頁(未插入)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShapeLayoutDlg</name>
+    <message>
+        <source>Position</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation>文繞圖</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShapesGalleryModel</name>
+    <message>
+        <source>Canvas</source>
+        <translation type="obsolete">畫布</translation>
+    </message>
+    <message>
+        <source>Create Canvas</source>
+        <translation type="obsolete">建立畫布</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShowFirstPageNumCommand</name>
+    <message>
+        <source>Show First Page Number</source>
+        <translation>顯示第一頁頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShowHeaderLineCommand</name>
+    <message>
+        <source>Show Header Line</source>
+        <translation type="obsolete">顯示頁首橫線</translation>
+    </message>
+    <message>
+        <source>Show header line</source>
+        <translation type="obsolete">顯示頁首橫線</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShowHeaderLineModel</name>
+    <message>
+        <source>No Line</source>
+        <translation>無線型</translation>
+    </message>
+    <message>
+        <source>None HeaderLine</source>
+        <translation type="obsolete">無線型</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartPageNumDeletePane</name>
+    <message>
+        <source>CANCLE</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Delete &amp;All Page Numbers</source>
+        <translation type="obsolete">刪除全部頁碼(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Delete &amp;Below Pages Page Numbers</source>
+        <translation type="obsolete">刪除本頁及之後的頁碼(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Delete &amp;all page numbers</source>
+        <translation>刪除全部頁碼(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Delete &amp;below pages&apos; page numbers</source>
+        <translation>刪除本頁及之後的頁碼(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Delete All Page Numbers</source>
+        <translation type="obsolete">刪除全部頁碼</translation>
+    </message>
+    <message>
+        <source>Delete Below Pages Page Numbers</source>
+        <translation type="obsolete">刪除本頁及之後的頁碼</translation>
+    </message>
+    <message>
+        <source>Delete Current &amp;Page Page Numbers</source>
+        <translation type="obsolete">僅刪除本頁頁碼(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Delete Current &amp;Section Page Numbers</source>
+        <translation type="obsolete">僅刪除本節頁碼(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Delete Current Page Page Numbers</source>
+        <translation type="obsolete">僅刪除本頁頁碼</translation>
+    </message>
+    <message>
+        <source>Delete Current Section Page Numbers</source>
+        <translation type="obsolete">僅刪除本節頁碼</translation>
+    </message>
+    <message>
+        <source>Delete all page numbers</source>
+        <translation>刪除全部頁碼</translation>
+    </message>
+    <message>
+        <source>Delete below pages&apos; page numbers</source>
+        <translation>刪除本頁及之後的頁碼</translation>
+    </message>
+    <message>
+        <source>Delete current &amp;page&apos;s page number</source>
+        <translation>僅刪除本頁頁碼(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Delete current &amp;section&apos;s page numbers</source>
+        <translation>僅刪除本節頁碼(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Delete current page&apos;s page number</source>
+        <translation>僅刪除本頁頁碼</translation>
+    </message>
+    <message>
+        <source>Delete current section&apos;s page numbers</source>
+        <translation>僅刪除本節頁碼</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartPageNumInsertPane</name>
+    <message>
+        <source>0;57;1</source>
+        <translation>0;57;1</translation>
+    </message>
+    <message>
+        <source>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</source>
+        <translation>37;38;14;28;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="obsolete">置中</translation>
+    </message>
+    <message>
+        <source>Align Inside</source>
+        <translation type="obsolete">內側</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">左側</translation>
+    </message>
+    <message>
+        <source>Align Outside</source>
+        <translation type="obsolete">外側</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">右側</translation>
+    </message>
+    <message>
+        <source>Align center</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>Align inside</source>
+        <translation>內側</translation>
+    </message>
+    <message>
+        <source>Align left</source>
+        <translation>左側</translation>
+    </message>
+    <message>
+        <source>Align outside</source>
+        <translation>外側</translation>
+    </message>
+    <message>
+        <source>Align right</source>
+        <translation>右側</translation>
+    </message>
+    <message>
+        <source>All Pages</source>
+        <translation type="obsolete">整份文件</translation>
+    </message>
+    <message>
+        <source>All pages</source>
+        <translation>整份文件</translation>
+    </message>
+    <message>
+        <source>Appl&amp;y to</source>
+        <translation>套用範圍(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Below Pages</source>
+        <translation type="obsolete">本頁及之後</translation>
+    </message>
+    <message>
+        <source>Below pages</source>
+        <translation>本頁及之後</translation>
+    </message>
+    <message>
+        <source>CANCLE</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Current Page</source>
+        <translation type="obsolete">本頁</translation>
+    </message>
+    <message>
+        <source>Current Section Pages</source>
+        <translation type="obsolete">本節</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation>本頁</translation>
+    </message>
+    <message>
+        <source>Current section pages</source>
+        <translation>本節</translation>
+    </message>
+    <message>
+        <source>Footer: </source>
+        <translation>頁尾</translation>
+    </message>
+    <message>
+        <source>Header: </source>
+        <translation>頁首</translation>
+    </message>
+    <message>
+        <source>Insert Page Number</source>
+        <translation type="obsolete">插入頁碼</translation>
+    </message>
+    <message>
+        <source>Insert page number</source>
+        <translation>插入頁碼</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Page 1</source>
+        <translation>第 1 頁</translation>
+    </message>
+    <message>
+        <source>Page 1 Of x</source>
+        <translation type="obsolete">第 1 頁 共 x 頁</translation>
+    </message>
+    <message>
+        <source>Page 1 of x</source>
+        <translation>第 1 頁 共 x 頁</translation>
+    </message>
+    <message>
+        <source>Page 2</source>
+        <translation>第 一 頁</translation>
+    </message>
+    <message>
+        <source>Page 2 Of X</source>
+        <translation type="obsolete">第 一 頁 共 X 頁</translation>
+    </message>
+    <message>
+        <source>Page 2 of X</source>
+        <translation>第 一 頁 共 X 頁</translation>
+    </message>
+    <message>
+        <source>Page Number &amp;Apply Scope</source>
+        <translation type="obsolete">套用範圍(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Page Number &amp;Format</source>
+        <translation type="obsolete">樣式(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Page Number &amp;Position</source>
+        <translation type="obsolete">位置(&amp;L):</translation>
+    </message>
+    <message>
+        <source>Page Number &amp;Restart</source>
+        <translation type="obsolete">重新開始編號(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Page Number &amp;Start</source>
+        <translation>起始值(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Page X</source>
+        <translation>第 X 頁</translation>
+    </message>
+    <message>
+        <source>Page X Of Y</source>
+        <translation type="obsolete">第 X 頁 共 Y 頁</translation>
+    </message>
+    <message>
+        <source>Page X Of y</source>
+        <translation type="obsolete">第 X 頁 共 Y 頁</translation>
+    </message>
+    <message>
+        <source>Page X of Y</source>
+        <translation>第 X 頁 共 Y 頁</translation>
+    </message>
+    <message>
+        <source>Page X of y</source>
+        <translation>第 X 頁 共 Y 頁</translation>
+    </message>
+    <message>
+        <source>Page number &amp;format</source>
+        <translation>樣式(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Page number &amp;position</source>
+        <translation>位置(&amp;L):</translation>
+    </message>
+    <message>
+        <source>Page number &amp;restart</source>
+        <translation>重新開始編號(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSpecialPopupWidget</name>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSpellCheckCommand</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>開啟</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation>公分</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusColumnInfoCommand</name>
+    <message>
+        <source>Coloum: %1</source>
+        <translation type="obsolete">欄: %1</translation>
+    </message>
+    <message>
+        <source>Column: %1</source>
+        <translation>欄: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusPageAreaInfoCommand</name>
+    <message>
+        <source>Page: %1</source>
+        <translation>頁面: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusPageInfo</name>
+    <message>
+        <source>Page Num: %1 Page: %2/%3 Section: %4/%5</source>
+        <translation type="obsolete">頁碼: %1  頁面: %2/%3  節: %4/%5</translation>
+    </message>
+    <message>
+        <source>Page: %1/%2 Section: %3/%4</source>
+        <translation type="obsolete">頁面: %1/%2  節: %3/%4</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusPageNumberInfoCommand</name>
+    <message>
+        <source>Page Num: %1</source>
+        <translation>頁碼: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusPositionInfo</name>
+    <message>
+        <source>Row: %1 Coloum: %2</source>
+        <translation type="obsolete">列: %1  欄: %2</translation>
+    </message>
+    <message>
+        <source>Row: %1 Column: %2</source>
+        <translation type="obsolete">列: %1  欄: %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusRowInfoCommand</name>
+    <message>
+        <source>Row: %1</source>
+        <translation>列: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusSectionInfoCommand</name>
+    <message>
+        <source>Section: %1</source>
+        <translation>節: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusTrackCommand</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>開啟</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusWordCountInfo</name>
+    <message>
+        <source>Words: </source>
+        <translation type="obsolete">字數:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusWordCountInfoCommand</name>
+    <message>
+        <source>Words: </source>
+        <translation>字數:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>縮放比例</translation>
+    </message>
+    <message>
+        <source>&amp;Percent:</source>
+        <translation type="obsolete">百分比(&amp;P)：</translation>
+    </message>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation>整頁(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation>頁寬(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation>文字寬度(&amp;T)</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>百分比(&amp;E):</translation>
+    </message>
+    <message>
+        <source>ZoomOption_ViewingScales</source>
+        <translation type="obsolete">顯示比例為</translation>
+    </message>
+    <message>
+        <source>ZoomOption_SelfDefine</source>
+        <translation type="obsolete">百分比(E)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_FullPage</source>
+        <translation type="obsolete">整頁(W)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_BestFit</source>
+        <translation type="obsolete">頁寬(P)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_TextFit</source>
+        <translation type="obsolete">文字寬度(T)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStyleGalleryModel</name>
+    <message>
+        <source>Styles</source>
+        <translation>樣式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsStyleGalleryModelItem</name>
+    <message>
+        <source>Delete Style</source>
+        <translation>刪除樣式</translation>
+    </message>
+    <message>
+        <source>Modify Style</source>
+        <translation>修改樣式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSubWindow</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation>相容模式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTableBorderColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="obsolete">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTableFillColorModel</name>
+    <message>
+        <source>No Color</source>
+        <translation>無填滿</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="obsolete">無色彩</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTabsDlg</name>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">全部</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTemplateAndAddinDlg</name>
+    <message>
+        <source>Add Template</source>
+        <translation>新增範本</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>所有檔案</translation>
+    </message>
+    <message>
+        <source>All Web Pages</source>
+        <translation>所有的網頁</translation>
+    </message>
+    <message>
+        <source>All Word Documents</source>
+        <translation>所有 Word 文件</translation>
+    </message>
+    <message>
+        <source>Attach Template</source>
+        <translation>附件範本</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Common Template Normal.WPT has opened to load.</source>
+        <translation type="obsolete">共用範本NORMAL.WPT 已經以加載項方式打開。</translation>
+    </message>
+    <message>
+        <source>Full path:</source>
+        <translation>檔案路徑：</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Word Documents</source>
+        <translation>Word 文件</translation>
+    </message>
+    <message>
+        <source>Word Templates</source>
+        <translation>Word 範本</translation>
+    </message>
+    <message>
+        <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation type="obsolete">Word 範本(*.wpt);;Word 增益集(*.wll);;所有檔案(*.*)</translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation>XML 檔案</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the XMLExtend Pack on this computer?</source>
+        <translation>您確定要從電腦中移除 XML 擴充套件嗎?</translation>
+    </message>
+    <message>
+        <source>XML Schema</source>
+        <translation>結構描述程式庫</translation>
+    </message>
+    <message>
+        <source>Add XMLExtend Pack</source>
+        <translation>安裝 XML 擴充套件資訊清單</translation>
+    </message>
+    <message>
+        <source>XMLExtend Pack Instruction List(*.xml)</source>
+        <translation>XML 擴充套件資訊清單(*.xml)</translation>
+    </message>
+    <message>
+        <source>Add Schema</source>
+        <translation>新增結構描述</translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation>XML 結構描述 (*.xsd;*.xml);;XML 擴充套件 (*.xml)</translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation>無法安裝 XML 擴充套件或結構描述檔案。</translation>
+    </message>
+    <message>
+        <source>the schema you choose is unable to use in document.The schema is possible unable or invalid, you may need other schema to run continue.</source>
+        <translation>無法在此文件中使用您選取的一或多個結構描述。某個結構描述可能無效或無法使用，或者可能需要其他結構描述，才能正確運作。</translation>
+    </message>
+    <message>
+        <source>The operation will delete all the xmlnodes in the %1,do you want to continue?</source>
+        <translation>這樣會移除 %1 命名空間中的所有 XML 標籤。您要繼續嗎?</translation>
+    </message>
+    <message>
+        <source> [disabled] </source>
+        <translation>[不可用]</translation>
+    </message>
+    <message>
+        <source>Load the template or add-ins may cause an application exception, you sure you want to enable?</source>
+        <translation>載入此範本或增益集可能會發生應用程式例外狀況。確定要啟用嗎？</translation>
+    </message>
+    <message>
+        <source>Common Template Normal.dotm has opened to load.</source>
+        <translation>共用範本 NORMAL.DOTM 已經以加載項方式打開。</translation>
+    </message>
+    <message>
+        <source>Word Templates(*.dotx; *.dotm; *.dot; *.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation>Word 範本(*.dotx; *.dotm; *.dot; *.wpt);;Word 增益集(*.wll);;所有檔案(*.*)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTextDirectionCommand</name>
+    <message>
+        <source>Orientation setting doesn&apos;t work for some reason, such as too little column width. Please adjust your settings.</source>
+        <translation type="obsolete">方向設定無效的原因，如太少列寬。請調整您的配置。</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>對某些節的頁寬而言，頁面的左右邊界、欄寬或段落縮排的設定都太大了。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTextOrientationModel</name>
+    <message>
+        <source>Horizontal</source>
+        <translation>文字水平方向</translation>
+    </message>
+    <message>
+        <source>Rotate All Text 270°</source>
+        <translation>所有文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>Rotate All Text 90°</source>
+        <translation>所有文字旋轉 90°</translation>
+    </message>
+    <message>
+        <source>Rotate Asian Character 270°</source>
+        <translation>亞洲文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>TextOrientationDownward</source>
+        <translation type="obsolete">所有文字旋轉 90°</translation>
+    </message>
+    <message>
+        <source>TextOrientationHorizontal</source>
+        <translation type="obsolete">水平</translation>
+    </message>
+    <message>
+        <source>TextOrientationHorizontalRotatedFarEast</source>
+        <translation type="obsolete">亞洲文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>TextOrientationUpward</source>
+        <translation type="obsolete">所有文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>TextOrientationVertL2RTrans</source>
+        <translation type="obsolete">垂直從左至右</translation>
+    </message>
+    <message>
+        <source>TextOrientationVerticalFarEast</source>
+        <translation type="obsolete">垂直從右至左</translation>
+    </message>
+    <message>
+        <source>Vertical from Left to Right</source>
+        <translation>垂直方向從左往右</translation>
+    </message>
+    <message>
+        <source>Vertical from Right to Left</source>
+        <translation>垂直方向從右往左</translation>
+    </message>
+    <message>
+        <source>Rotate All Text 270° {90°?}</source>
+        <translation type="obsolete">所有文字旋轉 90°</translation>
+    </message>
+    <message>
+        <source>Rotate All Text 270° {270°?}</source>
+        <translation type="obsolete">所有文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>Rotate Asian Character 270° {270°?}</source>
+        <translation type="obsolete">亞洲文字旋轉 270°</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTpFormatting</name>
+    <message>
+        <source>Format Ink</source>
+        <translation>筆墨格式</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>設定圖片格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsUnderlineColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="obsolete">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWaterMarkGalleryModel</name>
+    <message>
+        <source>Custom</source>
+        <translation>使用者定義</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="obsolete">預設浮水印</translation>
+    </message>
+    <message>
+        <source>preinstall</source>
+        <translation type="obsolete">預設浮水印</translation>
+    </message>
+    <message>
+        <source>user_defined</source>
+        <translation type="obsolete">自訂浮水印</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWaterMarkGalleryModelItem</name>
+    <message>
+        <source>Apply to This Section</source>
+        <translation>套用至此節</translation>
+    </message>
+    <message>
+        <source>Apply to Whole Document</source>
+        <translation>套用於整篇文件</translation>
+    </message>
+    <message>
+        <source>Delete Watermark</source>
+        <translation>刪除浮水印</translation>
+    </message>
+    <message>
+        <source>Edit Watermark</source>
+        <translation>編輯浮水印</translation>
+    </message>
+    <message>
+        <source>applytoCurSection</source>
+        <translation type="obsolete">套用至此節</translation>
+    </message>
+    <message>
+        <source>applytoEntireChapter</source>
+        <translation type="obsolete">套用於整篇文件</translation>
+    </message>
+    <message>
+        <source>deleteWaterMark</source>
+        <translation type="obsolete">刪除浮水印</translation>
+    </message>
+    <message>
+        <source>editWaterMark</source>
+        <translation type="obsolete">編輯浮水印</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetChildShapePosition</name>
+    <message>
+        <source>Position</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation>水平對齊(&amp;H):</translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;From:</source>
+        <translation>從(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>左上角</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation>垂直對齊(&amp;V):</translation>
+    </message>
+    <message>
+        <source>F&amp;rom:</source>
+        <translation>從(&amp;R):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetHorizontalLine</name>
+    <message>
+        <source>%, 1, 1, 100, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation>pt, 2, 0.05, 1584, 1</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation>pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation>寬度(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation>高度(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>色彩(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation>對齊方式</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation>靠左對齊(&amp;L)</translation>
+    </message>
+    <message>
+        <source>C&amp;enter</source>
+        <translation>置中(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation>靠右對齊(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>&amp;Measure in:</source>
+        <translation>測量單位(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Use solid color(no shade)</source>
+        <translation>使用單色 (無網底)(&amp;U)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetPosition</name>
+    <message>
+        <source>Left</source>
+        <translation>靠左對齊</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation>置中對齊</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>靠右對齊</translation>
+    </message>
+    <message>
+        <source>&amp;Book layout</source>
+        <translation>書本配置(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation>內部</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation>外部</translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation>相對於(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Relative position</source>
+        <translation>相對位置(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment</source>
+        <translation>對齊方式(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation>邊界</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation>頁面</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation>段落</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation>線段</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation>上邊界</translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation>下邊界</translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation>內邊界</translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation>外邊界</translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>選項</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>垂直</translation>
+    </message>
+    <message>
+        <source>relative t&amp;o</source>
+        <translation>相對於(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Absolute po&amp;sition</source>
+        <translation>絕對位置(&amp;S)</translation>
+    </message>
+    <message>
+        <source>belo&amp;w</source>
+        <translation>之下(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Absolute &amp;position</source>
+        <translation>絕對位置(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;to the right of</source>
+        <translation>右方的(&amp;T)</translation>
+    </message>
+    <message>
+        <source>o&amp;f</source>
+        <translation>相對於(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;relative to</source>
+        <translation>相對於(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation>左邊界</translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation>右邊界</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>欄</translation>
+    </message>
+    <message>
+        <source>Character</source>
+        <translation>字元</translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive position</source>
+        <translation>相對位置(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>靠上對齊</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>靠下</translation>
+    </message>
+    <message>
+        <source>&amp;Alignment</source>
+        <translation>對齊方式(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Allow o&amp;verlap</source>
+        <translation>允許重疊(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Layout in table &amp;cell</source>
+        <translation>表格儲存格中的版面配置(&amp;C)</translation>
+    </message>
+    <message>
+        <source>%, 1, -1000, 1000, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Move object with text</source>
+        <translation>物件隨文字一起移動(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Lock anchor</source>
+        <translation>鎖定定位點(&amp;L)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetSize</name>
+    <message>
+        <source>Absolut&amp;e</source>
+        <translation>絕對值(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Re&amp;lative</source>
+        <translation>相對值(&amp;L)</translation>
+    </message>
+    <message>
+        <source>degree, 0, -3600, 3600, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation>寬度:</translation>
+    </message>
+    <message>
+        <source>%, 0, 0, 10675, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation>pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Lock &amp;aspect ratio</source>
+        <translation>鎖定長寬比(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation>相對於原始圖片大小(&amp;R)</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 168480, 1</source>
+        <translation>pt, 2, 0, 168480, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Height:</source>
+        <translation>高度(&amp;H):</translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation>寬(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation>旋轉(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive</source>
+        <translation>相對值(&amp;L)</translation>
+    </message>
+    <message>
+        <source>A&amp;bsolute</source>
+        <translation>絕對值(&amp;B)</translation>
+    </message>
+    <message>
+        <source>relative &amp;to</source>
+        <translation>相對於(&amp;T)</translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation>相對於(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation>邊界</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation>頁面</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation>上邊界</translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation>下邊界</translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation>內邊界</translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation>外邊界</translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation>左邊界</translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation>右邊界</translation>
+    </message>
+    <message>
+        <source>%, 1, 1, 1000, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation>高度</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation>寬度</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋轉</translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation>縮放</translation>
+    </message>
+    <message>
+        <source>Original size</source>
+        <translation>原始大小</translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation>重設(&amp;S)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetTextWrapping</name>
+    <message>
+        <source>Wrapping style</source>
+        <translation>文繞圖的方式</translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation>矩形(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation>緊密(&amp;T)</translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation>穿透​​(&amp;H)</translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation>上及下​​(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation>文字在前(&amp;B)</translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation>文字在後(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation>與文字排列(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Wrap text</source>
+        <translation>自動換列</translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation>兩邊都要(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation>只有左邊(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation>只有右邊(&amp;R)</translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation>僅最大者(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation>與文字距離</translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation>上(&amp;P):</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation>pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation>左(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation>下(&amp;M):</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation>右(&amp;G):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWordArtInsertCommand</name>
+    <message>
+        <source>Your text here</source>
+        <translation>在這裡加入您的文字</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWrapTextWidget</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Layout options</source>
+        <translation>版面配置選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaLibraryDlg</name>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation>新增 XML 結構描述</translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation>XML 結構描述 (*.xsd;*.xml);;XML 擴充套件 (*.xml)</translation>
+    </message>
+    <message>
+        <source>Cannot Install the xml Extend or the xml schema.</source>
+        <translation>無法安裝 XML 擴充套件或結構描述檔案。</translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation>結構描述程式庫</translation>
+    </message>
+    <message>
+        <source>This will remove the schema and all associated files from the schema library. This may affect anyapplication that uses this schema. Do you want to continue?</source>
+        <translation>這會從結構描述程式庫移除結構描述和所有相關的檔案。這樣可能會影響到任何使用此結構描述的應用程式。要繼續?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsXMLSchemaSettingDlg</name>
+    <message>
+        <source>you must provide the URI name of the schema.</source>
+        <translation>您必須提供此「結構描述」的 URI，才能新增它。</translation>
+    </message>
+    <message>
+        <source>Schema Library</source>
+        <translation>結構描述程式庫</translation>
+    </message>
+    <message>
+        <source>The schema you spacified uses a URI that is already in use by another schema. Click Browse to specify a schema tha uses a different URI, or click Cancel,
+remove the schema with the duplicate URI, and then add the schema you specified.</source>
+        <translation>您指定的結構描述使用的命名空間和已經在 [結構描述程式庫] 中指定的命名空間不相符。請按一下 [結構描述設定]，並瀏覽和已經指定的命名空間相符的結構描述。
+或按一下 [取消]以刪除具有重複URI的結構描述，然後添加指定的結構描述。</translation>
+    </message>
+    <message>
+        <source>Add XMLSchema</source>
+        <translation>新增 XML 結構描述</translation>
+    </message>
+    <message>
+        <source>XML Schema(*.xsd;*.xml);;XML Extend(*.xml)</source>
+        <translation>XML 結構描述 (*.xsd;*.xml);;XML 擴充套件 (*.xml)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsZoomCommand</name>
+    <message>
+        <source>Invail Unit.</source>
+        <translation type="obsolete">無效單位。</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation>無效單位。</translation>
+    </message>
+</context>
+<context>
+    <name>KxZoomDlg</name>
+    <message>
+        <source>The measurement must be between %1 and %2.</source>
+        <translation>度量值必須介於 %1 和 %2 之間。</translation>
+    </message>
+</context>
+<context>
+    <name>MultSpinbox</name>
+    <message>
+        <source>%1</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>&quot;%1&quot; is already open,To perform opening operation will cause the front of changes made to the abandoned, whether to open the &quot;%2&quot;</source>
+        <translation type="obsolete">&quot;%1&quot; 已經開啟，重新執行開啟操作將放棄之前所做的變更。是否要重新開啟 &quot;%2&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; is already opened. Reopening will cause changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
+        <translation type="obsolete">&quot;%1&quot; 已經開啟，重新執行開啟操作將放棄之前所做的變更。是否要重新開啟 &quot;%2&quot;</translation>
+    </message>
+    <message>
+        <source>A macro is currently recording. Click to stop recording.</source>
+        <translation>目前正在錄製巨集。按一下以停止錄製。</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
+        <translation>WPS Writer 2007/2010 範本(*.wptx)</translation>
+    </message>
+    <message>
+        <source>No macros is currently recording. Click to begin recording a new macro.</source>
+        <translation type="obsolete">目前沒有錄製任何巨集。請按一下以開始錄製新的巨集。</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <translation>拼字檢查</translation>
+    </message>
+    <message>
+        <source>SpellCheck</source>
+        <translation type="obsolete">拼字檢查</translation>
+    </message>
+    <message>
+        <source>The number input must be between 1 and 63.</source>
+        <translation>輸入的數字必須介於 1 和 63 之間。</translation>
+    </message>
+    <message>
+        <source>The number inputed must be between 1 and 63</source>
+        <translation type="obsolete">輸入的數字必須介於 1 和 63 之間。</translation>
+    </message>
+    <message>
+        <source>Track</source>
+        <translation>追蹤修訂</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007-2010 File(*.wpsx)</source>
+        <translation>WPS文字2007/2010檔案(*.wpsx)</translation>
+    </message>
+    <message>
+        <source>You must type a character for the custom separator.</source>
+        <translation>您必須鍵入一個字元作為自訂分隔符號。</translation>
+    </message>
+    <message>
+        <source>click here, start to record new macro</source>
+        <translation type="obsolete">目前沒有錄製任何巨集。請按一下以開始錄製新的巨集。</translation>
+    </message>
+    <message>
+        <source>click here, stop record macro</source>
+        <translation type="obsolete">目前正在錄製巨集。按一下以停止錄製。</translation>
+    </message>
+    <message>
+        <source>No macro is currently recording. Click to begin recording a new macro.</source>
+        <translation>目前沒有錄製任何巨集。請按一下以開始錄製新的巨集。</translation>
+    </message>
+    <message>
+        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
+        <translation type="obsolete">您已經改變 WPS Writer 在此印表機之預設信封控制方式 這些變更並不正確。請選擇 [重設] 以恢復 WPS 預設值。</translation>
+    </message>
+    <message>
+        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
+        <translation type="obsolete">WPS Writer 建議如上放入信封。
+若此方法不適用於您的印表機，請選擇正確的送紙方式。</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SelectedFormatPanel</name>
+    <message>
+        <source>&amp;Clear Formatting</source>
+        <translation>清除格式(C)</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation>修改(M)...</translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation>新增(N)...</translation>
+    </message>
+    <message>
+        <source>Clear Formatting(C)</source>
+        <translation type="obsolete">清除格式(C)</translation>
+    </message>
+    <message>
+        <source>clear format(C)</source>
+        <translation type="obsolete">清除格式(&amp;C)</translation>
+    </message>
+    <message>
+        <source>modify(M)...</source>
+        <translation type="obsolete">修改(M)...</translation>
+    </message>
+    <message>
+        <source>new(N)...</source>
+        <translation type="obsolete">新增(N)...</translation>
+    </message>
+</context>
+<context>
+    <name>StyleFormatPanel</name>
+    <message>
+        <source>&amp;Delete...</source>
+        <translation>刪除(D)...</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation>修改(M)...</translation>
+    </message>
+    <message>
+        <source>delete(D)...</source>
+        <translation type="obsolete">刪除(D)...</translation>
+    </message>
+    <message>
+        <source>modify(M)...</source>
+        <translation type="obsolete">修改(M)...</translation>
+    </message>
+</context>
+<context>
+    <name>TextFormFieldSpinBox</name>
+    <message>
+        <source>Unlimited</source>
+        <translation>不限定</translation>
+    </message>
+</context>
+<context>
+    <name>WpsContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation>垂直對齊方式(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>靠上對齊</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>靠下对齐</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation>文字方向(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <source>Vertical from Right to Left</source>
+        <translation>垂直方向從右往左</translation>
+    </message>
+    <message>
+        <source>Vertical from Left to Right</source>
+        <translation>垂直方向從左往右</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation>所有文字旋轉 90°</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation>所有文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>Rotate Asian Charaters 270°</source>
+        <translation>亞洲文字旋轉 270°</translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation>文字邊界</translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation>無邊界</translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation>窄邊界</translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation>標準邊界</translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation>寬邊界</translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation>加寬邊界</translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation>自訂</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation>自訂角度(&amp;U)</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation>左邊界(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation>輸入 0公分 至 55.88公分之間的值</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation>右邊界(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation>上邊界(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation>下邊界(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Do not rotate text</source>
+        <translation>不要旋轉文字</translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation>依照文字調整圖案的大小</translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation>圖案的文字自動換行(&amp;W)</translation>
+    </message>
+</context>
+<context>
+    <name>dialogstestClass</name>
+    <message>
+        <source>dialogstest</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">一般</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">儲存到(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Page range</source>
+        <translation type="unfinished">指定範圍</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">全部</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation type="unfinished">本頁</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation type="unfinished">選取範圍(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation type="unfinished">頁(&amp;G)</translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation type="unfinished">從：</translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation type="unfinished">到(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">匯出選項</translation>
+    </message>
+    <message>
+        <source>Summar&amp;y information</source>
+        <translation type="unfinished">摘要資訊(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>New &amp;Comment</source>
+        <translation type="unfinished">註解(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Hyperlink</source>
+        <translation type="unfinished">超連結(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Li&amp;nks of footnotes and endnotes</source>
+        <translation type="unfinished">註腳和章節附註的連結(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boo&amp;kmark</source>
+        <translation type="unfinished">書籤(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Revision</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Con&amp;vert title styles to bookmarks</source>
+        <translation type="unfinished">將標題樣式轉換為書籤(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Convert other &amp;styles to bookmarks</source>
+        <translation type="unfinished">將其他樣式轉換為書籤(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Convert c&amp;ustom styles to bookmarks</source>
+        <translation type="unfinished">將自訂樣式轉換為書籤(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation type="unfinished">權限設定(&amp;E)(使以下權限設定生效)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">密碼(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">確認(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished">備註: 只有設定了以上密碼，以下權限內容設定才會生效，並能防止這些設定被其他人變更。</translation>
+    </message>
+    <message>
+        <source>Permit to mo&amp;dify</source>
+        <translation type="unfinished">允許修改(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Permit to c&amp;opy</source>
+        <translation type="unfinished">允許複製(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Permit to &amp;add comments</source>
+        <translation type="unfinished">允許新增註解(&amp;A)</translation>
+    </message>
+    <message>
+        <source>P&amp;rinting permission:</source>
+        <translation type="unfinished">列印權限(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Printing Permission</source>
+        <translation type="unfinished">列印權限</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">不允許列印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低品質列印</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">自由列印</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">檔案開啟密碼:</translation>
+    </message>
+    <message>
+        <source>Pass&amp;word:</source>
+        <translation type="unfinished">密碼(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Conf&amp;irm:</source>
+        <translation type="unfinished">確認(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">匯出完成後自動關閉(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">開啟檔案(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -15931,7 +22004,11 @@ to the picture size?</source>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+<<<<<<< HEAD
         <translation>備註: 只有設定了以上密碼，以下權限內容設定才會生效，並能防止這些設定被其他人變更。</translation>
+=======
+        <translation type="obsolete">備註: 只有設定了以上密碼，以下權限內容設定才會生效，並能防止這些設定被其他人變更。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -15947,7 +22024,11 @@ to the picture size?</source>
     </message>
     <message>
         <source>Password to protect permission settings</source>
+<<<<<<< HEAD
         <translation>權限設定(&amp;E)(使以下權限設定生效)</translation>
+=======
+        <translation type="obsolete">權限設定(&amp;E)(使以下權限設定生效)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Permission P&amp;rint:</source>
@@ -15993,6 +22074,49 @@ to the picture size?</source>
         <source>Summar&amp;y information</source>
         <translation>摘要資訊(&amp;Y)</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Page range</source>
+        <translation>指定範圍</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>Current page</source>
+        <translation>本頁</translation>
+    </message>
+    <message>
+        <source>Selection</source>
+        <translation>選取範圍(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Page(s)</source>
+        <translation>頁(&amp;G)</translation>
+    </message>
+    <message>
+        <source>From:</source>
+        <translation>從：</translation>
+    </message>
+    <message>
+        <source>To:</source>
+        <translation>到(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Password to prot&amp;ect permission settings</source>
+        <translation>權限設定(&amp;E)(使以下權限設定生效)</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation>備註: 只有設定了以上密碼，以下權限內容設定才會生效，並能防止這些設定被其他人變更。</translation>
+    </message>
+    <message>
+        <source>Password to protect pe&amp;rmission settings</source>
+        <translation type="obsolete">權限設定(&amp;E)(使以下權限設定生效)</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -16014,6 +22138,32 @@ to the picture size?</source>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">同義字</translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="obsolete">目前的文字:</translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="obsolete">替代:</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">取代</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>kxdlgHyperlinkWps</name>
     <message>
         <source>Select a pla&amp;ce in this document:</source>
@@ -16028,7 +22178,11 @@ to the picture size?</source>
     </message>
     <message>
         <source>&amp;Color:</source>
+<<<<<<< HEAD
         <translation>字型顏色(&amp;C):</translation>
+=======
+        <translation>色彩(&amp;C):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -16140,7 +22294,11 @@ to the picture size?</source>
     </message>
     <message>
         <source>Watermark setup</source>
+<<<<<<< HEAD
         <translation>浮水印配置</translation>
+=======
+        <translation>浮水印設定</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>appl&amp;y to:</source>

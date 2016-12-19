@@ -22,7 +22,11 @@
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
+<<<<<<< HEAD
         <translation>檢查線上範本</translation>
+=======
+        <translation>檢查在線模板</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Create a blank document at startup</source>
@@ -104,7 +108,11 @@
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>WPS 辦公資源入口網站</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 </TS>

@@ -125,11 +125,19 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
+<<<<<<< HEAD
         <translation>深色樣式 2-強調 3/強調 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
         <translation>深色樣式 2-強調 1/強調 2</translation>
+=======
+        <translation type="obsolete">深色樣式 2-強調 3/強調 4</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
+        <translation type="obsolete">深色樣式 2-強調 1/強調 2</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Emphasize</source>
@@ -141,6 +149,7 @@
     </message>
     <message>
         <source>First Row</source>
+<<<<<<< HEAD
         <translation>首列:</translation>
     </message>
     <message>
@@ -150,6 +159,17 @@
     <message>
         <source>Last Row</source>
         <translation>最後一列</translation>
+=======
+        <translation>首列</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>末欄</translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation>末列</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Light style</source>
@@ -169,7 +189,11 @@
     </message>
     <message>
         <source>Themed Style</source>
+<<<<<<< HEAD
         <translation>背景樣式</translation>
+=======
+        <translation>佈景主題樣式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>3-</source>
@@ -223,6 +247,17 @@
         <source>theme style</source>
         <translation type="obsolete">佈景主題樣式</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation>深色樣式 2-強調 1/強調 2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation>深色樣式 2-強調 3/強調 4</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>DesignLayoutPanel</name>
@@ -248,7 +283,11 @@
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
+<<<<<<< HEAD
         <translation>替換選定設計(S)</translation>
+=======
+        <translation>取代選定的設計(&amp;S)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
@@ -447,6 +486,7 @@
     <name>DlgKxInvolvedTemplate</name>
     <message>
         <source>Involved Template</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -464,6 +504,25 @@
     <message>
         <source>Apply Master</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>此文件使用的範本</translation>
+    </message>
+    <message>
+        <source>Select Involved Template</source>
+        <translation>選擇此文件範本</translation>
+    </message>
+    <message>
+        <source>Apply Current</source>
+        <translation>套用於目前的投影片</translation>
+    </message>
+    <message>
+        <source>Apply All</source>
+        <translation>套用於所有投影片</translation>
+    </message>
+    <message>
+        <source>Apply Master</source>
+        <translation>套用至母片</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -868,7 +927,11 @@
     </message>
     <message>
         <source>UnLocked</source>
+<<<<<<< HEAD
         <translation>解除鎖定</translation>
+=======
+        <translation type="obsolete">解除鎖定</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -978,6 +1041,13 @@
         <source>slides</source>
         <translation type="obsolete">投影片</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Unlocked</source>
+        <translation>解除鎖定</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>Dlgtypography</name>
@@ -1018,7 +1088,11 @@
     </message>
     <message>
         <source>Loading KUI</source>
+<<<<<<< HEAD
         <translation>載入KUI</translation>
+=======
+        <translation>正在載入設定檔</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -1138,12 +1212,29 @@
         <translation>依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>bgMagic tooltip</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation type="unfinished"></translation>
+=======
+        <source>Thousands of templates to create snazzy and distinctive  presentations</source>
+        <translation>成千上萬的模板來建立時髦且獨特的簡報</translation>
+    </message>
+    <message>
+        <source>Try for magic!</source>
+        <translation>試試手氣，相信奇蹟會出現</translation>
+    </message>
+    <message>
+        <source>bgMagic tooltip</source>
+        <translation type="obsolete">試試手氣，相信奇蹟會出現</translation>
+    </message>
+    <message>
+        <source>bgTemplate tooltip</source>
+        <translation type="obsolete">成千上萬的時尚模板幫您打造不一樣的演示稿</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -1189,7 +1280,11 @@
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+<<<<<<< HEAD
         <translation>依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
+=======
+        <translation type="obsolete">依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Open Image</source>
@@ -1247,7 +1342,11 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Accent</source>
+<<<<<<< HEAD
         <translation>強調文字</translation>
+=======
+        <translation type="obsolete">強調文字</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
@@ -1259,6 +1358,7 @@
     </message>
     <message>
         <source>Background</source>
+<<<<<<< HEAD
         <translation>背景</translation>
     </message>
     <message>
@@ -1276,6 +1376,65 @@
     <message>
         <source>Title text</source>
         <translation>標題文字</translation>
+=======
+        <translation type="obsolete">背景</translation>
+    </message>
+    <message>
+        <source>Fills</source>
+        <translation type="obsolete">填滿</translation>
+    </message>
+    <message>
+        <source>Shadows</source>
+        <translation type="obsolete">陰影</translation>
+    </message>
+    <message>
+        <source>Text and lines</source>
+        <translation type="obsolete">文字及線條</translation>
+    </message>
+    <message>
+        <source>Title text</source>
+        <translation type="obsolete">標題文字</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <translation>深1</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>淡</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation>深2</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation>淡2</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation>輔色1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation>輔色2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation>輔色3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation>輔色4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation>輔色5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation>輔色6</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -1391,11 +1550,15 @@
     </message>
     <message>
         <source>Advanced</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Magic Backgroud</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>進階</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>I&amp;gnor the back ground of main</source>
@@ -1403,7 +1566,23 @@
     </message>
     <message>
         <source>Template Background</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>模板背景</translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
+        <translation>魔法換背景</translation>
+    </message>
+    <message>
+        <source>Magic Backgroud</source>
+        <translation type="obsolete">魔法換背景</translation>
+    </message>
+    <message>
+        <source>Template background</source>
+        <translation type="obsolete">背景模板</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -1414,7 +1593,11 @@
     </message>
     <message>
         <source>Icon</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>圖示</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Zoom</source>
@@ -1572,7 +1755,11 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>&amp;Set Language</source>
+<<<<<<< HEAD
         <translation type="unfinished">設置拼字檢查語言(&amp;S)</translation>
+=======
+        <translation>設定語言(&amp;S)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Change&amp;To:</source>
@@ -1584,6 +1771,32 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>兼容性检查器</translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation>舊版 WPS Presentation 不支援這份簡報中的下列功能。當您以舊版檔案格式儲存此文件時，這些功能將會遺失或降級。按一下 [繼續]，繼續儲存此簡報。若要保留所有功能，請按一下 [取消] 並以其中一個新檔案格式進行儲存。</translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation>摘要:</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>繼續(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxDlgDateAndTime</name>
     <message>
         <source>&amp;Available formats:</source>
@@ -1629,27 +1842,53 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgEmbedPrivateFonts</name>
     <message>
         <source>Dialog</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
+        <translation>此文件中使用了雲端字型。若此文件需要傳閱他人，
+我們建議您將字型儲存至文件當中。
+您要將字型儲存至文件中嗎？</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
+        <translation>記住我的選擇，不要再提示我</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
         <translation type="unfinished"></translation>
+=======
+        <translation type="obsolete">此文件中使用了雲端字型。若此文件需要傳閱他人，
+我們建議您將字型儲存至文件當中。
+您要將字型儲存至文件中嗎？</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
+<<<<<<< HEAD
         <translation>色彩(&amp;C):</translation>
     </message>
     <message>
@@ -1723,6 +1962,81 @@ If necessary, click Cancel</source>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
         <translation>這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
+=======
+        <translation type="obsolete">色彩(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Default for new objects</source>
+        <translation type="obsolete">新物件的預設值(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Emboss</source>
+        <translation type="obsolete">浮凸(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation type="obsolete">大小(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Underline</source>
+        <translation type="obsolete">底線(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Asian text fo&amp;nt:</source>
+        <translation type="obsolete">中文字型(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="obsolete">粗體</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="obsolete">粗斜體</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="obsolete">效果</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation type="obsolete">字型樣式(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="obsolete">字型</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="obsolete">斜體</translation>
+    </message>
+    <message>
+        <source>Latin text &amp;font:</source>
+        <translation type="obsolete">英文字型(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Offse&amp;t:</source>
+        <translation type="obsolete">位移(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation type="obsolete">標準</translation>
+    </message>
+    <message>
+        <source>Sh&amp;adow</source>
+        <translation type="obsolete">陰影(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation type="obsolete">下標(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Supe&amp;rscript</source>
+        <translation type="obsolete">上標(&amp;R)</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
+        <translation type="obsolete">這是 TrueType 字型，螢幕顯示及列印使用同樣字型。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -1839,6 +2153,13 @@ If necessary, click Cancel</source>
         <source>Set as De&amp;fault</source>
         <translation type="obsolete">設成預設值(&amp;C)</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation>輸入 0.1公分 至 5.079公分之間的值</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgHeaderFooter</name>
@@ -2126,7 +2447,11 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Show &amp;windows in taskbar</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>顯示工作列上的視窗(&amp;W)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>...</source>
@@ -2190,7 +2515,11 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>Gerneral options</source>
+<<<<<<< HEAD
         <translation>一般選項</translation>
+=======
+        <translation type="obsolete">一般選項</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
@@ -2395,11 +2724,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Privacy</source>
+<<<<<<< HEAD
         <translation>隱私</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
         <translation>幫助我們改進產品。</translation>
+=======
+        <translation type="obsolete">隱私</translation>
+    </message>
+    <message>
+        <source>Help us to improve WPS Office</source>
+        <translation type="unfinished">幫助我們改進產品。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>  You can use a higher level of encryption for your document by choosing a password below, this will encrypt the document using the credentials you entered into the password box.</source>
@@ -2499,7 +2836,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Embed all &amp;characters (best for editing by other people)</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>內嵌所有字元 (有利於其他人進行編輯)(&amp;C)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2511,6 +2852,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Remind &amp;Me When Save</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2520,6 +2862,81 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>The Advanced button allows you to choose from different encryption types.</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>提醒是否將雲端字型內嵌至檔案(&amp;M)</translation>
+    </message>
+    <message>
+        <source>The Advanced button allows you to choose from different encryption types.</source>
+        <translation>按一下 [進階] 按鈕選擇不同的加密類型，可以為您的文件設定不同層級的加密保護。</translation>
+    </message>
+    <message>
+        <source>General options</source>
+        <translation>一般選項</translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation>密碼保護</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>選取時顯示浮動工具列(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>按滑鼠右鍵時顯示浮動工具列(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>訂閱 WPS 熱點</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>當日顯示(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>一周後顯示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>不要再顯示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;如何去除其他廣告？了解新的變化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>回應</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">加入使用者經歷改進計劃，以幫助改進和完善 WPS Office。</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">語言</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">自動下載與更新語言套件</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation type="obsolete">選擇顯示與說明語言</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation type="obsolete">選擇...</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="obsolete">快速鍵</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="obsolete">自訂快速鍵:</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -2669,6 +3086,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2686,6 +3104,25 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Widescreen</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>全螢幕(4:3)</translation>
+    </message>
+    <message>
+        <source>Overhead</source>
+        <translation>滑升</translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:9)</source>
+        <translation>全螢幕(16:9)</translation>
+    </message>
+    <message>
+        <source>Fullscreen(16:10)</source>
+        <translation>全螢幕(16:10)</translation>
+    </message>
+    <message>
+        <source>Widescreen</source>
+        <translation>寬螢幕</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Notes, handouts and outline</source>
@@ -2719,6 +3156,116 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>On-screen show</source>
         <translation type="obsolete">在螢幕上顯示</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation>輸入 2.54 至 142.22公分之間的值</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">段落</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="obsolete">縮排和間距(&amp;I)</translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="obsolete">後段(&amp;F):</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="obsolete">位於(&amp;A)：</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="obsolete">前段(&amp;B)：</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="obsolete">行距(&amp;N):</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">一般</translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="obsolete">間距</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="obsolete">對齊方式(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="obsolete">縮排</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="obsolete">文字之前(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="obsolete">特別(&amp;S):</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="obsolete">間距值(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>C&amp;hinese Format</source>
+        <translation type="obsolete">中文印刷模式(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="obsolete">換行</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="obsolete">使用中文規則控制第一和最後字元(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="obsolete">允許英文字在字中換行(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="obsolete">允許標點符號溢出邊界(&amp;N)</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="obsolete">避頭尾字元</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="obsolete">標準(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="obsolete">自訂(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="obsolete">不能置於行首的字元(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="obsolete">不能置於行尾的字元(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="obsolete">換行字元目前自訂為: </translation>
+    </message>
+    <message>
+        <source>&amp;Layout</source>
+        <translation type="obsolete">配置(&amp;L)</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -2906,6 +3453,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Total playing time:</source>
         <translation type="obsolete">播放時間總計:</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation>播放時隱藏圖示(&amp;H)</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -2927,6 +3481,36 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation>修剪媒體</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation>開始時間(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation>結束時間(&amp;E)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxDlgViewZoom</name>
     <message>
         <source>%</source>
@@ -2992,10 +3576,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation>音量(&amp;V)</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>Volume Redress</source>
         <translation></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>cbMute</source>
         <translation></translation>
     </message>
@@ -3003,6 +3590,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>tbVolume</source>
         <translation></translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Volume Adjustment</source>
+        <translation>音量調整</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlgWppActionSettings</name>
@@ -3379,6 +3973,44 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Pure Black and White</source>
         <translation type="obsolete">純粹黑白</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>如何解決印表機的問題？</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation>投影片大小</translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation>正在調整成新的投影片大小。您要將內容大小調至最大，或將其縮小以確保能容納於新投影片中?</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation>最大化</translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation>確保最適大小</translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation>最大化(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation>確保最適大小(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxDlglineSpace</name>
@@ -3408,10 +4040,100 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxExportPDFDlg</name>
     <message>
         <source>Handouts</source>
         <translation>講義</translation>
+=======
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">講義</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation type="unfinished">請輸入權限設定密碼!</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished">密碼確認不符。</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation type="unfinished">請輸入權限設定密碼。</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation type="unfinished">權限設定密碼和檔案開啟密碼不能相同。</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation type="unfinished">匯出範圍無效。</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation type="unfinished">您指定的檔案已經存在，您要取代它嗎?</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation type="unfinished">檔名與現有的目錄重複。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation type="unfinished">指定的目錄不存在。</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation type="unfinished">您沒有權限將檔案寫入目前的目錄。</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation type="unfinished">您選擇要匯出的投影片不存在，請改選其他的投影片。</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation type="unfinished">這個自訂放映裡的投影片都已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation type="unfinished">這個範圍內的所有投影片都已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation type="unfinished">選定的投影片已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation type="unfinished">目前的投影片已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation type="unfinished">此簡報中所有的投影片都已標示為隱藏。</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation type="unfinished">請確定投影片目前並未隱藏，或選擇匯出隱藏的投影片。</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportPDFDlg</name>
+    <message>
+        <source>Handouts</source>
+        <translation>講義</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Input permission password.</source>
@@ -3543,6 +4265,56 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation type="unfinished">使用者取消作業。</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">關閉</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation type="unfinished">正在匯出摘要資訊...</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation type="unfinished">正在處理第 </translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation type="unfinished"> 頁...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation type="unfinished">正在匯出標籤...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source> Page...</source>
@@ -3660,6 +4432,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
+<<<<<<< HEAD
         <translation>(使用中文字型)</translation>
     </message>
     <message>
@@ -3677,6 +4450,25 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>This font size is not available.</source>
         <translation>無法使用這種字型大小。</translation>
+=======
+        <translation type="obsolete">(使用中文字型)</translation>
+    </message>
+    <message>
+        <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
+    </message>
+    <message>
+        <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
+        <translation type="obsolete">您的系統沒有 %1 字型，因此改用別的字型替代。是否仍要使用這個字型?</translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="obsolete">無法使用這種字型樣式。</translation>
+    </message>
+    <message>
+        <source>This font size is not available.</source>
+        <translation type="obsolete">無法使用這種字型大小。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -3692,10 +4484,46 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxFormatTableDlg</name>
     <message>
         <source>Custom</source>
         <translation>自訂</translation>
+=======
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation>背景選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>轉換</translation>
+    </message>
+    <message>
+        <source>POSITION</source>
+        <translation>位置</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation>填滿</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>填滿</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatTableDlg</name>
+    <message>
+        <source>Custom</source>
+        <translation type="obsolete">自訂</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -3715,7 +4543,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
+<<<<<<< HEAD
         <translation>依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
+=======
+        <translation type="obsolete">依照色彩配置的背景色彩,依照色彩配置的文字和線條色彩,依照色彩配置的陰影色彩,依照色彩配置的標題文字色彩,依照色彩配置的填滿色彩,依照色彩配置的強調文字色彩,依照色彩配置的強調文字和超連結色彩,依照色彩配置的強調文字及讀過的超連結色彩</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
@@ -3733,6 +4565,64 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Follow Title Text Scheme Color</source>
         <translation>依照色彩配置的標題文字色彩</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Select Picture</source>
+        <translation>選取圖片</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>所有圖片</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Windows 增強型中繼檔</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Windows 中繼檔</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>JPEG 檔案交換格式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>可攜式網路圖形</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Windows 點陣圖</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>GIF 圖形交換格式</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>TIF 檔案格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>項目必須為正數</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>這個項目不能包含任何非數值的字元</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>項目必須大於或等於 %1</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>項目必須小於或等於 %1</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxHyperlinkWppPage</name>
@@ -3816,14 +4706,29 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>空的設計範本</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KxInvolvedTemplateView</name>
     <message>
         <source>Use Blank Template</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>套用空的範本</translation>
+    </message>
+</context>
+<context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>設成預設值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -3897,6 +4802,16 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
@@ -3912,7 +4827,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
+<<<<<<< HEAD
         <translation>密碼確認不符。</translation>
+=======
+        <translation type="obsolete">密碼確認不符。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The reentered password erro?</source>
@@ -3928,6 +4847,21 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+<<<<<<< HEAD
+=======
+        <translation type="obsolete">您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="obsolete">您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>密碼確認不符。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
@@ -4036,6 +4970,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxRehearsalToolbar</name>
     <message>
         <source>Next</source>
+<<<<<<< HEAD
         <translation>下一頁</translation>
     </message>
     <message>
@@ -4045,6 +4980,17 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Rehearsal</source>
         <translation>預演</translation>
+=======
+        <translation>下一步</translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation>暫停錄製</translation>
+    </message>
+    <message>
+        <source>Rehearsal</source>
+        <translation>錄製</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Repeat</source>
@@ -4070,7 +5016,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>&amp;Master name:</source>
+<<<<<<< HEAD
         <translation>母片名稱(&amp;M):</translation>
+=======
+        <translation type="obsolete">母片名稱(&amp;M):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -4078,12 +5028,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Rename Master</source>
+<<<<<<< HEAD
         <translation>重新命名母片</translation>
+=======
+        <translation type="obsolete">重新命名母片</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Master Name:</source>
         <translation type="obsolete">母片名稱(&amp;M):</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Rename</source>
+        <translation>重新命名</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名稱(&amp;N):</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxReplaceFontDlg</name>
@@ -4127,6 +5092,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
+<<<<<<< HEAD
         <translation>自動調整</translation>
     </message>
     <message>
@@ -4140,6 +5106,21 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Medium</source>
         <translation>中</translation>
+=======
+        <translation>文件的最佳比對</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>深色</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>淺色</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>中等深淺</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Banded Columns</source>
@@ -4269,11 +5250,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Color Schemes</source>
+<<<<<<< HEAD
         <translation>色彩配置</translation>
     </message>
     <message>
         <source>Design Templates</source>
         <translation>設計模版</translation>
+=======
+        <translation type="obsolete">色彩配置</translation>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation>簡報設計範本</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Play</source>
@@ -4296,11 +5285,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxTpColorScheme</name>
     <message>
         <source>Apply a color scheme:</source>
+<<<<<<< HEAD
         <translation>套用色彩配置</translation>
     </message>
     <message>
         <source>Color Schemes</source>
         <translation>色彩配置</translation>
+=======
+        <translation type="obsolete">套用色彩配置</translation>
+    </message>
+    <message>
+        <source>Color Schemes</source>
+        <translation type="obsolete">色彩配置</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Text Label</source>
@@ -4320,7 +5317,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Infotip</source>
+<<<<<<< HEAD
         <translation>文字標籤</translation>
+=======
+        <translation type="obsolete">文字標籤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>apply color scheme:</source>
@@ -4335,6 +5336,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Animation Schemes</source>
+<<<<<<< HEAD
         <translation>動畫方案</translation>
     </message>
     <message>
@@ -4344,6 +5346,17 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Edit Color Schemes...</source>
         <translation>編輯配色方案</translation>
+=======
+        <translation type="obsolete">動畫方案</translation>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation type="obsolete">設計模版</translation>
+    </message>
+    <message>
+        <source>Edit Color Schemes...</source>
+        <translation type="obsolete">編輯配色方案</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>animate scheme</source>
@@ -4357,16 +5370,31 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>edit colorScheme...</source>
         <translation type="obsolete">編輯色彩配置...</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Change Theme Color</source>
+        <translation type="obsolete">變更主題色彩</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Apply a design template:</source>
+<<<<<<< HEAD
         <translation>套用投影片版式</translation>
     </message>
     <message>
         <source>Design Templates</source>
         <translation>設計模版</translation>
+=======
+        <translation type="obsolete">套用投影片版式</translation>
+    </message>
+    <message>
+        <source>Design Templates</source>
+        <translation>簡報設計範本</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Text Label</source>
@@ -4396,6 +5424,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>design tempalte</source>
         <translation type="obsolete">簡報設計範本</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Apply a design template</source>
+        <translation>套用投影片版式</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
@@ -4409,7 +5444,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Color Schemes</source>
+<<<<<<< HEAD
         <translation>色彩配置</translation>
+=======
+        <translation type="obsolete">色彩配置</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>animate scheme</source>
@@ -4436,7 +5475,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Apply a design template:</source>
+<<<<<<< HEAD
         <translation>套用投影片版式</translation>
+=======
+        <translation type="obsolete">套用投影片版式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>apply slide layout:</source>
@@ -4446,6 +5489,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>insert slide show:</source>
         <translation type="obsolete">插入新投影片時顯示</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Apply a design template</source>
+        <translation>套用投影片版式</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxTpSlideTransition</name>
@@ -4455,6 +5505,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Apply to All Slides</source>
+<<<<<<< HEAD
         <translation>套用於所有投影片(A)</translation>
     </message>
     <message>
@@ -4464,6 +5515,17 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Apply to selected slides:</source>
         <translation>套用於所選投影片</translation>
+=======
+        <translation>套用至所有投影片</translation>
+    </message>
+    <message>
+        <source>Apply to Master</source>
+        <translation>套用至母片</translation>
+    </message>
+    <message>
+        <source>Apply to selected slides:</source>
+        <translation type="obsolete">套用於所選投影片</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>AutoPreview</source>
@@ -4483,7 +5545,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>On mouse click</source>
+<<<<<<< HEAD
         <translation>單擊滑鼠時</translation>
+=======
+        <translation>按滑鼠換頁</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Play</source>
@@ -4491,7 +5557,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Rehearse Current Page</source>
+<<<<<<< HEAD
         <translation>排練當前頁</translation>
+=======
+        <translation>排練目前頁面</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Slide Show</source>
@@ -4573,12 +5643,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Slide Transition</source>
         <translation type="unfinished"></translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Apply to selected slides</source>
+        <translation>套用至所選的投影片</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Loop until next sound</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation type="obsolete">循環播放，直到下一聲音</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Play</source>
@@ -4609,6 +5690,24 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
+=======
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation>修剪影片</translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation>修剪聲音</translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation>持續期間: </translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>KxTypograpgyDlg</name>
     <message>
         <source>(None)</source>
@@ -4749,6 +5848,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxWppColorModel</name>
     <message>
         <source>Automatic</source>
@@ -4790,6 +5890,99 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Curve</source>
+=======
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation>無框線</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation>2.25</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>點</translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation>0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation>0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppColorModel</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="obsolete">自動</translation>
+    </message>
+    <message>
+        <source>Custom Color</source>
+        <translation type="obsolete">自訂色彩</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppColorSchemeDlg</name>
+    <message>
+        <source> A&amp;dd As Standard Scheme </source>
+        <translation>新增為標準配置(&amp;D)</translation>
+    </message>
+    <message>
+        <source> De&amp;lete Color Scheme </source>
+        <translation>刪除色彩配置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
+        <translation>無法刪除最後一套色彩配置。一份簡報至少必須有一套標準色彩配置。</translation>
+    </message>
+    <message>
+        <source> De&amp;lete Scheme </source>
+        <translation type="obsolete">刪除色彩配置(&amp;L)</translation>
+    </message>
+    <message>
+        <source>The last color scheme can&apos;t be deleted. A presentation must always contain at least one standard color scheme.</source>
+        <translation type="obsolete">無法刪除最後一套色彩配置。一份簡報至少必須有一套標準色彩配置。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppCustomAnimationTp</name>
+    <message>
+        <source>&amp;Convert Object to Path</source>
+        <translation>為快取圖案指定路徑(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Curve</source>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation>曲線(&amp;C)</translation>
     </message>
     <message>
@@ -4965,6 +6158,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Apply to &amp;Master</source>
+<<<<<<< HEAD
         <translation>套用於母片 (M)</translation>
     </message>
     <message>
@@ -4986,6 +6180,29 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Add &amp;Design</source>
         <translation>增加設計方案(D)</translation>
+=======
+        <translation>套用至母片(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All Slides</source>
+        <translation>套用於所有投影片(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation>套用於選定投影片(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Replace &amp;All Designs</source>
+        <translation>替換所有設計(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Replace &amp;Selected Designs</source>
+        <translation>替換選定設計(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Add &amp;Design</source>
+        <translation>增加設計方案(&amp;D)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>add design(D)</source>
@@ -5035,18 +6252,44 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxWppFillColorModel</name>
     <message>
         <source>No Color</source>
+<<<<<<< HEAD
         <translation type="obsolete">無填滿</translation>
     </message>
+=======
+        <translation>無填滿</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="obsolete">無填滿</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontColorModel</name>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <message>
         <source>No Fill</source>
         <translation>無填滿</translation>
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
         <translation>無效的整數值</translation>
+=======
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>無外框</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontSizeCommand</name>
+    <message>
+        <source>This is not a valid integer.</source>
+        <translation>您所輸入的不是有效數字，無法在此使用。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Invail Integer.</source>
@@ -5054,6 +6297,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+<<<<<<< HEAD
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
@@ -6019,6 +7263,1628 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Dialogstest</source>
         <translation></translation>
+=======
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation>投影片背景填滿</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>圖表選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文字選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>圖案選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文字選項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>FILL</source>
+        <translation>填滿</translation>
+    </message>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>文字填滿</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation>正在準備匯出視訊所需的元件</translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation>無法載入視訊匯出所需的元件。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppLineColorModel</name>
+    <message>
+        <source>No Line</source>
+        <translation>無外框</translation>
+    </message>
+    <message>
+        <source>No Line Fill</source>
+        <translation type="obsolete">無外框</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation>前移 0.25 秒</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation>後移 0.25 秒</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation>播放/暫停</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation>空白投影片</translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation>內容投影片</translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation>標題及物件</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation>標題投影片</translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation>空白</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>封面</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>型錄投影片</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>本文</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>轉換投影片</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>結束投影片</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Text</source>
+        <translation type="obsolete">標題及物件</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Title</source>
+        <translation type="obsolete">標題投影片</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Blank</source>
+        <translation type="obsolete">空白</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Cover</source>
+        <translation type="obsolete">封面</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Catalog</source>
+        <translation type="obsolete">型錄</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Main</source>
+        <translation type="obsolete">本文</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Trans</source>
+        <translation type="obsolete">轉換投影片</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Ending</source>
+        <translation type="obsolete">結束投影片</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_More</source>
+        <translation type="obsolete">其他</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation type="unfinished">檢視</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">編輯</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">列印</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation>播放/暫停</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrintDlg</name>
+    <message>
+        <source>An error occurred on printer %1 !</source>
+        <translation>印表機「%1」發生錯誤!</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Current slides have marked as hidden!</source>
+        <translation>目前的投影片已標示為隱藏!</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation>講義</translation>
+    </message>
+    <message>
+        <source>Input is invalid.</source>
+        <translation>列印範圍無效。</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation>講義</translation>
+    </message>
+    <message>
+        <source>Selected slides have marked as hidden!</source>
+        <translation>選定的投影片已標示為隱藏!</translation>
+    </message>
+    <message>
+        <source>The Slide that you selected is not exist, please choose another one!</source>
+        <translation>您選擇要列印的投影片不存在，請改選其他的投影片!</translation>
+    </message>
+    <message>
+        <source>Slides in this custom show have marked as hidden!</source>
+        <translation>這個自訂放映裡的投影片都已標示為隱藏!</translation>
+    </message>
+    <message>
+        <source>All slides among this range are marked as hidden!</source>
+        <translation>這個範圍內的所有投影片都已標示為隱藏!</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are marked as hidden. Either ensure that the slides are no longer hidden, or choose to print hidden slides.</source>
+        <translation>簡報中所有的投影片都已標示為隱藏。請確定投影片目前並未隱藏，或選擇列印隱藏的投影片。</translation>
+    </message>
+    <message>
+        <source>All slides among the rang must be marked as hidden!</source>
+        <translation type="obsolete">這個範圍內的所有投影片都已標示為隱藏!</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are skipped.Either ensure that the slides are no longer skipped, or choose to print skipped slides.</source>
+        <translation type="obsolete">簡報中所有的投影片都已標示為隱藏。請確定投影片目前並未隱藏，或選擇列印隱藏的投影片。</translation>
+    </message>
+    <message>
+        <source>Slides which you selected is not exist, please choose another one!</source>
+        <translation type="obsolete">您選擇要列印的投影片不存在，請改選其他的投影片!</translation>
+    </message>
+    <message>
+        <source>These customed play slides is marked as hidden!</source>
+        <translation type="obsolete">這個自訂放映裡的投影片都已標示為隱藏!</translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation type="obsolete">關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation>填滿背景</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation>這份簡報當前正在匯出視訊，您確定要關閉嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="obsolete">前移 0.25 秒</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="obsolete">後移 0.25 秒</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="obsolete">播放/暫停</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">音量</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="obsolete">設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>Zoom Level</source>
+        <translation>縮放比例</translation>
+    </message>
+    <message>
+        <source>&amp;Percent:</source>
+        <translation type="obsolete">百分比(&amp;P)：</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>最適大小(&amp;F)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_ViewingScales</source>
+        <translation type="obsolete">縮放</translation>
+    </message>
+    <message>
+        <source>ZoomOption_SelfDefine</source>
+        <translation type="obsolete">百分比(P)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_BestFit</source>
+        <translation type="obsolete">最適大小(F)</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>百分比(&amp;P):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation>格式化圖案</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>設定圖片格式</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation>格式化媒體</translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation>格式化 OLE 物件</translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation>格式化控制物件</translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation>背景格式</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation>筆跡格式</translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation>全部套用</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation>重設背景</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTransModel</name>
+    <message>
+        <source>Transition Group 01</source>
+        <translation type="obsolete">無切換效果</translation>
+    </message>
+    <message>
+        <source>Transition Group 02</source>
+        <translation type="obsolete">淡出和溶解</translation>
+    </message>
+    <message>
+        <source>Transition Group 03</source>
+        <translation type="obsolete">擦除</translation>
+    </message>
+    <message>
+        <source>Transition Group 04</source>
+        <translation type="obsolete">推進和覆蓋</translation>
+    </message>
+    <message>
+        <source>Transition Group 05</source>
+        <translation type="obsolete">條紋和橫紋</translation>
+    </message>
+    <message>
+        <source>Transition Group 06</source>
+        <translation type="obsolete">隨機</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無切換效果</translation>
+    </message>
+    <message>
+        <source>Fade and Dissolve</source>
+        <translation>淡出和溶解</translation>
+    </message>
+    <message>
+        <source>Wipe</source>
+        <translation>擦除</translation>
+    </message>
+    <message>
+        <source>Push and Cover</source>
+        <translation>推進和覆蓋</translation>
+    </message>
+    <message>
+        <source>Stripe and Cross</source>
+        <translation>條紋和橫紋</translation>
+    </message>
+    <message>
+        <source>Random</source>
+        <translation>隨機</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVpPodium</name>
+    <message>
+        <source>Comment</source>
+        <translation>演講者備忘稿</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>大綱</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVpSlideNormal</name>
+    <message>
+        <source>Outline</source>
+        <translation>大綱</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation>投影片</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppZoomComboCommand</name>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation>您所輸入的不是有效數字，無法在此使用。</translation>
+    </message>
+    <message>
+        <source>Invail Unit.</source>
+        <translation type="obsolete">您所輸入的不是有效數字，無法在此使用。</translation>
+    </message>
+</context>
+<context>
+    <name>LayoutPanel</name>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation>套用於選定投影片(S)</translation>
+    </message>
+    <message>
+        <source>Insert &amp;New Slide</source>
+        <translation>插入新投影片(N)</translation>
+    </message>
+    <message>
+        <source>Reapply &amp;Layout</source>
+        <translation>重新套用樣式(L)</translation>
+    </message>
+    <message>
+        <source>apply select slide(S)</source>
+        <translation type="obsolete">套用至選定的投影片(S)</translation>
+    </message>
+    <message>
+        <source>insert new slide(N)</source>
+        <translation type="obsolete">插入新投影片(N)</translation>
+    </message>
+    <message>
+        <source>reapply style(L)</source>
+        <translation type="obsolete">重新套用版面配置(L)</translation>
+    </message>
+</context>
+<context>
+    <name>QMyMessageBox</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Open the compressed file</source>
+        <translation>開啟壓縮檔案</translation>
+    </message>
+    <message>
+        <source>Open the folder</source>
+        <translation>開啟資料夾</translation>
+    </message>
+    <message>
+        <source>Package has been completed</source>
+        <translation>已完成封裝</translation>
+    </message>
+    <message>
+        <source>File package has been completed, you can carry out other operations.</source>
+        <translation>檔案封裝已完成，您可以進行其他作業。</translation>
+    </message>
+    <message>
+        <source>File package has been completed,you can carry out other operations</source>
+        <translation type="obsolete">檔案封裝已完成，您可以進行其他作業。</translation>
+    </message>
+    <message>
+        <source>open the compressed file</source>
+        <translation type="obsolete">開啟壓縮檔案</translation>
+    </message>
+    <message>
+        <source>open the folder</source>
+        <translation type="obsolete">開啟資料夾</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Blinds 1</source>
+        <translation>水平百葉窗</translation>
+    </message>
+    <message>
+        <source>Blinds 2</source>
+        <translation>垂直百葉窗</translation>
+    </message>
+    <message>
+        <source>Box In</source>
+        <translation>盒狀收縮</translation>
+    </message>
+    <message>
+        <source>Box Out</source>
+        <translation>盒狀放射</translation>
+    </message>
+    <message>
+        <source>Chess 1</source>
+        <translation>橫向棋盤式</translation>
+    </message>
+    <message>
+        <source>Chess 2</source>
+        <translation>縱向棋盤式</translation>
+    </message>
+    <message>
+        <source>Chinese(China)</source>
+        <translation>中文 (中國)</translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation>中文 (台灣)</translation>
+    </message>
+    <message>
+        <source>Circle Out</source>
+        <translation>圓形擴展</translation>
+    </message>
+    <message>
+        <source>Comb 1</source>
+        <translation>左右梳紋</translation>
+    </message>
+    <message>
+        <source>Comb 2</source>
+        <translation>上下梳紋</translation>
+    </message>
+    <message>
+        <source>Cover 1</source>
+        <translation>向左下插入</translation>
+    </message>
+    <message>
+        <source>Cover 2</source>
+        <translation>向左上插入</translation>
+    </message>
+    <message>
+        <source>Cover 3</source>
+        <translation>向右下插入</translation>
+    </message>
+    <message>
+        <source>Cover 4</source>
+        <translation>向右上插入</translation>
+    </message>
+    <message>
+        <source>Cover Down</source>
+        <translation>向下插入</translation>
+    </message>
+    <message>
+        <source>Cover Left</source>
+        <translation>向左插入</translation>
+    </message>
+    <message>
+        <source>Cover Right</source>
+        <translation>向右插入</translation>
+    </message>
+    <message>
+        <source>Cover Up</source>
+        <translation>向上插入</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <translation>切換投影片</translation>
+    </message>
+    <message>
+        <source>Cut Black</source>
+        <translation>由黑中切出</translation>
+    </message>
+    <message>
+        <source>Diamond Out</source>
+        <translation>菱形擴展</translation>
+    </message>
+    <message>
+        <source>Dissolve</source>
+        <translation>溶解</translation>
+    </message>
+    <message>
+        <source>English(America)</source>
+        <translation>英文 (美國)</translation>
+    </message>
+    <message>
+        <source>Fade</source>
+        <translation>淡出</translation>
+    </message>
+    <message>
+        <source>Fade Smooth</source>
+        <translation>平滑淡出</translation>
+    </message>
+    <message>
+        <source>In the %1 Show</source>
+        <translation>在 %1 中的 簡報</translation>
+    </message>
+    <message>
+        <source>In the %1 Slide</source>
+        <translation>在 %s 中的 投影片</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>日文</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>標題閃爍</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無效果</translation>
+    </message>
+    <message>
+        <source>Plus Out</source>
+        <translation>十字形擴展</translation>
+    </message>
+    <message>
+        <source>Push Down</source>
+        <translation>向下推展</translation>
+    </message>
+    <message>
+        <source>Push Left</source>
+        <translation>向左推展</translation>
+    </message>
+    <message>
+        <source>Push Right</source>
+        <translation>向右推展</translation>
+    </message>
+    <message>
+        <source>Push Up</source>
+        <translation>向上推展</translation>
+    </message>
+    <message>
+        <source>Random</source>
+        <translation>隨機</translation>
+    </message>
+    <message>
+        <source>Random 1</source>
+        <translation>水平線條</translation>
+    </message>
+    <message>
+        <source>Random 2</source>
+        <translation>垂直線條</translation>
+    </message>
+    <message>
+        <source>Split 1</source>
+        <translation>上下夾縮</translation>
+    </message>
+    <message>
+        <source>Split 2</source>
+        <translation>上下擴展</translation>
+    </message>
+    <message>
+        <source>Split 3</source>
+        <translation>左右夾縮</translation>
+    </message>
+    <message>
+        <source>Split 4</source>
+        <translation>左右擴展</translation>
+    </message>
+    <message>
+        <source>Strips 1</source>
+        <translation>階梯狀往左下擴展</translation>
+    </message>
+    <message>
+        <source>Strips 2</source>
+        <translation>階梯狀往左上擴展</translation>
+    </message>
+    <message>
+        <source>Strips 3</source>
+        <translation>階梯狀往右下擴展</translation>
+    </message>
+    <message>
+        <source>Strips 4</source>
+        <translation>階梯狀往右上擴展</translation>
+    </message>
+    <message>
+        <source>Uncover 1</source>
+        <translation>從下抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 2</source>
+        <translation>從左抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 3</source>
+        <translation>從右抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 4</source>
+        <translation>從上抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 5</source>
+        <translation>從左下抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 6</source>
+        <translation>從左上抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 7</source>
+        <translation>從右下抽出</translation>
+    </message>
+    <message>
+        <source>Uncover 8</source>
+        <translation>從右上抽出</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation>越南語</translation>
+    </message>
+    <message>
+        <source>Wedge</source>
+        <translation>楔形</translation>
+    </message>
+    <message>
+        <source>Wheel 1</source>
+        <translation>1 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel 2</source>
+        <translation>2 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel 3</source>
+        <translation>3 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel 4</source>
+        <translation>4 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel 8</source>
+        <translation>8 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wipe Down</source>
+        <translation>往下擦去</translation>
+    </message>
+    <message>
+        <source>Wipe Left</source>
+        <translation>往左擦去</translation>
+    </message>
+    <message>
+        <source>Wipe Right</source>
+        <translation>往右擦去</translation>
+    </message>
+    <message>
+        <source>Wipe Up</source>
+        <translation>往上擦去</translation>
+    </message>
+    <message>
+        <source>You cannot use a date format in a different language than the slide master. The current date on the master is formatted for %1. To change the master, click Apply to All instead of Apply.</source>
+        <translation>您必須使用語言與投影片母片相同的日期格式。目前母片中的日期格式為 %1。若要變更母片，請按 [全部套用] 而非 [套用]。</translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%2&quot;?</source>
+        <translation>&quot;%1&quot; 已經開啟。重新開啟它將會導致您所做的修改通通遺失。您要重新開啟 &quot;%2&quot;嗎</translation>
+    </message>
+    <message>
+        <source>Follow Background Color</source>
+        <translation type="obsolete">依照色彩配置的背景色彩</translation>
+    </message>
+    <message>
+        <source>Follow Text and Lines Sheme Color</source>
+        <translation type="obsolete">依照色彩配置的文字和線條色彩</translation>
+    </message>
+    <message>
+        <source>Follow Shadows Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的陰影色彩</translation>
+    </message>
+    <message>
+        <source>Follow Title Text Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的標題文字色彩</translation>
+    </message>
+    <message>
+        <source>Follow Fills Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的填滿色彩</translation>
+    </message>
+    <message>
+        <source>Follow Accent Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的強調文字色彩</translation>
+    </message>
+    <message>
+        <source>Follow Accent and Hyperlink Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的強調文字和超連結色彩</translation>
+    </message>
+    <message>
+        <source>Follow Accent and Followed Hyperlink Scheme Color</source>
+        <translation type="obsolete">依照色彩配置的強調文字及讀過的超連結色彩</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>Primary Colors</source>
+        <translation>主要色彩</translation>
+    </message>
+    <message>
+        <source>Blue Gradient</source>
+        <translation>藍色整體漸層</translation>
+    </message>
+    <message>
+        <source>Fire</source>
+        <translation>火</translation>
+    </message>
+    <message>
+        <source>Square Shaows</source>
+        <translation>方塊陰影</translation>
+    </message>
+    <message>
+        <source>Black Gradient</source>
+        <translation>黑色漸層</translation>
+    </message>
+    <message>
+        <source>Style Stripes</source>
+        <translation>條紋</translation>
+    </message>
+    <message>
+        <source>Braces</source>
+        <translation>大括弧</translation>
+    </message>
+    <message>
+        <source>Thick Outline</source>
+        <translation>粗外框</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>大綱</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <translation>立體色彩</translation>
+    </message>
+    <message>
+        <source>Bookend Fills</source>
+        <translation>填滿書夾</translation>
+    </message>
+    <message>
+        <source>Classics</source>
+        <translation>經典</translation>
+    </message>
+    <message>
+        <source>Double Outline</source>
+        <translation>雙外框</translation>
+    </message>
+    <message>
+        <source>&quot;%1&quot; is already open,To perform opening operation will cause the front of changes made to the abandoned, whether to open the &quot;%2&quot;</source>
+        <translation type="obsolete">&quot;%1&quot; 已經開啟。重新開啟它將會導致您所做的修改通通遺失。您要重新開啟 &quot;%2&quot;嗎</translation>
+    </message>
+    <message>
+        <source>Blinds Horizontal</source>
+        <translation type="obsolete">水平百葉窗</translation>
+    </message>
+    <message>
+        <source>Blinds Vertical</source>
+        <translation type="obsolete">垂直百葉窗</translation>
+    </message>
+    <message>
+        <source>By Background Color</source>
+        <translation type="obsolete">依照色彩配置的背景色彩</translation>
+    </message>
+    <message>
+        <source>By Caption Color</source>
+        <translation type="obsolete">依照色彩配置的標題文字色彩</translation>
+    </message>
+    <message>
+        <source>By Emphasize Text Color</source>
+        <translation type="obsolete">依照色彩配置的強調文字色彩</translation>
+    </message>
+    <message>
+        <source>By Emphasize Text and Hyperlink Color</source>
+        <translation type="obsolete">依照色彩配置的強調文字和超連結色彩</translation>
+    </message>
+    <message>
+        <source>By Emphasize Text and Visited Hyperlink Color</source>
+        <translation type="obsolete">依照色彩配置的強調文字及讀過的超連結色彩</translation>
+    </message>
+    <message>
+        <source>By Filling Color</source>
+        <translation type="obsolete">依照色彩配置的填滿色彩</translation>
+    </message>
+    <message>
+        <source>By Shadow Color</source>
+        <translation type="obsolete">依照色彩配置的陰影色彩</translation>
+    </message>
+    <message>
+        <source>By Text and Line Color</source>
+        <translation type="obsolete">依照色彩配置的文字和線條色彩</translation>
+    </message>
+    <message>
+        <source>Chessboard Horizontal</source>
+        <translation type="obsolete">橫向棋盤式</translation>
+    </message>
+    <message>
+        <source>Chessboard Vertical</source>
+        <translation type="obsolete">縱向棋盤式</translation>
+    </message>
+    <message>
+        <source>Comb Horizontal</source>
+        <translation type="obsolete">左右梳紋</translation>
+    </message>
+    <message>
+        <source>Comb Vertical</source>
+        <translation type="obsolete">上下梳紋</translation>
+    </message>
+    <message>
+        <source>Cover LeftDown</source>
+        <translation type="obsolete">向左下插入</translation>
+    </message>
+    <message>
+        <source>Cover LeftUp</source>
+        <translation type="obsolete">向左上插入</translation>
+    </message>
+    <message>
+        <source>Cover RightDown</source>
+        <translation type="obsolete">向右下插入</translation>
+    </message>
+    <message>
+        <source>Cover RightUp</source>
+        <translation type="obsolete">向右上插入</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_3D_Color</source>
+        <translation type="obsolete">立體色彩</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Black_Gradient</source>
+        <translation type="obsolete">黑色漸層</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Blue_Shaded</source>
+        <translation type="obsolete">藍色整體漸層</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Bookend_Fills</source>
+        <translation type="obsolete">填滿書夾</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Braces</source>
+        <translation type="obsolete">大括弧</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Classics</source>
+        <translation type="obsolete">經典</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Default</source>
+        <translation type="obsolete">預設</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Double_Outline</source>
+        <translation type="obsolete">雙外框</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Fire</source>
+        <translation type="obsolete">火</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Outline</source>
+        <translation type="obsolete">外框</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Primary_Colors</source>
+        <translation type="obsolete">主要色彩</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Square_shadows</source>
+        <translation type="obsolete">方塊陰影</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Stripes</source>
+        <translation type="obsolete">條紋</translation>
+    </message>
+    <message>
+        <source>OrgChart_Style_Thick_Outline</source>
+        <translation type="obsolete">粗外框</translation>
+    </message>
+    <message>
+        <source>Random Horizontal</source>
+        <translation type="obsolete">水平線條</translation>
+    </message>
+    <message>
+        <source>Random Vertical</source>
+        <translation type="obsolete">垂直線條</translation>
+    </message>
+    <message>
+        <source>Split Horizontal In</source>
+        <translation type="obsolete">上下夾縮</translation>
+    </message>
+    <message>
+        <source>Split Horizontal Out</source>
+        <translation type="obsolete">上下擴展</translation>
+    </message>
+    <message>
+        <source>Split Vertical In</source>
+        <translation type="obsolete">左右夾縮</translation>
+    </message>
+    <message>
+        <source>Split Vertical Out</source>
+        <translation type="obsolete">左右擴展</translation>
+    </message>
+    <message>
+        <source>Strips LeftDown</source>
+        <translation type="obsolete">左下擴展</translation>
+    </message>
+    <message>
+        <source>Strips LeftUp</source>
+        <translation type="obsolete">左上擴展</translation>
+    </message>
+    <message>
+        <source>Strips RightDown</source>
+        <translation type="obsolete">右下擴展</translation>
+    </message>
+    <message>
+        <source>Strips RightUp</source>
+        <translation type="obsolete">右上擴展</translation>
+    </message>
+    <message>
+        <source>Uncover Down</source>
+        <translation type="obsolete">從下抽出</translation>
+    </message>
+    <message>
+        <source>Uncover Left</source>
+        <translation type="obsolete">從左抽出</translation>
+    </message>
+    <message>
+        <source>Uncover LeftDown</source>
+        <translation type="obsolete">從左下抽出</translation>
+    </message>
+    <message>
+        <source>Uncover LeftUp</source>
+        <translation type="obsolete">從左上抽出</translation>
+    </message>
+    <message>
+        <source>Uncover Right</source>
+        <translation type="obsolete">從右抽出</translation>
+    </message>
+    <message>
+        <source>Uncover RightDown</source>
+        <translation type="obsolete">從右下抽出</translation>
+    </message>
+    <message>
+        <source>Uncover RightUp</source>
+        <translation type="obsolete">從右上抽出</translation>
+    </message>
+    <message>
+        <source>Uncover Up</source>
+        <translation type="obsolete">從上抽出</translation>
+    </message>
+    <message>
+        <source>Wheel1Spoke</source>
+        <translation type="obsolete">1 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel2Spoke</source>
+        <translation type="obsolete">2 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel3Spoke</source>
+        <translation type="obsolete">3 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel4Spoke</source>
+        <translation type="obsolete">4 輻射狀</translation>
+    </message>
+    <message>
+        <source>Wheel8Spoke</source>
+        <translation type="obsolete">8 輻射狀</translation>
+    </message>
+    <message>
+        <source>You can&apos;t use a date format in a different language than the slide master.The current date on the master is formatted for %1. To change the master, click Apply to All instead of Apply.</source>
+        <translation type="obsolete">您必須使用語言與投影片母片相同的日期格式。目前母片中的日期格式為 %1。若要變更母片，請按 [全部套用] 而非 [套用]。</translation>
+    </message>
+    <message>
+        <source>按文本和线条配色方案</source>
+        <translation type="obsolete">依照色彩配置的文字和線條色彩</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">靠左對齊</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">置中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">靠右對齊</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">左右對齊</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">分散對齊</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="obsolete">(無)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="obsolete">首行縮排</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="obsolete">首行凸排</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="obsolete">輸入一個在 0cm 與 21.35cm 之間的值</translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="obsolete">輸入一個在0與9.99之間的值</translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="obsolete">輸入一個在0點與1584點之間的值</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="obsolete">單行間距</translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="obsolete">1.5 倍行高</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="obsolete">2 倍行高</translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="obsolete">固定值</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="obsolete">多倍行高</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">點</translation>
+    </message>
+</context>
+<context>
+    <name>SchemeLayoutPanel</name>
+    <message>
+        <source>Apply to &amp;All Master</source>
+        <translation type="obsolete">套用至所有母片(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;All Slides</source>
+        <translation type="obsolete">套用至所有投影片(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Master</source>
+        <translation type="obsolete">套用至母片(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Masters</source>
+        <translation type="obsolete">套用至選定的母片(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Apply to &amp;Selected Slides</source>
+        <translation type="obsolete">套用至選定的投影片(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Show &amp;Large Previews</source>
+        <translation type="obsolete">顯示大型預覽(L)</translation>
+    </message>
+    <message>
+        <source>Show Large Previews(L)</source>
+        <translation type="obsolete">顯示大型預覽(L)</translation>
+    </message>
+    <message>
+        <source>apply all master(A)</source>
+        <translation type="obsolete">套用至所有母片(&amp;A)</translation>
+    </message>
+    <message>
+        <source>apply all slide(A)</source>
+        <translation type="obsolete">套用至所有投影片(&amp;A)</translation>
+    </message>
+    <message>
+        <source>apply master(M)</source>
+        <translation type="obsolete">套用至母片(&amp;M)</translation>
+    </message>
+    <message>
+        <source>apply selected master(S)</source>
+        <translation type="obsolete">套用至選定的母片(S)</translation>
+    </message>
+    <message>
+        <source>apply selected slide(S)</source>
+        <translation type="obsolete">套用至選定的投影片(S)</translation>
+    </message>
+</context>
+<context>
+    <name>TpWppCustomAnimation</name>
+    <message>
+        <source>Add Effects</source>
+        <translation>新增效果</translation>
+    </message>
+    <message>
+        <source>After Previous</source>
+        <translation>接續前動畫</translation>
+    </message>
+    <message>
+        <source>AutoPreview</source>
+        <translation>自動預覽</translation>
+    </message>
+    <message>
+        <source>Custom Animation</source>
+        <translation>自訂動畫</translation>
+    </message>
+    <message>
+        <source>Fast</source>
+        <translation>快</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation>中</translation>
+    </message>
+    <message>
+        <source>Modify selected effects</source>
+        <translation>修改選定的效果</translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translation>按一下</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation>播放</translation>
+    </message>
+    <message>
+        <source>Property:</source>
+        <translation>內容:</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>移除</translation>
+    </message>
+    <message>
+        <source>Slide Show</source>
+        <translation>投影片放映</translation>
+    </message>
+    <message>
+        <source>Slow</source>
+        <translation>慢</translation>
+    </message>
+    <message>
+        <source>Speed:</source>
+        <translation>速度:</translation>
+    </message>
+    <message>
+        <source>Start:</source>
+        <translation>開始:</translation>
+    </message>
+    <message>
+        <source>Very Fast</source>
+        <translation>很快</translation>
+    </message>
+    <message>
+        <source>Very Slow</source>
+        <translation>很慢</translation>
+    </message>
+    <message>
+        <source>With Previous</source>
+        <translation>與前動畫同時</translation>
+    </message>
+    <message>
+        <source>Custom Animation:</source>
+        <translation type="obsolete">自訂動畫:</translation>
+    </message>
+    <message>
+        <source>Re-order</source>
+        <translation>重新排序</translation>
+    </message>
+    <message>
+        <source>Add Effect</source>
+        <translation type="obsolete">新增效果</translation>
+    </message>
+    <message>
+        <source>Custoniza Animation :</source>
+        <translation type="obsolete">自訂動畫:</translation>
+    </message>
+    <message>
+        <source>Re-Order</source>
+        <translation type="obsolete">重新排序</translation>
+    </message>
+</context>
+<context>
+    <name>dialogstestClass</name>
+    <message>
+        <source>Dialogstest</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">一般</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation type="unfinished">儲存至(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Export range</source>
+        <translation type="unfinished">匯出範圍</translation>
+    </message>
+    <message>
+        <source>A&amp;ll</source>
+        <translation type="unfinished">全部(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation type="unfinished">目前的投影片(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation type="unfinished">選取範圍(&amp;S)</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom slide shows:</source>
+        <translation type="unfinished">自訂放映(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation type="unfinished">投影片(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation type="unfinished">請輸入投影片編號或投影片範圍。例如，1,3,5-12</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation type="unfinished">匯出選項</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation type="unfinished">匯出內容(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation type="unfinished">投影片</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation type="unfinished">講義</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation type="unfinished">備忘稿</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation type="unfinished">大綱</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation type="unfinished">彩色/灰階(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">彩色</translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation type="unfinished">純粹黑白</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation type="unfinished">每頁投影片張數(&amp;E):</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">2- {1?}</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished">2- {2?}</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">2- {3?}</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished">2- {4?}</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">2- {6?}</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished">2- {9?}</translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation type="unfinished">順序:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished">水平(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished">垂直(&amp;V)</translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation type="unfinished">投影片加框(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation type="unfinished">權限設定</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation type="unfinished">權限設定(&amp;O)(使以下權限設定生效)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation type="unfinished">密碼(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation type="unfinished">確認(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation type="unfinished">注意: 只有設定了以上密碼，以下的權限內容設定才會生效，並能防止這些設定遭他人變更。</translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation type="unfinished">允許更改</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation type="unfinished">允許複製</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation type="unfinished">允許新增註解</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation type="unfinished">列印權限:</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation type="unfinished">不允許列印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation type="unfinished">低品質列印</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation type="unfinished">無限制列印</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation type="unfinished">檔案開啟密碼:</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation type="unfinished">密碼(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation type="unfinished">確認(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation type="unfinished">匯出完成後自動關閉(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation type="unfinished">開啟檔案(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -6201,7 +9067,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
+<<<<<<< HEAD
         <translation>注意: 只有設定了以上密碼，以下的權限內容設定才會生效，並能防止這些設定遭他人變更。</translation>
+=======
+        <translation type="obsolete">注意: 只有設定了以上密碼，以下的權限內容設定才會生效，並能防止這些設定遭他人變更。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Printing permission:</source>
@@ -6279,6 +9149,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Pure Black and White</source>
         <translation type="obsolete">純粹黑白</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation>注意: 只有設定了以上密碼，以下的權限內容設定才會生效，並能防止這些設定遭他人變更。</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -6331,7 +9208,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Border Preview</source>
+<<<<<<< HEAD
         <translation></translation>
+=======
+        <translation>框線預覽</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Borders</source>
@@ -6351,7 +9232,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Fill &amp;color:</source>
+<<<<<<< HEAD
         <translation>填滿色彩(&amp;C):</translation>
+=======
+        <translation type="obsolete">填滿色彩(&amp;C):</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Internal margin</source>
@@ -6367,7 +9252,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Semi&amp;transparent</source>
+<<<<<<< HEAD
         <translation>半透明(&amp;T)</translation>
+=======
+        <translation type="obsolete">半透明(&amp;T)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -6414,18 +9303,24 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>cbFillColor</source>
         <translation></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>cbOrientation</source>
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>cbSemitransparent</source>
         <translation></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>cbTextAlign</source>
         <translation></translation>
     </message>
@@ -6438,10 +9333,13 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <translation></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>cmbFillColor</source>
         <translation></translation>
     </message>
     <message>
+=======
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <source>lwLineStyle</source>
         <translation></translation>
     </message>
@@ -6477,6 +9375,132 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Top Centered</source>
         <translation type="obsolete">上方置中</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>&amp;Fill</source>
+        <translation>填滿(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>實心填滿</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>漸層填滿</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>圖片或材質填滿</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>圖樣填滿</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>色彩(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>透明度(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation>輸入 0% 至 100% 公分之間的值</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation>%</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation>樣式(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>線性漸層</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>放射漸層</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>矩形漸層</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>路徑漸層</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>角度(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation>輸入 0 度至 359度之間的值</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation>漸層停駐點(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation>從檔案(&amp;F):</translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation>檔案(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation>從材質(&amp;T):</translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation>圖樣(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation>前景(&amp;G):</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>背景(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation>輸入 0公分 至 55.88公分之間的值</translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Thesaurus</source>
+        <translation type="obsolete">同義字</translation>
+    </message>
+    <message>
+        <source>Current word:</source>
+        <translation type="obsolete">目前的文字:</translation>
+    </message>
+    <message>
+        <source>Alternatives:</source>
+        <translation type="obsolete">替代:</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">取代</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>kxUiHyperlinkwpp</name>
@@ -6521,4 +9545,42 @@ the currentslide?</source>
         <translation type="obsolete">是否要匯出這份簡報的所有投影片或只有目前的投影片?</translation>
     </message>
 </context>
+<<<<<<< HEAD
+=======
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation>水平位置(&amp;H):</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation>輸入 -5963.92公分 至 5963.92公分之間的值</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation>相對於(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>左上角</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation>垂直位置(&amp;V):</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation>相對於(&amp;R):</translation>
+    </message>
+</context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </TS>

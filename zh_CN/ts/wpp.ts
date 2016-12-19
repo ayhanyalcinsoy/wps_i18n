@@ -125,11 +125,11 @@
     </message>
     <message>
         <source>Dark Style 2-Emphaisze 3/Emphasize 4</source>
-        <translation>深色样式 2-强调 3/强调 4</translation>
+        <translation type="obsolete">深色样式 2-强调 3/强调 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Empahsize 2</source>
-        <translation>深色样式 2-强调 1/强调 2</translation>
+        <translation type="obsolete">深色样式 2-强调 1/强调 2</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -178,6 +178,14 @@
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
         <translation>深色样式 2-强调 5/强调 6</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
+        <translation>深色样式 2-强调 1/强调 2</translation>
+    </message>
+    <message>
+        <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
+        <translation>深色样式 2-强调 3/强调 4</translation>
     </message>
 </context>
 <context>
@@ -830,7 +838,7 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation>解除锁定</translation>
+        <translation type="obsolete">解除锁定</translation>
     </message>
     <message>
         <source>Until End of Slide</source>
@@ -851,6 +859,10 @@
     <message>
         <source>Sound &amp;volume:</source>
         <translation>声音音量(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Unlocked</source>
+        <translation>解除锁定</translation>
     </message>
 </context>
 <context>
@@ -1169,11 +1181,15 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation>试试手气，相信奇迹会出现</translation>
+        <translation type="obsolete">试试手气，相信奇迹会出现</translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
         <translation>成千上万的时尚模板帮您打造不一样的演示稿</translation>
+    </message>
+    <message>
+        <source>Try for magic!</source>
+        <translation>试试手气，相信奇迹会出现</translation>
     </message>
 </context>
 <context>
@@ -1215,7 +1231,7 @@
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
+        <translation type="obsolete">按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
     </message>
     <message>
         <source>More color</source>
@@ -1273,7 +1289,7 @@
     <name>KxColorSettingPanel</name>
     <message>
         <source>Accent</source>
-        <translation>强调</translation>
+        <translation type="obsolete">强调</translation>
     </message>
     <message>
         <source>Accent and followed hyperlink</source>
@@ -1285,23 +1301,63 @@
     </message>
     <message>
         <source>Background</source>
-        <translation>背景</translation>
+        <translation type="obsolete">背景</translation>
     </message>
     <message>
         <source>Fills</source>
-        <translation>填充</translation>
+        <translation type="obsolete">填充</translation>
     </message>
     <message>
         <source>Shadows</source>
-        <translation>阴影</translation>
+        <translation type="obsolete">阴影</translation>
     </message>
     <message>
         <source>Text and lines</source>
-        <translation>文本和线条</translation>
+        <translation type="obsolete">文本和线条</translation>
     </message>
     <message>
         <source>Title text</source>
-        <translation>标题文本</translation>
+        <translation type="obsolete">标题文本</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <translation>强调1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <translation>强调2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <translation>强调3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <translation>强调4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <translation>强调5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <translation>强调6</translation>
+    </message>
+    <message>
+        <source>Dark1</source>
+        <translation>深1</translation>
+    </message>
+    <message>
+        <source>Dark2</source>
+        <translation>深2</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>淡</translation>
+    </message>
+    <message>
+        <source>Light2</source>
+        <translation>淡2</translation>
     </message>
 </context>
 <context>
@@ -1433,7 +1489,7 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation>魔法换背景</translation>
+        <translation type="obsolete">魔法换背景</translation>
     </message>
     <message>
         <source>I&amp;gnore the background of master slide</source>
@@ -1442,6 +1498,10 @@
     <message>
         <source>Template Background</source>
         <translation>背景模板</translation>
+    </message>
+    <message>
+        <source>Magic Background</source>
+        <translation>魔法换背景</translation>
     </message>
 </context>
 <context>
@@ -1634,6 +1694,29 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
 </context>
 <context>
+    <name>KxDlgCompatibilityChecker</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation>兼容性检查</translation>
+    </message>
+    <message>
+        <source>Summary:</source>
+        <translation>摘要：</translation>
+    </message>
+    <message>
+        <source>&amp;Continue</source>
+        <translation>继续(&amp;C)</translation>
+    </message>
+    <message>
+        <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
+        <translation>早期版本的 WPS演示 不支持此演示文稿中的以下功能。如果以早期文件格式保存此演示文稿，则这些功能将丢失或降级。单击“继续”以保存该演示文稿。要保留所有功能，请单击“取消”，并以一种新的文件格式保存。</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>&amp;New...</source>
@@ -1724,19 +1807,30 @@ the presentation file directly.You can put it with the presentation file in the 
         <translation>对话框</translation>
     </message>
     <message>
-        <source>TextLabel</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Application documents online font, if your document needs circulated others, 
 we recommend that you saved earlier document fonts. 
 If necessary, click Cancel</source>
-        <translation>文档中应用了“云字体”，若您的文档需要传阅他人，
+        <translation type="obsolete">文档中应用了“云字体”，若您的文档需要传阅他人，
 我们建议您将字体保存到文档中。
 是否将云字体保存到文档中？</translation>
     </message>
     <message>
         <source>Remember this operation, do not remind anymore</source>
+        <translation type="obsolete">记住此操作，不再提醒</translation>
+    </message>
+    <message>
+        <source>Text Label</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The document contains cloud fonts. For the convenience of your readers, 
+we recommend that you saved these fonts in the document. Save cloud fonts in the document?</source>
+        <translation>文档中应用了“云字体”，若您的文档需要传阅他人，
+我们建议您将字体保存到文档中。
+是否将云字体保存到文档中？</translation>
+    </message>
+    <message>
+        <source>Remember my choice, and don&apos;t prompt me again.</source>
         <translation>记住此操作，不再提醒</translation>
     </message>
 </context>
@@ -1744,75 +1838,75 @@ If necessary, click Cancel</source>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Color:</source>
-        <translation>颜色(&amp;C):</translation>
+        <translation type="obsolete">颜色(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Default for new objects</source>
-        <translation>新对象默认值(&amp;D)</translation>
+        <translation type="obsolete">新对象默认值(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>阳文(&amp;E)</translation>
+        <translation type="obsolete">阳文(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>字号(&amp;S):</translation>
+        <translation type="obsolete">字号(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>下划线(&amp;U)</translation>
+        <translation type="obsolete">下划线(&amp;U)</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation>中文字体(&amp;N):</translation>
+        <translation type="obsolete">中文字体(&amp;N):</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>加粗</translation>
+        <translation type="obsolete">加粗</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>加粗 倾斜</translation>
+        <translation type="obsolete">加粗 倾斜</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>效果</translation>
+        <translation type="obsolete">效果</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation>字形(&amp;O):</translation>
+        <translation type="obsolete">字形(&amp;O):</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>字体</translation>
+        <translation type="obsolete">字体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>倾斜</translation>
+        <translation type="obsolete">倾斜</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation>西文字体(&amp;F):</translation>
+        <translation type="obsolete">西文字体(&amp;F):</translation>
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation>偏移(&amp;T):</translation>
+        <translation type="obsolete">偏移(&amp;T):</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>常规</translation>
+        <translation type="obsolete">常规</translation>
     </message>
     <message>
         <source>Sh&amp;adow</source>
-        <translation>阴影(&amp;A)</translation>
+        <translation type="obsolete">阴影(&amp;A)</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>下标(&amp;B):</translation>
+        <translation type="obsolete">下标(&amp;B):</translation>
     </message>
     <message>
         <source>Supe&amp;rscript</source>
-        <translation>上标(&amp;R):</translation>
+        <translation type="obsolete">上标(&amp;R):</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your printer and your screen.</source>
@@ -1820,7 +1914,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
-        <translation>这是 TrueType 字体，同时适用于打印机和屏幕。</translation>
+        <translation type="obsolete">这是 TrueType 字体，同时适用于打印机和屏幕。</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
@@ -1980,6 +2074,10 @@ If necessary, click Cancel</source>
     <message>
         <source>Set as Default(&amp;C)</source>
         <translation>更改默认设置(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translation>输入从 0.1 厘米到 5.079 厘米的值</translation>
     </message>
 </context>
 <context>
@@ -2370,11 +2468,11 @@ be recovered.</source>
     </message>
     <message>
         <source>General and Save</source>
-        <translation>常规和保存</translation>
+        <translation>常规与保存</translation>
     </message>
     <message>
         <source>Gerneral options</source>
-        <translation>常规选项</translation>
+        <translation type="obsolete">常规选项</translation>
     </message>
     <message>
         <source>Gray</source>
@@ -2578,7 +2676,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Start&amp;up task window</source>
-        <translation>启动任务窗格(&amp;U)</translation>
+        <translation>启动时展开任务窗格(&amp;U)</translation>
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
@@ -2646,11 +2744,11 @@ be recovered.</source>
     </message>
     <message>
         <source>Privacy</source>
-        <translation>隐私</translation>
+        <translation type="obsolete">隐私</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>帮助我们改进WPS Office</translation>
+        <translation type="unfinished">帮助我们改进 WPS Office</translation>
     </message>
     <message>
         <source>&amp;Entries</source>
@@ -2678,7 +2776,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Password protect</source>
-        <translation>密码保护</translation>
+        <translation type="obsolete">密码保护</translation>
     </message>
     <message>
         <source>Auto&amp;Recover file location:</source>
@@ -2687,6 +2785,82 @@ be recovered.</source>
     <message>
         <source>&amp;Browse...</source>
         <translation>浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>General options</source>
+        <translation>常规选项</translation>
+    </message>
+    <message>
+        <source>Password protection</source>
+        <translation>密码保护</translation>
+    </message>
+    <message>
+        <source>Selecte&amp;d content minitool bar</source>
+        <translation type="obsolete">选择时显示浮动工具栏(&amp;D)</translation>
+    </message>
+    <message>
+        <source>WPSMinisite</source>
+        <translation type="obsolete">订阅WPS热点</translation>
+    </message>
+    <message>
+        <source>Everyday&amp;Show</source>
+        <translation type="obsolete">当天显示(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Ever&amp;yweekShow</source>
+        <translation type="obsolete">一周后显示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never&amp;AutoShow</source>
+        <translation type="obsolete">不再显示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght clicked minitool bar</source>
+        <translation type="obsolete">右键时显示浮动工具栏(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on selection (&amp;D)</source>
+        <translation>选择时显示浮动工具栏(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Show Mini Toolbar on rig&amp;ht click</source>
+        <translation>右键时显示浮动工具栏(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Subscribe WPS Minisite</source>
+        <translation>订阅WPS热点</translation>
+    </message>
+    <message>
+        <source>Show E&amp;veryday</source>
+        <translation>当天显示(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Show After One Week (&amp;Y)</source>
+        <translation>一周后显示(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Never Show &amp;Again</source>
+        <translation>不再显示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;其他广告如何去除？了解新的变化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>反馈</translation>
+    </message>
+    <message>
+        <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
+        <translation type="obsolete">加入用户体验改进计划，帮助改进和完善WPS Office</translation>
+    </message>
+    <message>
+        <source>Language</source>
+        <translation type="obsolete">语言</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation type="obsolete">自动下载和更新语言包</translation>
     </message>
 </context>
 <context>
@@ -2906,6 +3080,117 @@ be recovered.</source>
         <source>Projector</source>
         <translation type="obsolete">投影机</translation>
     </message>
+    <message>
+        <source>Enter from 2.54cm to 142.24cm of value</source>
+        <translation type="obsolete">输入从 2.54厘米 到 142.24厘米的值</translation>
+    </message>
+    <message>
+        <source>Enter from 0 to 9999 of value</source>
+        <translation type="obsolete">输入从 0 到 9999 的值</translation>
+    </message>
+    <message>
+        <source>Enter 2.54 to 142.22 cm of value</source>
+        <translation>输入从 2.54厘米 到 142.22厘米的值</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraph</name>
+    <message>
+        <source>Paragraph</source>
+        <translation type="obsolete">段落</translation>
+    </message>
+    <message>
+        <source>&amp;Indents and Spacing</source>
+        <translation type="obsolete">缩进与间距(&amp;I)</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="obsolete">常规</translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment:</source>
+        <translation type="obsolete">对齐方式(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Indentation</source>
+        <translation type="obsolete">缩进</translation>
+    </message>
+    <message>
+        <source>Befo&amp;re text:</source>
+        <translation type="obsolete">文本之前(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Special:</source>
+        <translation type="obsolete">特殊格式(&amp;S):</translation>
+    </message>
+    <message>
+        <source>B&amp;y:</source>
+        <translation type="obsolete">度量值(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Spacing</source>
+        <translation type="obsolete">间距</translation>
+    </message>
+    <message>
+        <source>&amp;Before:</source>
+        <translation type="obsolete">段前(&amp;B):</translation>
+    </message>
+    <message>
+        <source>A&amp;fter:</source>
+        <translation type="obsolete">段后(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Li&amp;ne spacing:</source>
+        <translation type="obsolete">行距(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation type="obsolete">设置值(&amp;A):</translation>
+    </message>
+    <message>
+        <source>C&amp;hinese Format</source>
+        <translation type="obsolete">中文版式(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="obsolete">换行</translation>
+    </message>
+    <message>
+        <source>&amp;Use Asian rules for controlling first and last characters</source>
+        <translation type="obsolete">按中文习惯控制首尾字符(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Allow Latin text to &amp;wrap in the middle of a word</source>
+        <translation type="obsolete">允许西文在单词中间换行(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuatio&amp;n</source>
+        <translation type="obsolete">允许标点溢出边界(&amp;N)</translation>
+    </message>
+    <message>
+        <source>First and last characters</source>
+        <translation type="obsolete">首尾字符</translation>
+    </message>
+    <message>
+        <source>&amp;Standard</source>
+        <translation type="obsolete">标准(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Custo&amp;m</source>
+        <translation type="obsolete">自定义(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Cannot st&amp;art line:</source>
+        <translation type="obsolete">后置标点(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Cann&amp;ot end line:</source>
+        <translation type="obsolete">前置标点(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Line-breaking characters currently customized for:</source>
+        <translation type="obsolete">分行符当前被自定义为:</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgProgress</name>
@@ -3105,6 +3390,10 @@ be recovered.</source>
         <source>Total Playing Time:</source>
         <translation>播放时间总和:</translation>
     </message>
+    <message>
+        <source>&amp;Hide icon on play</source>
+        <translation>播放时隐藏图标(&amp;H)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgSplitCells</name>
@@ -3123,6 +3412,33 @@ be recovered.</source>
     <message>
         <source>Number of &amp;columns:</source>
         <translation>列数(&amp;C):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrimMedia</name>
+    <message>
+        <source>Trim Media</source>
+        <translation>裁剪媒体</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>文本标签</translation>
+    </message>
+    <message>
+        <source>&amp;Start Time</source>
+        <translation>开始时间(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;End Time</source>
+        <translation>结束时间(&amp;E)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -3196,7 +3512,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Volume Redress</source>
-        <translation>音量调整</translation>
+        <translation type="obsolete">音量调整</translation>
     </message>
     <message>
         <source>cbMute</source>
@@ -3205,6 +3521,10 @@ be recovered.</source>
     <message>
         <source>tbVolume</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Volume Adjustment</source>
+        <translation>音量调整</translation>
     </message>
 </context>
 <context>
@@ -3588,6 +3908,10 @@ be recovered.</source>
         <source>Enter slide numbers or slide ranges. For example, 1,3,5-12</source>
         <translation>请输入幻灯片编号或幻灯片范围。例如，1,3,5-12</translation>
     </message>
+    <message>
+        <source>How to solve problems of the printer?</source>
+        <translation>如何解决打印机各种问题？</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWppRecordMacro</name>
@@ -3606,6 +3930,37 @@ be recovered.</source>
     <message>
         <source>Record Macro</source>
         <translation type="obsolete">录制新宏</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWppScaleSlideMode</name>
+    <message>
+        <source>Scale Slide Mode</source>
+        <translation>页面缩放选项</translation>
+    </message>
+    <message>
+        <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
+        <translation>您正在缩放到新幻灯片大小，是要最大化内容大小还是按比例缩小以确保适应新幻灯片？</translation>
+    </message>
+    <message>
+        <source>Maximize</source>
+        <translation>最大化</translation>
+    </message>
+    <message>
+        <source>Ensure Fit</source>
+        <translation>确保适合</translation>
+    </message>
+    <message>
+        <source>&amp;Maximize</source>
+        <translation>最大化(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Ensure Fit</source>
+        <translation>确保适合(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -3653,6 +4008,193 @@ be recovered.</source>
     <message>
         <source>line</source>
         <translation type="obsolete">行</translation>
+    </message>
+</context>
+<context>
+    <name>KxExportOFDDlg</name>
+    <message>
+        <source>Save OFD File</source>
+        <translation>另存 OFD 文件为</translation>
+    </message>
+    <message>
+        <source>OFD File(*.ofd)|*.ofd||</source>
+        <translation>OFD 文件(*.ofd)|*.ofd||</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation>讲义</translation>
+    </message>
+    <message>
+        <source>Notes</source>
+        <translation>备注页</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission settings!</source>
+        <translation>请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>密码确认不符。</translation>
+    </message>
+    <message>
+        <source>Input permission password.</source>
+        <translation>请输入权限设置密码。</translation>
+    </message>
+    <message>
+        <source>Permission password and document open password must be different.</source>
+        <translation>权限设置密码和文件打开密码不能相同。</translation>
+    </message>
+    <message>
+        <source>Invalid input.        </source>
+        <translation>输入无效。        </translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Do you want to replace it and continue?</source>
+        <translation>您指定的文件已经存在，要覆盖该文件并继续吗？</translation>
+    </message>
+    <message>
+        <source>The file name is the same as an existing directory.</source>
+        <translation>文件名已存在。</translation>
+    </message>
+    <message>
+        <source>The directory you specified does not exist.</source>
+        <translation>指定的目录不存在。</translation>
+    </message>
+    <message>
+        <source>You do not have permission to write files into this directory.</source>
+        <translation>你没有权限将文件写入当前目录。</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export does not exist. Please select another one.</source>
+        <translation>您所选的要输出的幻灯片不存在，请选另一个。</translation>
+    </message>
+    <message>
+        <source>All slides in this custom show are hidden.</source>
+        <translation>该自定义放映中的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>All slides in this range are hidden.</source>
+        <translation>在此范围内所有的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>The selected slides are hidden.</source>
+        <translation>所选幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Current slide has marked as hidden.</source>
+        <translation>当前幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are hidden.</source>
+        <translation>此演示文稿中所有的幻灯片都标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
+        <translation>确保这些幻灯片不再隐藏，或者选择输出隐藏幻灯片。</translation>
+    </message>
+    <message>
+        <source>All slides in current presentation are skipped.</source>
+        <translation type="obsolete">此演示文稿中所有的幻灯片都标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>All slides in this range are skipped.</source>
+        <translation type="obsolete">在此范围内所有的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>All slides of custom show are skipped.</source>
+        <translation type="obsolete">该自定义放映中的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Confirm password is not the same as previously</source>
+        <translation type="obsolete">密码确认不符。</translation>
+    </message>
+    <message>
+        <source>Conve&amp;ntional</source>
+        <translation type="obsolete">常规(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Current slide has been marked as hidden.</source>
+        <translation type="obsolete">当前幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Current slide is skipped.</source>
+        <translation type="obsolete">当前幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>Either ensure that the slides are no longer skipped, or choose to export skipped slides.</source>
+        <translation type="obsolete">确保这些幻灯片不再隐藏，或者选择输出隐藏幻灯片。</translation>
+    </message>
+    <message>
+        <source>Ensure that these slides are no longer hidden, or select the output hidden slides.</source>
+        <translation type="obsolete">确保这些幻灯片不再隐藏，或者选择输出隐藏幻灯片。</translation>
+    </message>
+    <message>
+        <source>File open password must be different form permission password, please enter again.</source>
+        <translation type="obsolete">权限设置密码和文件打开密码不能相同。</translation>
+    </message>
+    <message>
+        <source>Notes Pages</source>
+        <translation type="obsolete">备注页</translation>
+    </message>
+    <message>
+        <source>Outline View</source>
+        <translation type="obsolete">大纲视图</translation>
+    </message>
+    <message>
+        <source>Please enter permission password!</source>
+        <translation type="obsolete">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>Please enter permission password.</source>
+        <translation type="obsolete">请输入权限设置密码。</translation>
+    </message>
+    <message>
+        <source>Please input the password of permission setting!</source>
+        <translation type="obsolete">请输入权限设置密码！</translation>
+    </message>
+    <message>
+        <source>The custom show slide has been marked as hidden.</source>
+        <translation type="obsolete">该自定义放映中的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>The file is exist, are you sure to overwrite the file?</source>
+        <translation type="obsolete">您指定的文件已经存在，要覆盖该文件并继续吗？</translation>
+    </message>
+    <message>
+        <source>The file you specified already exists. Are you sure to replace the existing one?</source>
+        <translation type="obsolete">您指定的文件已经存在，要覆盖该文件并继续吗？</translation>
+    </message>
+    <message>
+        <source>The password confirmation does not match.</source>
+        <translation type="obsolete">密码确认不符。</translation>
+    </message>
+    <message>
+        <source>The selected slide has been marked as hidden.</source>
+        <translation type="obsolete">所选幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>The selected slides are skipped.</source>
+        <translation type="obsolete">所选幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>The slide in this range has been marked as hidden.</source>
+        <translation type="obsolete">在此范围内所有的幻灯片已标记为隐藏。</translation>
+    </message>
+    <message>
+        <source>The slide you selected to export doesn&apos;t exist. Please select another one.</source>
+        <translation type="obsolete">您所选的要输出的幻灯片不存在，请选另一个。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="obsolete">WPS 演示</translation>
+    </message>
+    <message>
+        <source>You have no permission to write files into this directory.</source>
+        <translation type="obsolete">你没有权限将文件写入当前目录。</translation>
+    </message>
+    <message>
+        <source>You selected to output slides does not exist, please choose another.</source>
+        <translation type="obsolete">您所选的要输出的幻灯片不存在，请选另一个。</translation>
     </message>
 </context>
 <context>
@@ -3843,6 +4385,65 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>KxExportToOFDProgressDlg</name>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation>正在准备导出 OFD 文件...</translation>
+    </message>
+    <message>
+        <source>User canceled operation.</source>
+        <translation>用户取消操作。</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Exporting document information...</source>
+        <translation>正在导出文档属性...</translation>
+    </message>
+    <message>
+        <source>Exporting No.</source>
+        <translation>正在处理第</translation>
+    </message>
+    <message>
+        <source> Page...</source>
+        <translation> 页...</translation>
+    </message>
+    <message>
+        <source>Exporting labels...</source>
+        <translation>正在导出标签...</translation>
+    </message>
+    <message>
+        <source>Exporting OFD file is completed.</source>
+        <translation>导出完成。</translation>
+    </message>
+    <message>
+        <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
+        <translation>OFD转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
+        <translation>导出 OFD 文件的过程中遇到错误！</translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening OFD file!</source>
+        <translation>打开 OFD 文件遇到错误！</translation>
+    </message>
+    <message>
+        <source>Export OFD files error!</source>
+        <translation type="obsolete">导出 OFD 文件的过程中遇到错误！</translation>
+    </message>
+    <message>
+        <source>Ofd Converter encountered a memory allocation problem. Please reduce the document size or picture size!</source>
+        <translation type="obsolete">OFD转换器遇到了内存分配问题，请缩小文档大小或者图片大小！</translation>
+    </message>
+    <message>
+        <source>WPS Preseentation</source>
+        <translation type="obsolete">WPS 演示</translation>
+    </message>
+</context>
+<context>
     <name>KxExportToPDFProgressDlg</name>
     <message>
         <source> Page...</source>
@@ -3952,11 +4553,11 @@ be recovered.</source>
     <name>KxFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation>(使用中文字体)</translation>
+        <translation type="obsolete">(使用中文字体)</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
+        <translation type="obsolete">按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
     </message>
     <message>
         <source>There is no %1 font on your system, the text will be shown in a substitute font, do you want to use it anyway?</source>
@@ -3972,22 +4573,129 @@ be recovered.</source>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation>您的系统没有 %1 字体, 因此显示的是替代字体，仍要使用该字体吗？</translation>
+        <translation type="obsolete">您的系统没有 %1 字体, 因此显示的是替代字体，仍要使用该字体吗？</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>该字体样式无法使用。</translation>
+        <translation type="obsolete">该字体样式无法使用。</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation>该字号无法使用。</translation>
+        <translation type="obsolete">该字号无法使用。</translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="obsolete">+中文标题</translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="obsolete">+中文正文</translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="obsolete">+标题</translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="obsolete">+正文</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatOption_Background</name>
+    <message>
+        <source>BACKGROUND OPTIONS</source>
+        <translation>背景选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>POSITION</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>TRANSFORM</source>
+        <translation>转换</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Background</name>
+    <message>
+        <source>FILL</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation>填充</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Chart</name>
+    <message>
+        <source>LEGEND OPTIONS</source>
+        <translation type="obsolete">图例选项</translation>
+    </message>
+    <message>
+        <source>DATATABLE OPTIONS</source>
+        <translation type="obsolete">模拟运算表选项</translation>
+    </message>
+    <message>
+        <source>TRENDLINE OPTIONS</source>
+        <translation type="obsolete">趋势线选项</translation>
+    </message>
+    <message>
+        <source>SERIES OPTIONS</source>
+        <translation type="obsolete">系列选项</translation>
+    </message>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="obsolete">属性</translation>
+    </message>
+    <message>
+        <source>MARKER OPTIONS</source>
+        <translation type="obsolete">数据标记选项</translation>
+    </message>
+    <message>
+        <source>VERTICAL ERROR BAR</source>
+        <translation type="obsolete">垂直误差线</translation>
+    </message>
+    <message>
+        <source>HORIZONTAL ERROR BAR</source>
+        <translation type="obsolete">水平误差线</translation>
+    </message>
+    <message>
+        <source>LABELS</source>
+        <translation type="obsolete">标签</translation>
+    </message>
+    <message>
+        <source>AXIS OPTIONS</source>
+        <translation type="obsolete">坐标轴选项</translation>
+    </message>
+    <message>
+        <source>NUMBER</source>
+        <translation type="obsolete">数字</translation>
+    </message>
+    <message>
+        <source>TICK MARKS</source>
+        <translation type="obsolete">刻度线标记</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_Shape</name>
+    <message>
+        <source>ARTISTIC EFFECTS</source>
+        <translation type="obsolete">艺术效果</translation>
+    </message>
+    <message>
+        <source>LINE</source>
+        <translation type="obsolete">线条</translation>
     </message>
 </context>
 <context>
     <name>KxFormatTableDlg</name>
     <message>
         <source>Custom</source>
-        <translation>自定义</translation>
+        <translation type="obsolete">自定义</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
@@ -4007,7 +4715,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Follow Background Scheme Color,Follow Text and Lines Scheme Color,Follow Shadows Scheme Color,Follow Title Text Scheme Color,Follow Fills Scheme Color,Follow Accent Scheme Color,Follow Accent and Hyperlink Scheme Color,Follow Accent and Followed Scheme Color</source>
-        <translation>按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
+        <translation type="obsolete">按背景配色方案,按文本和线条配色方案,按阴影配色方案,按标题文本配色方案,按填充配色方案,按强调文字配色方案,按强调文字和超链接配色方案,按强调文字和已访问过的超链接配色方案</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
@@ -4024,6 +4732,61 @@ be recovered.</source>
     <message>
         <source>Follow Title Text Scheme Color</source>
         <translation>按标题文本配色方案</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <translation>所有图片</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <translation>图形交换格式</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <translation>JPEG 文件交换格式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <translation>可移植网络图形</translation>
+    </message>
+    <message>
+        <source>Select Picture</source>
+        <translation>选择图片</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <translation>Tag 图像文件格式</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <translation>Windows 位图</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <translation>Windows 增强型图元文件</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <translation>Windows 图元文件</translation>
+    </message>
+</context>
+<context>
+    <name>KxHexSpinBox</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation>输入值必须为正数</translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation>输入值不能包含任何非数字的字符</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation>输入值必须大于或者等于 %1</translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation>输入值必须小于或者等于 %1</translation>
     </message>
 </context>
 <context>
@@ -4088,6 +4851,13 @@ be recovered.</source>
     <message>
         <source>Use Blank Template</source>
         <translation>套用空白模板</translation>
+    </message>
+</context>
+<context>
+    <name>KxKsoTableStyleItem</name>
+    <message>
+        <source>Set As Default</source>
+        <translation>设置为默认样式</translation>
     </message>
 </context>
 <context>
@@ -4196,6 +4966,13 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>KxNoneItem</name>
+    <message>
+        <source>None</source>
+        <translation>无</translation>
+    </message>
+</context>
+<context>
     <name>KxOptionsDlg</name>
     <message>
         <source>Open</source>
@@ -4219,7 +4996,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Comfirmation password does not match.</source>
-        <translation>密码确认不符。</translation>
+        <translation type="obsolete">密码确认不符。</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -4235,6 +5012,18 @@ be recovered.</source>
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
+        <translation type="obsolete">您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation type="obsolete">您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>密码确认不符。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
 </context>
@@ -4419,7 +5208,7 @@ be recovered.</source>
     <name>KxRenameMasterDlgClass</name>
     <message>
         <source>&amp;Master name:</source>
-        <translation>母版名称(&amp;M):</translation>
+        <translation type="obsolete">母版名称(&amp;M):</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -4427,7 +5216,15 @@ be recovered.</source>
     </message>
     <message>
         <source>Rename Master</source>
-        <translation>重命名母版</translation>
+        <translation type="obsolete">重命名母版</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>重命名</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名称(&amp;N):</translation>
     </message>
 </context>
 <context>
@@ -4597,7 +5394,7 @@ be recovered.</source>
     <name>KxTpAnimationSchemeWidget</name>
     <message>
         <source>Color Schemes</source>
-        <translation>配色方案</translation>
+        <translation type="obsolete">配色方案</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -4612,11 +5409,11 @@ be recovered.</source>
     <name>KxTpColorScheme</name>
     <message>
         <source>Apply a color scheme:</source>
-        <translation>应用配色方案:</translation>
+        <translation type="obsolete">应用配色方案:</translation>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>配色方案</translation>
+        <translation type="obsolete">配色方案</translation>
     </message>
     <message>
         <source>animate scheme</source>
@@ -4630,24 +5427,20 @@ be recovered.</source>
         <source>edit colorScheme...</source>
         <translation type="obsolete">编辑配色方案...</translation>
     </message>
-    <message>
-        <source>Infotip</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>KxTpColorSchemeWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>动画方案</translation>
+        <translation type="obsolete">动画方案</translation>
     </message>
     <message>
         <source>Design Templates</source>
-        <translation>设计模板</translation>
+        <translation type="obsolete">设计模板</translation>
     </message>
     <message>
         <source>Edit Color Schemes...</source>
-        <translation>编辑配色方案...</translation>
+        <translation type="obsolete">编辑配色方案...</translation>
     </message>
     <message>
         <source>Show Large Previews(L)</source>
@@ -4678,7 +5471,7 @@ be recovered.</source>
     <name>KxTpSlideDesign</name>
     <message>
         <source>Apply a design template:</source>
-        <translation>应用设计模板:</translation>
+        <translation type="obsolete">应用设计模板:</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -4700,6 +5493,10 @@ be recovered.</source>
         <source>Infotip</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>应用设计模板</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideDesignWidget</name>
@@ -4713,7 +5510,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Color Schemes</source>
-        <translation>配色方案</translation>
+        <translation type="obsolete">配色方案</translation>
     </message>
     <message>
         <source>Show Large Previews(L)</source>
@@ -4756,7 +5553,11 @@ be recovered.</source>
     </message>
     <message>
         <source>Apply a design template:</source>
-        <translation>应用幻灯片版式:</translation>
+        <translation type="obsolete">应用幻灯片版式:</translation>
+    </message>
+    <message>
+        <source>Apply a design template</source>
+        <translation>应用幻灯片版式</translation>
     </message>
 </context>
 <context>
@@ -4775,7 +5576,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Apply to selected slides:</source>
-        <translation>应用于所选幻灯片:</translation>
+        <translation type="obsolete">应用于所选幻灯片:</translation>
     </message>
     <message>
         <source>AutoPreview</source>
@@ -4829,12 +5630,16 @@ be recovered.</source>
         <source>loop play, to the next voice began</source>
         <translation type="obsolete">循环播放，到下一声音开始时</translation>
     </message>
+    <message>
+        <source>Apply to selected slides</source>
+        <translation>应用于所选幻灯片</translation>
+    </message>
 </context>
 <context>
     <name>KxTpSlideTransitionWidget</name>
     <message>
         <source>Loop until next sound</source>
-        <translation>循环播放，到下一声音开始时</translation>
+        <translation type="obsolete">循环播放，到下一声音开始时</translation>
     </message>
     <message>
         <source>Play</source>
@@ -4854,6 +5659,21 @@ be recovered.</source>
     <message>
         <source>Table Style:</source>
         <translation>表格样式:</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrimMediaDlg</name>
+    <message>
+        <source>Trim Movie</source>
+        <translation>裁剪影片</translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation>裁剪声音</translation>
+    </message>
+    <message>
+        <source>Duration : </source>
+        <translation>持续时间：</translation>
     </message>
 </context>
 <context>
@@ -5130,6 +5950,56 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>KxWppBorderStyleItem</name>
+    <message>
+        <source>No Border</source>
+        <translation>无边框</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppBorderWidthItem</name>
+    <message>
+        <source>2.25</source>
+        <translation>2.25</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>磅</translation>
+    </message>
+    <message>
+        <source>0.25</source>
+        <translation>0.25</translation>
+    </message>
+    <message>
+        <source>0.5</source>
+        <translation>0.5</translation>
+    </message>
+    <message>
+        <source>0.75</source>
+        <translation>0.75</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation>1.5</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4.5</source>
+        <translation>4.5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>6</translation>
+    </message>
+</context>
+<context>
     <name>KxWppColorModel</name>
     <message>
         <source>Auto Color</source>
@@ -5137,11 +6007,11 @@ be recovered.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>Custom Color</source>
-        <translation>自定义颜色</translation>
+        <translation type="obsolete">自定义颜色</translation>
     </message>
 </context>
 <context>
@@ -5354,15 +6224,15 @@ be recovered.</source>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>应用于选定幻灯片(S)</translation>
+        <translation>应用于选定幻灯片</translation>
     </message>
     <message>
         <source>Replace &amp;All Designs</source>
-        <translation>替换所有设计(A)</translation>
+        <translation>替换所有设计</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation>替换选定设计(S)</translation>
+        <translation>替换选定设计</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
@@ -5412,11 +6282,11 @@ be recovered.</source>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">无填充颜色</translation>
+        <translation>无填充颜色</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation>无填充颜色</translation>
+        <translation type="obsolete">无填充颜色</translation>
     </message>
 </context>
 <context>
@@ -5433,12 +6303,91 @@ be recovered.</source>
         <source>More Font Colors</source>
         <translation type="obsolete">其他颜色</translation>
     </message>
+    <message>
+        <source>No Fill</source>
+        <translation>无填充颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation>无线条颜色</translation>
+    </message>
 </context>
 <context>
     <name>KxWppFontSizeCommand</name>
     <message>
         <source>This is not a valid integer.</source>
         <translation>您输入的内容不是合法的整数值</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatGroupContent_Fill</name>
+    <message>
+        <source>Slide background fill</source>
+        <translation>幻灯片背景填充</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation>图表选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文本选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation>形状选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation>文本选项</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_FillAndLine</name>
+    <message>
+        <source>FILL</source>
+        <translation>填充</translation>
+    </message>
+    <message>
+        <source>TEXT FILL</source>
+        <translation>文本填充</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_Shape</name>
+    <message>
+        <source>FILL</source>
+        <translation type="obsolete">填充</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatRangeSaveAsCommand</name>
+    <message>
+        <source>Preparing for Video Export</source>
+        <translation>正在准备视频输出必须的组件</translation>
+    </message>
+    <message>
+        <source>failed to setup Supporter of Video Export.</source>
+        <translation type="obsolete">视频输出组件加载失败。</translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Export.</source>
+        <translation>视频输出组件加载失败。</translation>
     </message>
 </context>
 <context>
@@ -5469,6 +6418,112 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>KxWppMediaBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation>向前移动0.25秒</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation>向后移动0.25秒</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation>播放/暂停</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>设置</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppNewSlidesGalleryModel</name>
+    <message>
+        <source>Blank Slides</source>
+        <translation>空白页</translation>
+    </message>
+    <message>
+        <source>Content Slides</source>
+        <translation>内容页</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Title</source>
+        <translation type="obsolete">标题幻灯片</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Text</source>
+        <translation type="obsolete">标题和内容</translation>
+    </message>
+    <message>
+        <source>LayoutSlideType_Blank</source>
+        <translation type="obsolete">空白</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Cover</source>
+        <translation type="obsolete">封面</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Catalog</source>
+        <translation type="obsolete">目录</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Main</source>
+        <translation type="obsolete">正文</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Trans</source>
+        <translation type="obsolete">过渡页</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Ending</source>
+        <translation type="obsolete">结束页</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_More</source>
+        <translation type="obsolete">更多</translation>
+    </message>
+    <message>
+        <source>Title and Content</source>
+        <translation>标题和内容</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <translation>标题幻灯片</translation>
+    </message>
+    <message>
+        <source>Blank</source>
+        <translation>空白</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation>封面</translation>
+    </message>
+    <message>
+        <source>Catalog</source>
+        <translation>目录</translation>
+    </message>
+    <message>
+        <source>Body</source>
+        <translation>正文</translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation>过渡页</translation>
+    </message>
+    <message>
+        <source>Ending</source>
+        <translation>结束页</translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+</context>
+<context>
     <name>KxWppObjectSelectCommand</name>
     <message>
         <source>Object Select</source>
@@ -5477,6 +6532,96 @@ be recovered.</source>
     <message>
         <source>Select Object Window</source>
         <translation type="obsolete">选择窗格</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPermissionInformationDlg</name>
+    <message>
+        <source>My Permission</source>
+        <translation>我的权限</translation>
+    </message>
+    <message>
+        <source>You are currently authenticated to view this document as:	</source>
+        <translation>您正在以如下身份查看此文档：</translation>
+    </message>
+    <message>
+        <source>userName</source>
+        <translation type="obsolete">用户名</translation>
+    </message>
+    <message>
+        <source>Change user...</source>
+        <translation>换个身份...</translation>
+    </message>
+    <message>
+        <source>You have the following permissions:</source>
+        <translation>您对本文档拥有以下权限：</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>查看</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>打印</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>导出</translation>
+    </message>
+    <message>
+        <source>Access the document programmatically</source>
+        <translation>以程序手段访问文档</translation>
+    </message>
+    <message>
+        <source>Full Control</source>
+        <translation>完全控制</translation>
+    </message>
+    <message>
+        <source>Permission expiration date:</source>
+        <translation type="obsolete">权限到期时间：</translation>
+    </message>
+    <message>
+        <source>(N/A)</source>
+        <translation>(N/A)</translation>
+    </message>
+    <message>
+        <source>Resquest additional permissions... </source>
+        <translation type="obsolete">申请更新权限...</translation>
+    </message>
+    <message>
+        <source>Permission expires on:</source>
+        <translation>权限到期时间：</translation>
+    </message>
+    <message>
+        <source>Username</source>
+        <translation>用户名</translation>
+    </message>
+    <message>
+        <source>Request additional permissions…</source>
+        <translation>申请更新权限...</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerMediaBar</name>
+    <message>
+        <source>Play/Pause</source>
+        <translation>播放/暂停</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation>音量</translation>
     </message>
 </context>
 <context>
@@ -5782,6 +6927,17 @@ be recovered.</source>
     </message>
 </context>
 <context>
+    <name>KxWppPrstFillModel</name>
+    <message>
+        <source>Background Fill</source>
+        <translation>幻灯片背景填充</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation type="obsolete">无填充颜色</translation>
+    </message>
+</context>
+<context>
     <name>KxWppShadowColorModel</name>
     <message>
         <source>More Shadow Colors</source>
@@ -5798,6 +6954,112 @@ be recovered.</source>
     <message>
         <source>Shadow Effects</source>
         <translation type="obsolete">阴影效果</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppShowOffscreen</name>
+    <message>
+        <source>an Offscreen Show of this presentation is already running,
+be Sure to Close?</source>
+        <translation type="obsolete">本文档正在输出视频, 确定关闭吗?</translation>
+    </message>
+    <message>
+        <source>An Offscreen Show of this presentation is already running.
+Sure to close?</source>
+        <translation>本文档正在输出视频, 确定关闭吗?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSoundBarWidget</name>
+    <message>
+        <source>Move forward 0.25 seconds</source>
+        <translation type="obsolete">向前移动0.25秒</translation>
+    </message>
+    <message>
+        <source>Move back 0.25 seconds</source>
+        <translation type="obsolete">向后移动0.25秒</translation>
+    </message>
+    <message>
+        <source>Play/Pause</source>
+        <translation type="obsolete">播放/暂停</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation type="obsolete">设置</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">音量</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppStatusZoomOptionGalleryModel</name>
+    <message>
+        <source>ZoomOption_ViewingScales</source>
+        <translation type="obsolete">显示比例</translation>
+    </message>
+    <message>
+        <source>ZoomOption_SelfDefine</source>
+        <translation type="obsolete">百分比(P)</translation>
+    </message>
+    <message>
+        <source>ZoomOption_BestFit</source>
+        <translation type="obsolete">最佳(F)</translation>
+    </message>
+    <message>
+        <source>Zoom Level</source>
+        <translation>显示比例</translation>
+    </message>
+    <message>
+        <source>&amp;Percent:</source>
+        <translation type="obsolete">百分比(P)</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Selection</source>
+        <translation>最佳(F)</translation>
+    </message>
+    <message>
+        <source>P&amp;ercent:</source>
+        <translation>百分比(&amp;E):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppTpFormatting</name>
+    <message>
+        <source>Format Shape</source>
+        <translation>设置形状格式</translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation>设置图片格式</translation>
+    </message>
+    <message>
+        <source>Format Media</source>
+        <translation>格式化媒体</translation>
+    </message>
+    <message>
+        <source>Format OleObject</source>
+        <translation>格式化 OLE 对象</translation>
+    </message>
+    <message>
+        <source>Format ControlObject</source>
+        <translation>格式化控制对象</translation>
+    </message>
+    <message>
+        <source>Format Background</source>
+        <translation>设置背景格式</translation>
+    </message>
+    <message>
+        <source>Format Ink</source>
+        <translation>设置墨迹格式</translation>
+    </message>
+    <message>
+        <source>Apply to all</source>
+        <translation>全部应用</translation>
+    </message>
+    <message>
+        <source>Reset Background</source>
+        <translation>重置背景</translation>
     </message>
 </context>
 <context>
@@ -6128,7 +7390,7 @@ be recovered.</source>
     </message>
     <message>
         <source>In the %1 Slide</source>
-        <translation>在 %s 中的 幻灯片</translation>
+        <translation>在 %1 中的 幻灯片</translation>
     </message>
     <message>
         <source>Japanese</source>
@@ -6352,35 +7614,35 @@ be recovered.</source>
     </message>
     <message>
         <source>Follow Background Color</source>
-        <translation>按背景配色方案</translation>
+        <translation type="obsolete">按背景配色方案</translation>
     </message>
     <message>
         <source>Follow Text and Lines Sheme Color</source>
-        <translation>按文本和线条配色方案</translation>
+        <translation type="obsolete">按文本和线条配色方案</translation>
     </message>
     <message>
         <source>Follow Shadows Scheme Color</source>
-        <translation>按阴影配色方案</translation>
+        <translation type="obsolete">按阴影配色方案</translation>
     </message>
     <message>
         <source>Follow Title Text Scheme Color</source>
-        <translation>按标题文本配色方案</translation>
+        <translation type="obsolete">按标题文本配色方案</translation>
     </message>
     <message>
         <source>Follow Fills Scheme Color</source>
-        <translation>按填充配色方案</translation>
+        <translation type="obsolete">按填充配色方案</translation>
     </message>
     <message>
         <source>Follow Accent Scheme Color</source>
-        <translation>按强调文字配色方案</translation>
+        <translation type="obsolete">按强调文字配色方案</translation>
     </message>
     <message>
         <source>Follow Accent and Hyperlink Scheme Color</source>
-        <translation>按强调文字和超链接配色方案</translation>
+        <translation type="obsolete">按强调文字和超链接配色方案</translation>
     </message>
     <message>
         <source>Follow Accent and Followed Hyperlink Scheme Color</source>
-        <translation>按强调文字和已访问的超链接配色方案</translation>
+        <translation type="obsolete">按强调文字和已访问的超链接配色方案</translation>
     </message>
     <message>
         <source>Default</source>
@@ -6442,32 +7704,108 @@ be recovered.</source>
         <source>&quot;%1&quot; is already open. Opening again will cause the changes made to the document to be discarded. Continue to open &quot;%2&quot;?</source>
         <translation type="obsolete">&quot;%1&quot; 已经打开。重新执行打开操作会造成前面所做的更改被放弃，是否重新打开 &quot;%2&quot;</translation>
     </message>
+    <message>
+        <source>按文本和线条配色方案</source>
+        <translation type="obsolete">按文本和线条配色方案</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="obsolete">左对齐</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="obsolete">居中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="obsolete">右对齐</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="obsolete">两端对齐</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="obsolete">分散对齐</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation type="obsolete">(无)</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <translation type="obsolete">首行缩进</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="obsolete">悬挂缩进</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">厘米</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">磅</translation>
+    </message>
+    <message>
+        <source>Please input value between 0cm and 21.35cm</source>
+        <translation type="obsolete">输入从 0厘米 到 21.35厘米 的值</translation>
+    </message>
+    <message>
+        <source>Please input value between 0pt and 1584pt</source>
+        <translation type="obsolete">输入从 0磅 到 1584磅 的值</translation>
+    </message>
+    <message>
+        <source>Please input value between 0 and 9.99</source>
+        <translation type="obsolete">输入从 0 到 9.99 的数字</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="obsolete">单倍行距</translation>
+    </message>
+    <message>
+        <source>1.5 times</source>
+        <translation type="obsolete">1.5 倍行距</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="obsolete">双倍行距</translation>
+    </message>
+    <message>
+        <source>Fixed</source>
+        <translation type="obsolete">固定值</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="obsolete">多倍行距</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
     <message>
         <source>Apply to &amp;All Master</source>
-        <translation>应用于所有母版(&amp;A)</translation>
+        <translation type="obsolete">应用于所有母版(&amp;A)</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation>应用于所有幻灯片(&amp;A)</translation>
+        <translation type="obsolete">应用于所有幻灯片(&amp;A)</translation>
     </message>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>应用于母版(&amp;M)</translation>
+        <translation type="obsolete">应用于母版(&amp;M)</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Masters</source>
-        <translation>应用于选定母版(S)</translation>
+        <translation type="obsolete">应用于选定母版(S)</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>应用于选定幻灯片(&amp;S)</translation>
+        <translation type="obsolete">应用于选定幻灯片(&amp;S)</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation>显示大型预览(&amp;L)</translation>
+        <translation type="obsolete">显示大型预览(&amp;L)</translation>
     </message>
 </context>
 <context>
@@ -6597,7 +7935,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Custom Animation:</source>
-        <translation>自定义动画:</translation>
+        <translation type="obsolete">自定义动画:</translation>
     </message>
     <message>
         <source>Re-order</source>
@@ -6763,26 +8101,90 @@ be recovered.</source>
     </message>
 </context>
 <context>
-    <name>kdlgExportToPDF</name>
+    <name>kdlgExportToOFD</name>
+    <message>
+        <source>Export OFD File</source>
+        <translation>输出 OFD 文件</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <translation type="unfinished">常规</translation>
+    </message>
+    <message>
+        <source>Save &amp;to</source>
+        <translation>保存到(&amp;T)</translation>
+    </message>
     <message>
         <source>&amp;Browse...</source>
         <translation>浏览(&amp;B)...</translation>
     </message>
     <message>
-        <source>&amp;Current Slide</source>
-        <translation type="obsolete">当前幻灯片(&amp;C)</translation>
+        <source>Export range</source>
+        <translation>输出范围</translation>
     </message>
     <message>
-        <source>&amp;Password:</source>
-        <translation>密码(&amp;P):</translation>
+        <source>A&amp;ll</source>
+        <translation>全部(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Current slide</source>
+        <translation>当前幻灯片(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
         <translation>选定幻灯片(&amp;S)</translation>
     </message>
     <message>
-        <source>&amp;Vertical</source>
-        <translation>垂直(&amp;V)</translation>
+        <source>C&amp;ustom slide shows:</source>
+        <translation>自定义放映(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Sl&amp;ides:</source>
+        <translation>幻灯片(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
+        <translation>请输入幻灯片编号或幻灯片范围。例如：1,3,5-12</translation>
+    </message>
+    <message>
+        <source>Export options</source>
+        <translation>输出选项</translation>
+    </message>
+    <message>
+        <source>Export &amp;what:</source>
+        <translation>输出内容(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Slides</source>
+        <translation>幻灯片</translation>
+    </message>
+    <message>
+        <source>Handouts</source>
+        <translation>讲义</translation>
+    </message>
+    <message>
+        <source>Notes pages</source>
+        <translation>备注页</translation>
+    </message>
+    <message>
+        <source>Outline view</source>
+        <translation>大纲视图</translation>
+    </message>
+    <message>
+        <source>Color/&amp;Grayscale:</source>
+        <translation>颜色(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation>彩色</translation>
+    </message>
+    <message>
+        <source>Pure black and white</source>
+        <translation>纯黑白</translation>
+    </message>
+    <message>
+        <source>Slides p&amp;er page:</source>
+        <translation>每页幻灯片数(&amp;E):</translation>
     </message>
     <message>
         <source>1</source>
@@ -6807,6 +8209,260 @@ be recovered.</source>
     <message>
         <source>9</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order:</source>
+        <translation>顺序:</translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation>水平(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation>垂直(&amp;V)</translation>
+    </message>
+    <message>
+        <source>ICON</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fra&amp;me slides</source>
+        <translation>幻灯片加框(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Print &amp;hidden slides</source>
+        <translation>输出隐藏幻灯片(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Permission Settings</source>
+        <translation>权限设置</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permission settings</source>
+        <translation>权限设置(&amp;O)(使以下权限设置生效)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation>密码(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Con&amp;firm:</source>
+        <translation>确认(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation>注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+    </message>
+    <message>
+        <source>Permit to modify</source>
+        <translation>允许更改</translation>
+    </message>
+    <message>
+        <source>Permit to copy</source>
+        <translation>允许复制</translation>
+    </message>
+    <message>
+        <source>Permit to add comments</source>
+        <translation>允许添加批注</translation>
+    </message>
+    <message>
+        <source>Printing permission:</source>
+        <translation>打印权限:</translation>
+    </message>
+    <message>
+        <source>Printing not allowed</source>
+        <translation>不允许打印</translation>
+    </message>
+    <message>
+        <source>Low-quality printing</source>
+        <translation>低质量打印</translation>
+    </message>
+    <message>
+        <source>Free printing</source>
+        <translation>不受限打印</translation>
+    </message>
+    <message>
+        <source>File open password:</source>
+        <translation>文件打开密码:</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d:</source>
+        <translation>密码(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Confi&amp;rm:</source>
+        <translation>确认(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Close when e&amp;xport completes</source>
+        <translation>输出成功后自动关闭(&amp;X)</translation>
+    </message>
+    <message>
+        <source>&amp;Current Slide</source>
+        <translation type="obsolete">当前幻灯片(&amp;C)</translation>
+    </message>
+    <message>
+        <source>C&amp;ustom shows:</source>
+        <translation type="obsolete">自定义放映(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>Color/&amp;grayscale:</source>
+        <translation type="obsolete">颜色(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Enter slide numbers or ranges.For example, 1,3,5-12</source>
+        <translation type="obsolete">请输入幻灯片编号或幻灯片范围。例如：1,3,5-12</translation>
+    </message>
+    <message>
+        <source>Export &amp;what</source>
+        <translation type="obsolete">输出内容(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Export Options</source>
+        <translation type="obsolete">输出选项</translation>
+    </message>
+    <message>
+        <source>Export Range</source>
+        <translation type="obsolete">输出范围</translation>
+    </message>
+    <message>
+        <source>Export&amp;what</source>
+        <translation type="obsolete">输出内容(&amp;W)</translation>
+    </message>
+    <message>
+        <source>File Open password:</source>
+        <translation type="obsolete">文件打开密码:</translation>
+    </message>
+    <message>
+        <source>Free Print</source>
+        <translation type="obsolete">不受限打印</translation>
+    </message>
+    <message>
+        <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
+        <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+    </message>
+    <message>
+        <source>Notes Pages</source>
+        <translation type="obsolete">备注页</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">确定</translation>
+    </message>
+    <message>
+        <source>Outline View</source>
+        <translation type="obsolete">大纲视图</translation>
+    </message>
+    <message>
+        <source>Passw&amp;ord to protect permissions settings</source>
+        <translation type="obsolete">权限设置(&amp;O)(使以下权限设置生效)</translation>
+    </message>
+    <message>
+        <source>Passwor&amp;d to open:</source>
+        <translation type="obsolete">密码(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Permission &amp;password:</source>
+        <translation type="obsolete">密码(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Permission Print:</source>
+        <translation type="obsolete">打印权限:</translation>
+    </message>
+    <message>
+        <source>Print low quality only</source>
+        <translation type="obsolete">低质量打印</translation>
+    </message>
+    <message>
+        <source>Pure Black and White</source>
+        <translation type="obsolete">纯黑白</translation>
+    </message>
+    <message>
+        <source>Select OFD Service Provider</source>
+        <translation>选择 OFD 服务商</translation>
+    </message>
+    <message>
+        <source>Suwell&amp;K</source>
+        <translation>数科(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Foxit</source>
+        <translation>福昕(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
+        <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToOFDProgress</name>
+    <message>
+        <source>Export to OFD File</source>
+        <translation>输出 OFD 文件</translation>
+    </message>
+    <message>
+        <source>Preparing for exporting OFD file...</source>
+        <translation>正在准备导出 OFD 文件...</translation>
+    </message>
+    <message>
+        <source>&amp;Open File</source>
+        <translation>打开文件(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>kdlgExportToPDF</name>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;Current Slide</source>
+        <translation type="obsolete">当前幻灯片(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Password:</source>
+        <translation>密码(&amp;P):</translation>
+    </message>
+    <message>
+        <source>&amp;Selection</source>
+        <translation>选定幻灯片(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation>垂直(&amp;V)</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>2- {1?}</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation>2- {2?}</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>2- {3?}</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation>2- {4?}</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation>2- {6?}</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation></translation>
     </message>
     <message>
         <source>A&amp;ll</source>
@@ -6890,11 +8546,11 @@ be recovered.</source>
     </message>
     <message>
         <source>ICON</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">常规</translation>
+        <translation>常规</translation>
     </message>
     <message>
         <source>Note:only set password,option following can be valid on note,and protected without others on note.</source>
@@ -7026,7 +8682,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+        <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -7047,6 +8703,10 @@ be recovered.</source>
     <message>
         <source>Note: Only setting password, the following options can be valid on note, and prevented others changing on note.</source>
         <translation type="obsolete">注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
+    </message>
+    <message>
+        <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
+        <translation>注意：只有设定了以上密码，以下的权限内容设置才会生效，并能防止这些设置被他人更改。</translation>
     </message>
 </context>
 <context>
@@ -7128,7 +8788,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Fill &amp;color:</source>
-        <translation>填充颜色(&amp;C):</translation>
+        <translation type="obsolete">填充颜色(&amp;C):</translation>
     </message>
     <message>
         <source>Internal margin</source>
@@ -7148,7 +8808,7 @@ be recovered.</source>
     </message>
     <message>
         <source>Semi&amp;transparent</source>
-        <translation>半透明(&amp;T)</translation>
+        <translation type="obsolete">半透明(&amp;T)</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -7199,15 +8859,7 @@ be recovered.</source>
         <translation></translation>
     </message>
     <message>
-        <source>cbFillColor</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>cbOrientation</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>cbSemitransparent</source>
         <translation></translation>
     </message>
     <message>
@@ -7220,10 +8872,6 @@ be recovered.</source>
     </message>
     <message>
         <source>cmbBorderWidth</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>cmbFillColor</source>
         <translation></translation>
     </message>
     <message>
@@ -7245,6 +8893,153 @@ be recovered.</source>
     <message>
         <source>Bottom Center</source>
         <translation>底部居中</translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;File...</source>
+        <translation>文件(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>Angle</source>
+        <translation type="obsolete">角度</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="obsolete">背景</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="obsolete">颜色</translation>
+    </message>
+    <message>
+        <source>Fill type</source>
+        <translation type="obsolete">填充类型</translation>
+    </message>
+    <message>
+        <source>Foreground</source>
+        <translation type="obsolete">前景</translation>
+    </message>
+    <message>
+        <source>Gradient fill</source>
+        <translation>渐变填充</translation>
+    </message>
+    <message>
+        <source>Gradient stops</source>
+        <translation type="obsolete">渐变光圈</translation>
+    </message>
+    <message>
+        <source>No fill</source>
+        <translation type="obsolete">无填充</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="obsolete">图案</translation>
+    </message>
+    <message>
+        <source>Pattern fill</source>
+        <translation>图案填充</translation>
+    </message>
+    <message>
+        <source>Picture or texture fill</source>
+        <translation>图片或纹理填充</translation>
+    </message>
+    <message>
+        <source>Solid fill</source>
+        <translation>纯色填充</translation>
+    </message>
+    <message>
+        <source>Transparency</source>
+        <translation type="obsolete">透明度</translation>
+    </message>
+    <message>
+        <source>Source Of Picture:</source>
+        <translation type="obsolete">图片来源：</translation>
+    </message>
+    <message>
+        <source>Enter 0%  to 100% of value</source>
+        <translation>输入0% 到 100%的值</translation>
+    </message>
+    <message>
+        <source>Enter 0  to 359 Degrees of value</source>
+        <translation>输入0度 到 359度的值</translation>
+    </message>
+    <message>
+        <source>Enter 0cm to 55.88cm of the Value</source>
+        <translation>输入0厘米 到 55.88厘米的值</translation>
+    </message>
+    <message>
+        <source>Gradient Linear</source>
+        <translation>线性渐变</translation>
+    </message>
+    <message>
+        <source>Gradient Radial</source>
+        <translation>射线渐变</translation>
+    </message>
+    <message>
+        <source>Gradient Rect</source>
+        <translation>矩形渐变</translation>
+    </message>
+    <message>
+        <source>Gradient Path</source>
+        <translation>路径渐变</translation>
+    </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation>填充(&amp;F)：</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>颜色(&amp;C)：</translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation>透明度(&amp;T)：</translation>
+    </message>
+    <message>
+        <source>&amp;Style</source>
+        <translation>样式(&amp;S)：</translation>
+    </message>
+    <message>
+        <source>&amp;Angle</source>
+        <translation>角度(&amp;A)：</translation>
+    </message>
+    <message>
+        <source>Gra&amp;dient stops</source>
+        <translation>渐变光圈(&amp;D)：</translation>
+    </message>
+    <message>
+        <source>Source From File</source>
+        <translation>来自文件(&amp;F)：</translation>
+    </message>
+    <message>
+        <source>Source From &amp;Texture</source>
+        <translation>来自纹理(&amp;T)：</translation>
+    </message>
+    <message>
+        <source>&amp;Pattern</source>
+        <translation>图案(&amp;P)：</translation>
+    </message>
+    <message>
+        <source>Fore&amp;ground</source>
+        <translation>前景色(&amp;G)：</translation>
+    </message>
+    <message>
+        <source>&amp;Background</source>
+        <translation>背景色(&amp;B)：</translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>kxDlgThesaurus</name>
+    <message>
+        <source>Replace</source>
+        <translation type="obsolete">替换</translation>
     </message>
 </context>
 <context>
@@ -7472,6 +9267,45 @@ be recovered.</source>
     <message>
         <source>Cancel</source>
         <translation type="obsolete">取消</translation>
+    </message>
+</context>
+<context>
+    <name>wppContentPosition</name>
+    <message>
+        <source>&amp;Horizontal position</source>
+        <translation>水平位置(&amp;H)：</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>厘米</translation>
+    </message>
+    <message>
+        <source>&amp;From</source>
+        <translation>相对于(&amp;F)：</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation>左上角</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical position</source>
+        <translation>垂直位置(&amp;V)：</translation>
+    </message>
+    <message>
+        <source>F&amp;rom</source>
+        <translation>相对于(&amp;r)：</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92  to 5963.92 cm of value</source>
+        <translation>输入从 -5963.92厘米 到 5963.92厘米的值</translation>
+    </message>
+    <message>
+        <source>Enter -5963.92cm  to 5963.92 cm of value</source>
+        <translation type="obsolete">输入从 -5963.92厘米 到 5963.92厘米的值</translation>
     </message>
 </context>
 </TS>

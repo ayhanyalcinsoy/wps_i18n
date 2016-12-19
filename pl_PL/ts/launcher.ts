@@ -6,14 +6,11 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
-        <translation variants="yes">
-            <lengthvariant>KUruchamianieWidget</lengthvariant>
-            <lengthvariant>KLauncherWidget</lengthvariant>
-        </translation>
+        <translation>KLauncherWidget</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Zapraszamy do WPS Office</translation>
+        <translation>Witamy w WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>

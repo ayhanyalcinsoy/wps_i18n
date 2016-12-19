@@ -6,6 +6,7 @@
     <name>KScreenGrabDialog</name>
     <message>
         <source>Rect Tool</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -63,10 +64,70 @@
     <message>
         <source>RGB:(%1, %2, %3)</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>矩形工具</translation>
+    </message>
+    <message>
+        <source>Ellipse Tool</source>
+        <translation>橢圓形工具</translation>
+    </message>
+    <message>
+        <source>Arrow Tool</source>
+        <translation>箭號工具</translation>
+    </message>
+    <message>
+        <source>Brush Tool</source>
+        <translation>筆刷工具</translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation>文字工具</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>復原</translation>
+    </message>
+    <message>
+        <source>Copy to Clipboard</source>
+        <translation>複製到剪貼簿</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>儲存</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>結束</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <translation>完成</translation>
+    </message>
+    <message>
+        <source>Reselect Region</source>
+        <translation>重新選取區域</translation>
+    </message>
+    <message>
+        <source>Hide Toolbar</source>
+        <translation>隱藏工具列</translation>
+    </message>
+    <message>
+        <source>%1 * %2</source>
+        <translation>%1 * %2</translation>
+    </message>
+    <message>
+        <source>(%1, %2)</source>
+        <translation>(%1, %2)</translation>
+    </message>
+    <message>
+        <source>RGB:(%1, %2, %3)</source>
+        <translation>RGB:(%1, %2, %3)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -84,13 +145,36 @@ to Adsorb Line</source>
     <message>
         <source>Show Toolbar</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>按住 Alt 鍵吸附直線</translation>
+    </message>
+    <message>
+        <source>Capture%1</source>
+        <translation>截图%1</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>另存為</translation>
+    </message>
+    <message>
+        <source>%1;;%2;;%3</source>
+        <translation>%1;;%2;;%3</translation>
+    </message>
+    <message>
+        <source>Show Toolbar</source>
+        <translation>顯示工具列</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>已複製到剪貼簿。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 </TS>

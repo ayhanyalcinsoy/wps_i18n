@@ -3,6 +3,13 @@
 <TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
+    <name>DownloadBubbleWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
+    </message>
+</context>
+<context>
     <name>KApplication</name>
     <message>
         <source>Trial Version</source>
@@ -10,10 +17,83 @@
     </message>
 </context>
 <context>
+    <name>KBevelModel</name>
+    <message>
+        <source>No Bevel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KBorderPickCtrl</name>
     <message>
         <source>Text</source>
         <translation>Tekst</translation>
+    </message>
+</context>
+<context>
+    <name>KCameraModel</name>
+    <message>
+        <source>No Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parallel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oblique</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KColorCombobox</name>
+    <message>
+        <source>&amp;Fill effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Patterned Lines...</source>
+        <translation type="unfinished">Linie z &amp;deseniem...</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automatycznie</translation>
+    </message>
+    <message>
+        <source>&amp;More Color...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper Color(&amp;E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="obsolete">Bez koloru</translation>
+    </message>
+    <message>
+        <source>&amp;No Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -266,11 +346,228 @@
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation>odłączony z listy</translation>
+        <translation>Odepnij od listy</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation>dołączony do listy</translation>
+        <translation>Przypnij do listy</translation>
+    </message>
+</context>
+<context>
+    <name>KFormatDoubleSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatScrollBar</name>
+    <message>
+        <source>Scroll here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scroll down</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatSpinBoxLineEdit</name>
+    <message>
+        <source>The Entry Must Be Positive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Cannot Contain Any Non-Digit Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be Less Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Entry Must Be More Than Or Equal To %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesTitle</name>
+    <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFormatStylesWidget</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KGalleryAbstractModel</name>
+    <message>
+        <source>No Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection Variations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>10 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>25 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>50 Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Follow Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow Variations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perspective</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLightingModel</name>
+    <message>
+        <source>Neutral</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Warm Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -332,6 +629,21 @@
     </message>
 </context>
 <context>
+    <name>KMaterialModel</name>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Effect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translucent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KMemberUser</name>
     <message>
         <source>Bronze</source>
@@ -358,12 +670,48 @@
         <comment>Member user type</comment>
         <translation>Platyna</translation>
     </message>
+    <message>
+        <source>Registered user</source>
+        <comment>Member User type</comment>
+        <translation>Zarejestrowany użytkownik</translation>
+    </message>
 </context>
 <context>
     <name>KMenuWidget</name>
     <message>
         <source>InsertCellsInPopup</source>
-        <translation>Wstawianie komórek w menu podręcznym</translation>
+        <translation>Wstawianie komórek</translation>
+    </message>
+</context>
+<context>
+    <name>KNoTabPageWidget</name>
+    <message>
+        <source>Last time encounter abnormal shutdown!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send error file to help WPS solve such issues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
+    </message>
+    <message>
+        <source>Modified time: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -371,6 +719,69 @@
     <message>
         <source>Text </source>
         <translation>Tekst </translation>
+    </message>
+</context>
+<context>
+    <name>KPluginDownloadingTipWidget</name>
+    <message>
+        <source>Initializing </source>
+        <translation>Inicjowanie </translation>
+    </message>
+    <message>
+        <source>, </source>
+        <translation>, </translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>Proszę czekać...</translation>
+    </message>
+</context>
+<context>
+    <name>KPluginFailureTipWidget</name>
+    <message>
+        <source>Download failed due to possible network problems. Please try again later.</source>
+        <translation>Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressBar</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Multiple Tasks:</source>
+        <translation>Wiele zadań:</translation>
+    </message>
+    <message>
+        <source>Show In Progress Tasks</source>
+        <translation>Pokaż zadania w trakcie wykonywania</translation>
+    </message>
+    <message>
+        <source>Press &apos;Multiple Task&apos; button to display tasks</source>
+        <translation>Naciśnij przycisk &apos;Wiele zadań&apos;, aby wyświetlić zadania</translation>
+    </message>
+</context>
+<context>
+    <name>KProgressListGalleryModelItem</name>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyCommandButton</name>
+    <message>
+        <source>(Download required)</source>
+        <translation>(Wymagane pobieranie)</translation>
+    </message>
+    <message>
+        <source>(Initializing...)</source>
+        <translation>(Inicjowanie...)</translation>
+    </message>
+    <message>
+        <source>(Upgrading...)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -472,14 +883,14 @@
     <message>
         <source>Can not find the file &quot;%1&quot;.
 the file may be renamed,deleted or moved the location.</source>
-        <translation>Nie można odnaleźć pliku &quot;%1&quot;.
+        <translation type="obsolete">Nie można odnaleźć pliku &quot;%1&quot;.
 Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji.</translation>
     </message>
     <message>
         <source>
 
 modify time: </source>
-        <translation>
+        <translation type="obsolete">
 
 Godzina modyfikacji: </translation>
     </message>
@@ -487,9 +898,60 @@ Godzina modyfikacji: </translation>
         <source>
 
 This record is invalid, the file may be renamed,deleted or moved the location</source>
-        <translation>
+        <translation type="obsolete">
 
 Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunięty lub przeniesiony do innej lokalizacji</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation>Nie można otworzyć &quot;%1&quot;.
+Plik został zmieniony, usunięty lub przeniesiony.</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time:</source>
+        <translation>
+
+Godzina modyfikacji:</translation>
+    </message>
+    <message>
+        <source>
+
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation>
+
+
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
+    </message>
+    <message>
+        <source>
+
+Modified time: </source>
+        <translation type="obsolete">
+
+Godzina modyfikacji: </translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">
+
+Nieprawidłowy rekord. Plik może mieć zmienioną nazwę, być usunięty lub przeniesiony.</translation>
+    </message>
+</context>
+<context>
+    <name>KShapeLineGalleryItem</name>
+    <message>
+        <source>No Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset Line</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -497,6 +959,25 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     <message>
         <source>System Menu</source>
         <translation>Menu systemowe</translation>
+    </message>
+</context>
+<context>
+    <name>KTextureModel</name>
+    <message>
+        <source>Picture Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From &amp;Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset Texture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -551,7 +1032,7 @@ auto=auto
 [Multiple]
 multiple=multiple
 </source>
-        <translation>[Urządzenie]
+        <translation type="obsolete">[Urządzenie]
 pkt=pkt;p
 cal=cal;c
 cm=cm;cm
@@ -576,6 +1057,61 @@ auto=auto
 wielokrotne=wielokrotne
 </translation>
     </message>
+    <message>
+        <source>[Device]
+pt=pt;p
+in=inch;i
+cm=cm;c
+mm=mm;m
+
+[Percentage]
+%=%
+
+[Character]
+ch=char
+
+[Degree]
+degree=degree
+
+[Row]
+line=line
+
+[Auto]
+auto=auto
+
+[Multiple]
+multiple=multiple
+
+[Point]
+point=pt
+</source>
+        <translation>[Urządzenie]
+pkt=pkt;p
+cal=cal;c
+cm=cm;cm
+mm=mm;mm
+
+[Wartość procentowa]
+%=%
+
+[Znak]
+zn.=znak
+
+[Stopień]
+stopień=stopień
+
+[Wiersz]
+wiersz=wiersz
+
+[Automatycznie]
+auto=auto
+
+[Wielokrotne]
+wielokrotne=wielokrotne
+
+[Punkt]
+punkt= pkt</translation>
+    </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
@@ -586,8 +1122,14 @@ wielokrotne=wielokrotne
     <message>
         <source>Some components are not installed correctly,
 please reinstall WPS Office!</source>
-        <translation>Niektóre składniki nie są zainstalowane poprawnie,
+        <translation type="obsolete">Niektóre składniki nie są zainstalowane poprawnie,
 proszę ponownie zainstalować WPS Office!</translation>
+    </message>
+    <message>
+        <source>Some components are not installed correctly.
+Please reinstall WPS Office!</source>
+        <translation>Niektóre składniki nie są zainstalowane poprawnie.
+Proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
 <context>
@@ -602,6 +1144,33 @@ proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
 <context>
+    <name>KxPrstFillModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theme Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>texture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxSpinBoxCtrl</name>
     <message>
         <source>The input value must be between %1 and %2.</source>
@@ -610,6 +1179,17 @@ proszę ponownie zainstalować WPS Office!</translation>
     <message>
         <source>This is not a valid integer.</source>
         <translation>Nieprawidłowa liczba całkowita.</translation>
+    </message>
+</context>
+<context>
+    <name>QApplication</name>
+    <message>
+        <source>No Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -722,6 +1302,45 @@ proszę ponownie zainstalować WPS Office!</translation>
     <message>
         <source>Delete from List</source>
         <translation>Usuń z listy</translation>
+    </message>
+</context>
+<context>
+    <name>gradientStopsPanel</name>
+    <message>
+        <source>Add Gradient Aperture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Gradient Aperture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>P&amp;osition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter  0% to 100% of the Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transparency</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Brightness</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter -100% to 100% of the Value</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

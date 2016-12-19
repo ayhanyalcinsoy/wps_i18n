@@ -27,37 +27,65 @@
     <message>
         <source>&amp;Convert XX to 19XX</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertTo19xx</comment>
+<<<<<<< HEAD
         <translation>&amp;Convert XX to 19XX</translation>
+=======
+        <translation>將 XX 轉換成 19XX(&amp;C)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Convert to Number</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertToNumber</comment>
+<<<<<<< HEAD
         <translation>&amp;Convert to Number</translation>
+=======
+        <translation>轉換成數字(&amp;C)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Ignore Error</source>
         <comment>TX_ERRORCHECK_REPAIR_IgnoreError</comment>
+<<<<<<< HEAD
         <translation>&amp;Ignore Error</translation>
+=======
+        <translation>忽略錯誤(&amp;I)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Lock Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
+<<<<<<< HEAD
         <translation>&amp;Lock Cell</translation>
+=======
+        <translation>鎖定儲存格(&amp;L)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Trace Empty Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceEmptyCell</comment>
+<<<<<<< HEAD
         <translation>&amp;Trace Empty Cell</translation>
+=======
+        <translation>追蹤空白儲存格(&amp;T)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Trace Error</source>
         <comment>TX_ERRORCHECK_REPAIR_TraceError</comment>
+<<<<<<< HEAD
         <translation>&amp;Trace Error</translation>
+=======
+        <translation>追蹤錯誤(&amp;T)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&amp;Update Formula to include Cells</source>
         <comment>TX_ERRORCHECK_REPAIR_UpdateFmla</comment>
+<<<<<<< HEAD
         <translation>&amp;Update Formula to include Cells</translation>
+=======
+        <translation>更新公式以包含儲存格(&amp;U)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>(Exclusive)</source>
@@ -124,12 +152,20 @@ To open the second document with the same name, you can close the document that 
     <message>
         <source>A value is not available to the formula or function.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NA</comment>
+<<<<<<< HEAD
         <translation>A value is not available to the formula or function.</translation>
+=======
+        <translation>公式或函數無法使用某值。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>A value used in the formula is of the wrong data type.</source>
         <comment>TX_ERRORCHECK_ERRDESC_VALUE</comment>
+<<<<<<< HEAD
         <translation>A value used in the formula is of the wrong data type.</translation>
+=======
+        <translation>公式中所使用的某值其資料類型錯誤。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>All Kingsoft Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
@@ -301,7 +337,11 @@ Please specify the right files.</source>
     <message>
         <source>Cannot run the macro &quot;%s&quot;. The macro may not be available in this workbook or all macros may be disabled.</source>
         <comment>TX_FindMacro_Failure</comment>
+<<<<<<< HEAD
         <translation>无法运行“%s”宏。可能是因为该宏在此工作簿中不可用，或者所有的宏都被禁用。</translation>
+=======
+        <translation>無法執行巨集 &quot;%s&quot; 。該巨集可能無法在此活頁簿中使用，或者已停用所有巨集。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
@@ -371,7 +411,11 @@ Please specify the right files.</source>
     <message>
         <source>Con&amp;vert XX to 20XX</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertTo20xx</comment>
+<<<<<<< HEAD
         <translation>Con&amp;vert XX to 20XX</translation>
+=======
+        <translation>將 XX 轉換成 20XX(&amp;V)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Constant array error.</source>
@@ -411,7 +455,11 @@ Please specify the right files.</source>
     <message>
         <source>Copy Formula from &amp;Above</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromUp</comment>
+<<<<<<< HEAD
         <translation>Copy Formula from &amp;Above</translation>
+=======
+        <translation>從上方複製公式(&amp;A)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Copy Formula from &amp;Left</source>
@@ -476,17 +524,29 @@ Please specify the right files.</source>
     <message>
         <source>Derivatives Central</source>
         <comment>TX_SOLVER_DERIVATIVES_CENTRAL</comment>
+<<<<<<< HEAD
         <translation>Derivatives Central</translation>
+=======
+        <translation>中心導數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Derivatives Forward</source>
         <comment>TX_SOLVER_DERIVATIVES_FORWARD</comment>
+<<<<<<< HEAD
         <translation>Derivatives Forward</translation>
+=======
+        <translation>前向導數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Divide by Zero Error</source>
         <comment>TX_ERRORCHECK_ERR_DIV</comment>
+<<<<<<< HEAD
         <translation>Divide by Zero Error</translation>
+=======
+        <translation>除以零錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Do you want to replace the existing definition of &quot;%s&quot;?</source>
@@ -496,7 +556,11 @@ Please specify the right files.</source>
     <message>
         <source>Do you want to save changes before switching file status?</source>
         <comment>TX_ChangeFileAccessQuery</comment>
+<<<<<<< HEAD
         <translation>切换文档状态前是否先保存更改内容?</translation>
+=======
+        <translation>您是否要在切換檔案狀態之前先存檔?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
@@ -541,7 +605,11 @@ Please specify the right files.</source>
     <message>
         <source>Edit in &amp;Formula Bar</source>
         <comment>TX_ERRORCHECK_REPAIR_EditinFmlaBar</comment>
+<<<<<<< HEAD
         <translation>Edit in &amp;Formula Bar</translation>
+=======
+        <translation>在資料編輯列中編輯(&amp;F)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Engine</source>
@@ -551,12 +619,20 @@ Please specify the right files.</source>
     <message>
         <source>Error Checking &amp;Options...</source>
         <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
+<<<<<<< HEAD
         <translation>Error Checking &amp;Options...</translation>
+=======
+        <translation>錯誤檢查選項(&amp;O)...</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Error in Value</source>
         <comment>TX_ERRORCHECK_ERR_VALUE</comment>
+<<<<<<< HEAD
         <translation>Error in Value</translation>
+=======
+        <translation>錯誤的值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Errors occur when Kingsoft Spreadsheets opening this file.
@@ -608,7 +684,11 @@ Please try one of the following.
     <message>
         <source>File not loaded completely.</source>
         <comment>TX_FILE_NOT_LOADED_COMPLETELY</comment>
+<<<<<<< HEAD
         <translation type="unfinished">文件未完全加載</translation>
+=======
+        <translation>檔案無法完全載入。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Fill failed due to there is an array in source area.</source>
@@ -648,12 +728,20 @@ Please try one of the following.
     <message>
         <source>Formula Omits Adjacent Cells</source>
         <comment>TX_ERRORCHECK_ERR_OmittedCells</comment>
+<<<<<<< HEAD
         <translation>Formula Omits Adjacent Cells</translation>
+=======
+        <translation>公式省略相鄰的儲存格</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Formula Refers to Empty Cells</source>
         <comment>TX_ERRORCHECK_ERR_EmptyCellReferences</comment>
+<<<<<<< HEAD
         <translation>Formula Refers to Empty Cells</translation>
+=======
+        <translation>公式參照到空白儲存格</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Formula is too long.</source>
@@ -678,7 +766,11 @@ Please try one of the following.
     <message>
         <source>Gradient</source>
         <comment>TX_SOLVER_GRADIENT</comment>
+<<<<<<< HEAD
         <translation>Gradient</translation>
+=======
+        <translation>漸層</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Grand Total</source>
@@ -693,7 +785,11 @@ Please try one of the following.
     <message>
         <source>Inconsistent Formula</source>
         <comment>TX_ERRORCHECK_ERR_InconsistentFormula</comment>
+<<<<<<< HEAD
         <translation>Inconsistent Formula</translation>
+=======
+        <translation>公式不一致</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Increase</source>
@@ -713,12 +809,20 @@ Please try one of the following.
     <message>
         <source>Invaild Cell Reference Error</source>
         <comment>TX_ERRORCHECK_ERR_REF</comment>
+<<<<<<< HEAD
         <translation>Invaild Cell Reference Error</translation>
+=======
+        <translation type="obsolete">無效的儲存格參照錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Invalid Name Error</source>
         <comment>TX_ERRORCHECK_ERR_NAME</comment>
+<<<<<<< HEAD
         <translation>Invalid Name Error</translation>
+=======
+        <translation>無效的名稱錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Invalid data value . Please try again.</source>
@@ -935,17 +1039,29 @@ Please try one of the following.
     <message>
         <source>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
         <comment>TX_ERRORCHECK_ERRDESC_REF</comment>
+<<<<<<< HEAD
         <translation>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</translation>
+=======
+        <translation>移動或刪除儲存格會造成無效的儲存格參照，或是由函數傳回參照錯誤。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Multiplier</source>
         <comment>TX_SOLVER_MULTIPLIER</comment>
+<<<<<<< HEAD
         <translation>Multiplier</translation>
+=======
+        <translation>乘數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Multistart</source>
         <comment>TX_SOLVER_MULTISTART</comment>
+<<<<<<< HEAD
         <translation>Multistart</translation>
+=======
+        <translation>多點開始法</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>NONE</source>
@@ -989,17 +1105,29 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Null Error</source>
         <comment>TX_ERRORCHECK_ERR_NULL</comment>
+<<<<<<< HEAD
         <translation>Null Error</translation>
+=======
+        <translation>Null 錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Number Error</source>
         <comment>TX_ERRORCHECK_ERR_NUM</comment>
+<<<<<<< HEAD
         <translation>Number Error</translation>
+=======
+        <translation>數字錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Number Stored as Text</source>
         <comment>TX_ERRORCHECK_ERR_NumberAsText</comment>
+<<<<<<< HEAD
         <translation>Number Stored as Text</translation>
+=======
+        <translation>數值儲存成文字</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Objective</source>
@@ -1074,7 +1202,11 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Population Size</source>
         <comment>TX_SOLVER_POPULATION_SIZE</comment>
+<<<<<<< HEAD
         <translation>Population Size</translation>
+=======
+        <translation>母體大小</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Precision</source>
@@ -1109,7 +1241,11 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Random Seed</source>
         <comment>TX_SOLVER_RANDOM_SEED</comment>
+<<<<<<< HEAD
         <translation>Random Seed</translation>
+=======
+        <translation>隨機種子</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reduced</source>
@@ -1144,7 +1280,11 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>RequireBounds</source>
         <comment>TX_SOLVER_REQUIRE_BOUNDS</comment>
+<<<<<<< HEAD
         <translation>RequireBounds</translation>
+=======
+        <translation>需要範圍限制</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Result</source>
@@ -1174,7 +1314,11 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Selection is too large</source>
         <comment>TX_ERROR_SELECTION_RANGE_TOO_LARGE</comment>
+<<<<<<< HEAD
         <translation>选定区域太大</translation>
+=======
+        <translation>選取範圍太大。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Sensitivity Report</source>
@@ -1199,7 +1343,11 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Show &amp;Calculation Steps...</source>
         <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
+<<<<<<< HEAD
         <translation>Show &amp;Calculation Steps...</translation>
+=======
+        <translation>顯示計算步驟(&amp;C)...</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Show Iteration Results</source>
@@ -1349,8 +1497,13 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
         <source>The command you chose cannot be performed with multiple selection.
 Select a single range and click the command again.</source>
         <comment>TX_ERROR_MultiRange_Camera</comment>
+<<<<<<< HEAD
         <translation>The command you chose cannot be performed with multiple selection.
 Select a single range and click the command again.</translation>
+=======
+        <translation>您不能在選取多個不連續範圍時執行這個命令。
+請一次只選取一個範圍，然後執行這個命令。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The data out of worksheet will be lost.</source>
@@ -1402,12 +1555,20 @@ Select a single range and click the command again.</translation>
     <message>
         <source>The formula contains unrecognized text.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NAME</comment>
+<<<<<<< HEAD
         <translation>The formula contains unrecognized text.</translation>
+=======
+        <translation>這個公式包含無法辨識的文字。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this aera of the spreadsheet.</source>
         <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
+<<<<<<< HEAD
         <translation>此儲存格內的公式與試算表中本區域內的公式並不相同。</translation>
+=======
+        <translation type="obsolete">此儲存格內的公式與試算表中本區域內的公式並不相同。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this aera of the spreadsheet. </source>
@@ -1417,12 +1578,20 @@ Select a single range and click the command again.</translation>
     <message>
         <source>The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
         <comment>TX_ERRORCHECK_ERRDESC_OmittedCells</comment>
+<<<<<<< HEAD
         <translation>The formula in this cell refers to a range that has additional numbers adjacent to it.</translation>
+=======
+        <translation>此儲存格內的公式參照到與其他數字相鄰的範圍。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The formula in this cell refers to cells that are currently empty.</source>
         <comment>TX_ERRORCHECK_ERRDESC_EmptyCellReferences</comment>
+<<<<<<< HEAD
         <translation>The formula in this cell refers to cells that are currently empty.</translation>
+=======
+        <translation>此儲存格內的公式所參照的儲存格目前是空的。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The formula is too long to finish all the replacements.</source>
@@ -1432,7 +1601,11 @@ Select a single range and click the command again.</translation>
     <message>
         <source>The formula or function used is dividing by zero or empty cells.</source>
         <comment>TX_ERRORCHECK_ERRDESC_DIV</comment>
+<<<<<<< HEAD
         <translation>The formula or function used is dividing by zero or empty cells.</translation>
+=======
+        <translation>使用的公式或函數中的除數為零或空儲存格。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The function you are using is invalid in Kingsoft Spreadsheets.</source>
@@ -1467,7 +1640,11 @@ Select a single range and click the command again.</translation>
     <message>
         <source>The number in this cells is formatted as text or preceded by an apostrophe.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NumberAsText</comment>
+<<<<<<< HEAD
         <translation>The number in this cells is formatted as text or preceded by an apostrophe.</translation>
+=======
+        <translation>此儲存格內的數字其格式為文字或開頭為單引號。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
@@ -1478,13 +1655,22 @@ Select a single range and click the command again.</translation>
         <source>The query did not run, or the database table could not be opened.
 Check the database server or contact your database administrator. Make sure the external database is available and hasn&apos;t been moved or reorganized, then try the operation again.</source>
         <comment>TX_ERROR_DBConnect_Fail</comment>
+<<<<<<< HEAD
         <translation>查询无法运行或数据库无法打开。
 请检查数据库服务器或联系你的数据库管理员。确认外部数据库有效并且未被移动或重新组织，然后重试该操作。</translation>
+=======
+        <translation>此查詢沒有執行，或是資料庫資料庫沒有被開啟。
+檢查資料庫伺服器或連絡您的資料庫管理員，確定此外部資料庫可以使用，並且沒有被移動或重新組織，然後再次嘗試此項操作。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The ranges in the formula do not intersect.</source>
         <comment>TX_ERRORCHECK_ERRDESC_NULL</comment>
+<<<<<<< HEAD
         <translation>The ranges in the formula do not intersect.</translation>
+=======
+        <translation>這個公式中的範圍沒有交疊。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
@@ -1583,12 +1769,20 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>This cell contains a date string represented with only 2 digits for the year.</source>
         <comment>TX_ERRORCHECK_ERRDESC_TextDate</comment>
+<<<<<<< HEAD
         <translation>This cell contains a date string represented with only 2 digits for the year.</translation>
+=======
+        <translation>此儲存格包含僅以二位數年份表示的日期字串。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
         <comment>TX_ERRORCHECK_ERRDESC_UnlockedFormulaCells</comment>
+<<<<<<< HEAD
         <translation>This cell contains a formula and is not locked to protect it from being changed inadvertently.</translation>
+=======
+        <translation>此儲存格包含公式且並未鎖定以防不當變更。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This command cannot be used on a protected sheet.</source>
@@ -1660,7 +1854,11 @@ Select a single region and then perform this command again.</source>
     <message>
         <source>This operation will cause some merged cells to unmerge. Do you wish to continue?</source>
         <comment>TX_ERROR_IS_UNMERGE</comment>
+<<<<<<< HEAD
         <translation>此操作会导致一些合并单元格被拆散，是否继续？</translation>
+=======
+        <translation>這個動作將會使一些合併的儲存格被取消合併，您還要繼續嗎?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This operation will remove the workbook from shared use. The revision record will be deleted, and other users who are editing this workbook will not be able to save their changes, even if you share this workbook again.
@@ -1761,7 +1959,11 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>Unprotected Formula</source>
         <comment>TX_ERRORCHECK_ERR_UnlockedFormulaCells</comment>
+<<<<<<< HEAD
         <translation>Unprotected Formula</translation>
+=======
+        <translation>取消保護的公式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Unsupported encrypted file format. Please contact with the creator.
@@ -1793,7 +1995,11 @@ Or, you can move the last nonblank cells to a new location and try again.</sourc
     <message>
         <source>Value Not Available Error</source>
         <comment>TX_ERRORCHECK_ERR_NA</comment>
+<<<<<<< HEAD
         <translation>Value Not Available Error</translation>
+=======
+        <translation>值無法使用錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Value Of</source>
@@ -1931,7 +2137,11 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>“Filter”Mode</source>
         <comment>TX_FILTER_MODE</comment>
+<<<<<<< HEAD
         <translation>“篩選”模式</translation>
+=======
+        <translation>篩選模式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>• Function(s) %s is/are used in %s 
@@ -1975,11 +2185,16 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>%s on %s</source>
         <comment>TX_ACTIVE_PRINTER</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>%s 在 %s</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>unknown printer (check your Control Panel)</source>
         <comment>TX_UNKNOWN_PRINTER</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2011,6 +2226,9 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <source>m/d/yyyy h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_22</comment>
         <translation></translation>
+=======
+        <translation>找不到印表機 (請檢查控制台)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
@@ -2035,31 +2253,52 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
+<<<<<<< HEAD
         <translation>[$-404]m/d/e</translation>
+=======
+        <translation type="obsolete">[$-404]m/d/e</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
+<<<<<<< HEAD
         <translation>[$-404]m&quot;月&quot;d&quot;日&quot;e&quot;年&quot;</translation>
+=======
+        <translation type="obsolete">[$-404]m&quot;月&quot;d&quot;日&quot;e&quot;年&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
+<<<<<<< HEAD
         <translation>m/d/yy</translation>
+=======
+        <translation type="obsolete">m/d/yy</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
+<<<<<<< HEAD
         <translation>m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
+=======
+        <translation type="obsolete">m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
+<<<<<<< HEAD
         <translation>h&quot;時&quot;mm&quot;分&quot;</translation>
+=======
+        <translation type="obsolete">h&quot;時&quot;mm&quot;分&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
+<<<<<<< HEAD
         <translation>h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
     </message>
     <message>
@@ -2081,25 +2320,37 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
         <translation></translation>
+=======
+        <translation type="obsolete">h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
+<<<<<<< HEAD
         <translation>上午/下午h&quot;時&quot;mm&quot;分&quot;</translation>
+=======
+        <translation type="obsolete">上午/下午h&quot;時&quot;mm&quot;分&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
+<<<<<<< HEAD
         <translation>上午/下午h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
     </message>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
         <translation></translation>
+=======
+        <translation type="obsolete">上午/下午h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_02</comment>
+<<<<<<< HEAD
         <translation>0.00</translation>
     </message>
     <message>
@@ -2111,10 +2362,14 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <source>#,##0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_04</comment>
         <translation></translation>
+=======
+        <translation type="obsolete">0.00</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>0.00%</source>
         <comment>TX_NUMFMTApi_BuildIn_10</comment>
+<<<<<<< HEAD
         <translation>0.00%</translation>
     </message>
     <message>
@@ -2151,25 +2406,41 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <source>##0.0E+0</source>
         <comment>TX_NUMFMTApi_BuildIn_48</comment>
         <translation></translation>
+=======
+        <translation type="obsolete">0.00%</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation type="obsolete">&quot;US$&quot;#,##0_);(&quot;US$&quot;#,##0)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_24</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation type="obsolete">&quot;US$&quot;#,##0_);[Red](&quot;US$&quot;#,##0)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_25</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation type="obsolete">&quot;US$&quot;#,##0.00_);(&quot;US$&quot;#,##0.00)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_26</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2191,16 +2462,27 @@ Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and th
         <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_44</comment>
         <translation type="unfinished"></translation>
+=======
+        <translation type="obsolete">&quot;US$&quot;#,##0.00_);[Red](&quot;US$&quot;#,##0.00)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The data source contains no visible form</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+<<<<<<< HEAD
         <translation type="obsolete">數據源中沒有包含可見的表格</translation>
+=======
+        <translation type="obsolete">此資料來源中並未存在可使用的表格</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
+<<<<<<< HEAD
         <translation>WPS Spreadsheets</translation>
+=======
+        <translation type="obsolete">WPS Spreadsheets</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
@@ -2336,7 +2618,11 @@ To hide, delete, or move the selected sheet(s), you must first insert a new shee
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>TX_Open_File_Isnot_Exist</comment>
         <translation>無法找到“%s”。請檢查檔案名稱的拼字，並檢查檔案位置是否正確。
+<<<<<<< HEAD
 如果你正試圖從“檔案”選單上最近使用的檔案清單中開啟檔案，請確認檔案未被重新命名、移動或刪除。</translation>
+=======
+如果你正試圖從[檔案]選單上最近使用的檔案清單中開啟檔案，請確認檔案未被重新命名、移動或刪除。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Some formulas or names of this file contain the built-in functions which WPS Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
@@ -2366,22 +2652,38 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+<<<<<<< HEAD
         <translation>常用檔案(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets檔案(*.et)|*.et|Microsoft Excel檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+=======
+        <translation>常用檔案(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets 檔案(*.et)|*.et|Microsoft Excel 檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+<<<<<<< HEAD
         <translation type="unfinished">常用檔案(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets 檔案(*.et)|*.et|WPS Spreadsheets 檔案(*.etx)|*.etx|Microsoft Excel 檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+=======
+        <translation>常用檔案(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets 檔案(*.et)|*.et|WPS Spreadsheets 檔案(*.etx)|*.etx|Microsoft Excel 檔案(*.xls)|*.xls|Microsoft Excel 2007/2010 檔案(*.xlsx)|*.xlsx|所有檔案(*.*)|*.*||</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
         <comment>TX_TextToColumns_Tip1</comment>
+<<<<<<< HEAD
         <translation>目標儲存格可能含有資料,繼續可能會造成資料遺失,是否繼續</translation>
+=======
+        <translation>目標儲存格可能含有資料,繼續可能會造成資料遺失,是否繼續？</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The data not within the worksheet will be lost.</source>
         <comment>TX_TextToColumns_Tip2</comment>
+<<<<<<< HEAD
         <translation>資料長度超出工作表外,會遺失部分資料</translation>
+=======
+        <translation type="obsolete">資料長度超出工作表外,會遺失部分資料</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>There is a large amount of information on the Clipboard. Do you want to be able to paste this information into another program later?
@@ -2450,16 +2752,28 @@ Continue without Undo?</source>
     <message>
         <source>Text date with 2 digit years</source>
         <comment>TX_ERRORCHECK_ERR_TextDate</comment>
+<<<<<<< HEAD
         <translation>Text Date with 2-Digit Year</translation>
+=======
+        <translation>二位數西元年份的文字日期</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Copy Formul&amp;a from Left</source>
         <comment>TX_ERRORCHECK_REPAIR_CopyFromLeft</comment>
+<<<<<<< HEAD
         <translation>Copy Formula from &amp;Left</translation>
     </message>
     <message>
         <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>從左邊複製公式(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Your worksheet contains more than 255 invalid cells. Only the first 255 cells will be marked.</source>
+        <translation>您工作表的不正確儲存格超過 255 個。只有前 255 個儲存格會顯示。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.  If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
@@ -2497,70 +2811,123 @@ Please try one of the following.
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
+<<<<<<< HEAD
         <translation>m月d日yyyy年</translation>
+=======
+        <translation type="obsolete">m月d日yyyy年</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
+<<<<<<< HEAD
         <translation>h時mm分</translation>
+=======
+        <translation type="obsolete">h時mm分</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
+<<<<<<< HEAD
         <translation>h時mm分ss秒</translation>
+=======
+        <translation type="obsolete">h時mm分ss秒</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
+<<<<<<< HEAD
         <translation>上午/下午h時mm分</translation>
+=======
+        <translation type="obsolete">上午/下午h時mm分</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
+<<<<<<< HEAD
         <translation>上午/下午h時mm分ss秒</translation>
+=======
+        <translation type="obsolete">上午/下午h時mm分ss秒</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
+<<<<<<< HEAD
         <translation>[$-404]m/d/e</translation>
+=======
+        <translation type="obsolete">[$-404]m/d/e</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>m/dd/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+<<<<<<< HEAD
         <translation>[$-404]m月d日e年</translation>
+=======
+        <translation type="obsolete">[$-404]m月d日e年</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Dialog Title</source>
         <comment>Dialog Caption</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>對話方塊標題</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This data source contains no visible tables</source>
         <comment>TX_NO_TABLE_IN_DATASOURCE</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數據源中沒有包含可見的表格</translation>
+=======
+        <translation>此資料來源中並未存在可使用的表格</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Modify existing outline?</source>
         <comment>TX_ChangeAutoOutline</comment>
+<<<<<<< HEAD
         <translation type="unfinished">修改現有大綱?</translation>
+=======
+        <translation>修改現有大綱?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>[%s]%s:
+不能在保護工作表上使用該命令，要取消工作表保護。在 [工具] 選單上，指向 [保護]，再按一下 [撤消工作表保護] 命令，此後，可能需要輸入密碼。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The data not within the worksheet will be lost.
 If you want to continue importing the data can be accommodated, click &quot;OK&quot;</source>
         <comment>TX_ImportText_Overflowed_Tip</comment>
+<<<<<<< HEAD
         <translation type="unfinished">資料長度超出工作表外,會遺失部分資料.
+=======
+        <translation type="obsolete">資料長度超出工作表外,會遺失部分資料.
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 如要繼續導入可容納的數據，請單擊&quot;是&quot;.</translation>
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+<<<<<<< HEAD
         <translation>在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+=======
+        <translation type="obsolete">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 此次備份將保存到(%s)。</translation>
     </message>
     <message>
@@ -2569,12 +2936,17 @@ This backup will be saved to(%s)</source>
 To continue operating, and show as much data, click &quot;OK&quot;.
 To cancel the query, click &quot;Cancel&quot;.</source>
         <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+<<<<<<< HEAD
         <translation>查詢所返回的數據太多,一個工作表無法容納.
+=======
+        <translation type="obsolete">查詢所返回的數據太多,一個工作表無法容納.
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 
 若要繼續操作,並顯示盡可能多的數據,請單擊&quot;確定&quot;.
 若要取消查询操作,請單擊&quot;取消&quot;</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>macrosheet can not be save as xml, prn, dbf fileformat. please choose another format.</source>
         <comment>TX_MacroSheet_CannotSave_As</comment>
         <translation type="unfinished"></translation>
@@ -2582,21 +2954,37 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
         <translation>此次查詢沒有返回 WPS 表格 可用的數據列.</translation>
+=======
+        <source>The query does not return data columns that can be used in WPS Spreadsheets.</source>
+        <translation type="obsolete">此次查詢沒有返回 WPS 表格 可用的數據列.</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Since the last one column contains data, WPS Spreadsheets can not insert columns. You will not get any data.</source>
         <comment>TX_No_Available_Sheet_Columns</comment>
+<<<<<<< HEAD
         <translation>由於最後一列包含有數據,WPS表格不能插入列. 您將不會得到任何數據.</translation>
+=======
+        <translation type="obsolete">由於最後一列包含有數據,WPS表格不能插入列. 您將不會得到任何數據.</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
         <comment>TX_BookReferencingByOther</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>這個活頁簿目前正由其他活頁簿所參考中，不可關閉。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
         <comment>TX_Confirm_Invalid_Char_In_BookName</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>· 確認名稱中不包含以下字元:  \ / : ? &quot; &lt; &gt; [ ] 或 |。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
@@ -2606,6 +2994,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>Backup</source>
         <comment>TX_SaveAs_CreateBackup</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2768,6 +3157,472 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     </message>
     <message>
         <source>Insert Row</source>
+=======
+        <translation>備份</translation>
+    </message>
+    <message>
+        <source>Spreadsheets</source>
+        <comment>TX_DESC_APP_NAME</comment>
+        <translation>Spreadsheets</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet.</source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation>資料長度超出工作表外,會遺失部分資料</translation>
+    </message>
+    <message>
+        <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
+        <comment>TX_ERRORCHECK_ERRDESC_InconsistentFormula</comment>
+        <translation>此儲存格內的公式與試算表中本區域內的公式並不相同。</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet.
+To continue and import as much of the data as will fit, click OK.</source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation>資料長度超出工作表外,會遺失部分資料.
+如要繼續導入可容納的數據，請單擊&quot;確定&quot;.</translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation>在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+此次備份將保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>The query returned more data than will fit on a worksheet.
+
+To continue and display as much of the data as will fit, click OK.
+To cancel the query, click Cancel.</source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation>查詢所返回的數據太多,一個工作表無法容納.
+
+若要繼續操作,並顯示盡可能多的數據,請單擊&quot;確定&quot;.
+若要取消查询操作,請單擊&quot;取消&quot;</translation>
+    </message>
+    <message>
+        <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats.</source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation>使用中工作表為巨集表時，不能將其儲存為XML,PRN,或者DBF格式。請儲存為其他格式。</translation>
+    </message>
+    <message>
+        <source>No columns that WPS Spreadsheets can use were returned from this query.</source>
+        <translation>此次查詢沒有返回 WPS 表格 可用的數據列.</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot insert columns because the last column contains data. You will not get any data.</source>
+        <comment>TX_No_Available_Sheet_Columns</comment>
+        <translation>由於最後一列包含有數據,WPS表格不能插入列. 您將不會得到任何數據.</translation>
+    </message>
+    <message>
+        <source>Cannot create backup file. Save &quot;%s&quot; without backup?</source>
+        <comment>TX_CreateBackup_Tip</comment>
+        <translation>無法建立備份檔案，您是否仍然要儲存「%s」?</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
+        <comment>TX_Find_DoNotExist</comment>
+        <translation>WPS Spreadsheets 找不到正在搜索的資料。請檢查您的搜索選項、位置。</translation>
+    </message>
+    <message>
+        <source> [Compatibility Mode]</source>
+        <comment>TX_CompatibilityMode</comment>
+        <translation> [相容模式]</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TX_Sharepoint_FSObjType_Item</comment>
+        <translation>項目</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <comment>TX_Sharepoint_FSObjType_Folder</comment>
+        <translation>資料夾</translation>
+    </message>
+    <message>
+        <source>Enter your credentials:</source>
+        <translation>輸入您的認證</translation>
+    </message>
+    <message>
+        <source>Connecting to %s</source>
+        <translation>連線到 %s</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <comment>TX_DESC_APP_OBJECT_NAME</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>There are links to other data sources in this workbook.
+
+•If you update the links, WPS Spreadsheets will try to get the latest data.
+•If you don&apos;t update the links, WPS Spreadsheets will use the previous data.
+
+Note that data links can be used to access and share confidential information without your permission and possibly perform other harmful actions. If you don&apos;t trust the source of this workbook, just do not update the links.</source>
+        <comment>TX_NeedToUpdateExternalDataLink</comment>
+        <translation type="obsolete">此活頁簿包含與其他資料來源的連結。是否更新?
+
+. 若更新連結，WPS Spreadsheets 將會嘗試擷取最新的資料。
+· 若不要更新連結，WPS Spreadsheets 將採用先前的資訊。
+
+請注意，資料連結可在未得到您的許可下，被用於存取及共用機密資料，可能會被用於執行其他有害動作。如果您並不信任此活頁簿的來源，請不要更新連結。</translation>
+    </message>
+    <message>
+        <source>Error occurred during file backup. The backup directory might not have write permission. Try to change the backup directory.
+Save backup files to (%s).</source>
+        <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
+        <translation type="obsolete">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+此次備份將保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>Invalid Cell Reference Error</source>
+        <comment>TX_ERRORCHECK_ERR_REF</comment>
+        <translation>無效的儲存格參照錯誤</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. </source>
+        <comment>TX_TextToColumns_Tip2</comment>
+        <translation type="obsolete">資料長度超出工作表外,會遺失部分資料</translation>
+    </message>
+    <message>
+        <source>The text file contains more data than will fit on a single worksheet. To continue and import as much of the data as will fit, click OK. </source>
+        <comment>TX_ImportText_Overflowed_Tip</comment>
+        <translation type="obsolete">資料長度超出工作表外,會遺失部分資料.
+如要繼續導入可容納的數據，請單擊&quot;是&quot;.</translation>
+    </message>
+    <message>
+        <source>The query returned more data than will fit on a worksheet.
+To continue and display as much of the data as will fit, click OK.
+To cancel the query, click Cancel. </source>
+        <comment>TX_ImportOtherData_Overflowed_Tip</comment>
+        <translation type="obsolete">查詢所返回的數據太多,一個工作表無法容納.
+
+若要繼續操作,並顯示盡可能多的數據,請單擊&quot;確定&quot;.
+若要取消查询操作,請單擊&quot;取消&quot;</translation>
+    </message>
+    <message>
+        <source>When the active sheet is a macro sheet, it cannot be saved as xml, prn, or dbf. Please save as other formats. </source>
+        <comment>TX_MacroSheet_CannotSave_As</comment>
+        <translation type="obsolete">使用中工作表為巨集表時，不能將其儲存為XML,PRN,或者DBF格式。請儲存為其他格式。</translation>
+    </message>
+    <message>
+        <source>@Theme Title</source>
+        <comment>TX_OPTIONDLG_THEME_Title</comment>
+        <translation>@主題標題</translation>
+    </message>
+    <message>
+        <source>@Theme Text</source>
+        <comment>TX_OPTIONDLG_THEME_Text</comment>
+        <translation>@主題本文</translation>
+    </message>
+    <message>
+        <source>[%s] %s: is being protected!</source>
+        <comment>TX_ShareWorkSheet_MsgWarnning</comment>
+        <translation>[%s] %s:已被保護。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can not paste data.</source>
+        <comment>TX_Can_Not_Paste_Data</comment>
+        <translation>WPS Spreadsheets 無法貼上資料。</translation>
+    </message>
+    <message>
+        <source>The macro &apos;%s&apos; cannot be found.</source>
+        <comment>TX_Can_Not_RunMacro</comment>
+        <translation>找不到巨集 &apos;%s&apos;</translation>
+    </message>
+    <message>
+        <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
+        <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
+        <translation>您鍵入的工作表或圖表名稱無效。請確認下列項目:‧</translation>
+    </message>
+    <message>
+        <source>Opening...</source>
+        <comment>TX_PROGRESS_OPENING</comment>
+        <translation>正在開啟...</translation>
+    </message>
+    <message>
+        <source>Saving...</source>
+        <comment>TX_PROGRESS_SAVING</comment>
+        <translation>正在儲存...</translation>
+    </message>
+    <message>
+        <source>Switch Direction fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_SwitchDirection_Warning</comment>
+        <translation>無法切換列與欄。數列數不滿足圖表類型。</translation>
+    </message>
+    <message>
+        <source>HighLight Changed fail, series Count not fit chartType.</source>
+        <comment>TX_Chart_HighLightChanged_Warning</comment>
+        <translation>無法醒目提示。數列數不滿足圖表類型。</translation>
+    </message>
+    <message>
+        <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
+        <comment>TX_XlfDialogBox_InvalidRef</comment>
+        <translation>無效的參照。要輸入參照，可以按一下目標儲存格，或拖曳滑鼠以選取範圍。</translation>
+    </message>
+    <message>
+        <source>It&apos;s not a valid Integer.</source>
+        <comment>TX_XlfDialogBox_InvalidInteger</comment>
+        <translation>不是有效的整數。</translation>
+    </message>
+    <message>
+        <source>Input invalid! Please input a integer or a decimal.</source>
+        <comment>TX_XlfDialogBox_InvalidNumber</comment>
+        <translation>輸入無效。請輸入整數或者小數</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <comment>TX_XlfDialobBox_HelpButton</comment>
+        <translation>說明​​</translation>
+    </message>
+    <message>
+        <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That command cannot be used on multiple selections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi-cell array formulas are not allowed in tables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table cannot overlap another table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name that you entered is not valid.
+
+Reasons for this can include:
+ -The name does not begin with a letter or underscore
+ -The name contains a space or other invalid characters
+ -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
+Use the PivotTable Field List to add,move,or remove fields.
+Hide or froup items in a row or column field.
+Modify the source data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to paste! The source data contains merge cells.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A table with that name already exists. Select a different name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>et_et_appcore</name>
+    <message>
+        <source> (Result of rejected action)</source>
+        <comment>TX_Revision_Desc_Rejection</comment>
+        <translation> (被拒絕的動作)</translation>
+    </message>
+    <message>
+        <source>%s items meet the requirement of the active column in %d records</source>
+        <comment>TX_AutoFilter_Result_Current_Col</comment>
+        <translation>%d 個記錄中符合當前欄條件 %s 个</translation>
+    </message>
+    <message>
+        <source>%s items meet the requirement of the combined condition in %d records</source>
+        <comment>TX_AutoFilter_Result_All_Col</comment>
+        <translation>%d 個記錄中符合組合條件 %s 个</translation>
+    </message>
+    <message>
+        <source>.</source>
+        <comment>TX_Revision_Desc_FullStop</comment>
+        <translation>。</translation>
+    </message>
+    <message>
+        <source>&lt;Empty&gt;</source>
+        <comment>TX_RevisionDescEmpty</comment>
+        <translation>&lt;空白&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;Unknown Sheet&gt;</source>
+        <comment>TX_Revision_Desc_UnknownSheet</comment>
+        <translation>&lt;不明工作表&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;blank&gt;</source>
+        <comment>TX_Revision_Desc_Blank</comment>
+        <translation>&lt;空白&gt;</translation>
+    </message>
+    <message>
+        <source>And</source>
+        <comment>TX_AutoFilter_And</comment>
+        <translation> 並且</translation>
+    </message>
+    <message>
+        <source>Bottom %s items</source>
+        <comment>TX_Bottom10Items</comment>
+        <translation>最小%s項</translation>
+    </message>
+    <message>
+        <source>Bottom %s percent</source>
+        <comment>TX_Bottom10Percent</comment>
+        <translation>最小%s百分比</translation>
+    </message>
+    <message>
+        <source>Cannot execute the command on the selected range, please select another valid range.</source>
+        <comment>TX_RepeatWord_Invalid_Range</comment>
+        <translation>選擇的範圍無法完成該命令，請選擇一個有效範圍。</translation>
+    </message>
+    <message>
+        <source>Cell Change</source>
+        <comment>TX_Revision_Type_CellChange</comment>
+        <translation>修改儲存格</translation>
+    </message>
+    <message>
+        <source>Change the cell %s from &quot;%s&quot; to &quot;%s&quot;</source>
+        <comment>TX_RevisionDescCellChange</comment>
+        <translation>儲存格 %s 從 “%s” 變更為 “%s”</translation>
+    </message>
+    <message>
+        <source>Changed cell %s from &apos;%s&apos; to &apos;%s&apos;</source>
+        <comment>TX_Revision_Desc_CellChange</comment>
+        <translation>儲存格 %s 從 “%s” 變更為 “%s”</translation>
+    </message>
+    <message>
+        <source>Changed name &apos;%s&apos; from &apos;%s&apos; to &apos;%s&apos;</source>
+        <comment>TX_Revision_Desc_ModifyDefinedName</comment>
+        <translation>名稱“%s”從“%s”變更為“%s”</translation>
+    </message>
+    <message>
+        <source>Changed the name &apos;%s&apos; to &apos;%s&apos;</source>
+        <comment>TX_Revision_Desc_DefinedName</comment>
+        <translation>名稱“%s”變更為“%s”</translation>
+    </message>
+    <message>
+        <source>Changes of Cell</source>
+        <comment>TX_RevisionTypeCellChange</comment>
+        <translation>修改儲存格</translation>
+    </message>
+    <message>
+        <source>Column %s</source>
+        <comment>TX_AutoFilter_Col_Name</comment>
+        <translation>(第%s欄)</translation>
+    </message>
+    <message>
+        <source>Column Delete</source>
+        <comment>TX_Revision_Type_DeleteColumn</comment>
+        <translation>刪除欄</translation>
+    </message>
+    <message>
+        <source>Column Insert</source>
+        <comment>TX_Revision_Type_InsertColumn</comment>
+        <translation>插入欄</translation>
+    </message>
+    <message>
+        <source>Delete Column</source>
+        <comment>TX_RevisionTypeDeleteCol</comment>
+        <translation>刪除欄</translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <comment>TX_RevisionTypeDeleteRow</comment>
+        <translation>刪除列</translation>
+    </message>
+    <message>
+        <source>Delete the %s column</source>
+        <comment>TX_RevisionDescDeleteCol</comment>
+        <translation>刪除 欄 %s</translation>
+    </message>
+    <message>
+        <source>Delete the %s row</source>
+        <comment>TX_RevisionDescDeleteRow</comment>
+        <translation>刪除 列 %s</translation>
+    </message>
+    <message>
+        <source>Deleted %s</source>
+        <comment>TX_Revision_Desc_Delete</comment>
+        <translation>刪除 %s</translation>
+    </message>
+    <message>
+        <source>Duplicates do not support reference to name.</source>
+        <comment>TX_RepeatWord_Name</comment>
+        <translation>在重複項功能中不支持對名稱的參照。</translation>
+    </message>
+    <message>
+        <source>Duplicates do not support reference to other workbooks or worksheets.</source>
+        <comment>TX_RepeatWord_Cross_Sheet</comment>
+        <translation>在重複項功能中不能使用對其他活頁簿或工作表的引用。</translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <comment>TX_ShareWorkbook_AuthorEveryone</comment>
+        <translation>所有使用者</translation>
+    </message>
+    <message>
+        <source>Everyone but Me</source>
+        <comment>TX_ShareWorkbook_AuthorEveryoneButMe</comment>
+        <translation>除了自己外的所有人</translation>
+    </message>
+    <message>
+        <source>Insert Column</source>
+        <comment>TX_RevisionTypeInsertCol</comment>
+        <translation>插入欄</translation>
+    </message>
+    <message>
+        <source>Insert Row</source>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <comment>TX_RevisionTypeInsertRow</comment>
         <translation>插入列</translation>
     </message>
@@ -2884,7 +3739,11 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>The selected range contains pivotTable.</source>
         <comment>TX_RepeatWord_PivotTable</comment>
+<<<<<<< HEAD
         <translation>刪除重複項範圍存在樞紐分析表。</translation>
+=======
+        <translation type="obsolete">刪除重複項範圍存在樞紐分析表。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This operation requires the merged cells to be identically sized.</source>
@@ -2954,26 +3813,43 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>（Showing all）</source>
         <comment>TX_Show_All_DateItems</comment>
+<<<<<<< HEAD
         <translation>（顯示全部）</translation>
+=======
+        <translation type="obsolete">（顯示全部）</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_RepeatWord_ArrayFormula</comment>
+<<<<<<< HEAD
         <translation type="unfinished">您無法變更陣列中的一部分。</translation>
+=======
+        <translation>您無法變更陣列中的一部分。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Table_</source>
         <comment>TX_ListObject_NamePrefix</comment>
+<<<<<<< HEAD
         <translation>表格_</translation>
+=======
+        <translation type="obsolete">表格_</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>No Column has been selected.</source>
         <comment>TX_RepeatWord_No_Column</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>未選取指定欄</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, clear the outline and perform the remove duplicates operation again.</source>
         <comment>TX_RepeatWord_Group_Range</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2998,6 +3874,107 @@ Value: </source>
     </message>
 </context>
 <context>
+=======
+        <translation>當範圍具有大綱時，您無法移除重覆的資訊。若要移除重覆的資訊，請先清除大綱，然後再執行移除重覆作業。</translation>
+    </message>
+    <message>
+        <source>(Showing all)</source>
+        <comment>TX_Show_All_DateItems</comment>
+        <translation>（顯示全部）</translation>
+    </message>
+    <message>
+        <source>Duplicates that you want to remove contain PivotTable.</source>
+        <comment>TX_RepeatWord_PivotTable</comment>
+        <translation>刪除重複項範圍存在樞紐分析表。</translation>
+    </message>
+    <message>
+        <source>The selected range contains PivotTable.</source>
+        <comment>TX_RepeatWord_PivotTable</comment>
+        <translation type="obsolete">刪除重複項範圍存在樞紐分析表。</translation>
+    </message>
+    <message>
+        <source>You cannot remove duplicate information when the range has an outline. To remove duplicates, dear the outline and perform the remove duplicates operation again.</source>
+        <comment>TX_RepeatWord_Group_Range</comment>
+        <translation type="obsolete">當範圍具有大綱時，您無法移除重覆的資訊。若要移除重覆的資訊，請先清除大綱，然後再執行移除重覆作業。</translation>
+    </message>
+    <message>
+        <source>No Column has been chosen.</source>
+        <comment>TX_RepeatWord_No_Column</comment>
+        <translation type="obsolete">未選取指定欄</translation>
+    </message>
+    <message>
+        <source>Duplicates that you want to remove contains PivotTable.</source>
+        <comment>TX_RepeatWord_PivotTable</comment>
+        <translation type="obsolete">刪除重複項範圍存在樞紐分析表。</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_SortParam_KeyName_Column</comment>
+        <translation>欄</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_SortParam_KeyName_Row</comment>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>TX_TableStyle_None</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <comment>TX_TableStyle_TableStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <comment>TX_TableStyle_Light</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <comment>TX_TableStyle_Medium</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <comment>TX_TableStyle_Dark</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_TableDefaultColumnName</comment>
+        <translation type="unfinished">欄</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_TableSubtotal_Sum</comment>
+        <translation type="unfinished">加總</translation>
+    </message>
+</context>
+<context>
+    <name>et_et_chart</name>
+    <message>
+        <source>
+Value: </source>
+        <comment>TX_DESC_DataPointValue_CHART</comment>
+        <translation>
+數值:</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <comment>TX_DESC_CHARTOBJECT_NAME</comment>
+        <translation>圖表</translation>
+    </message>
+    <message>
+        <source>Charts</source>
+        <comment>TX_DESC_CharObjectDefaultName</comment>
+        <translation>圖表</translation>
+    </message>
+</context>
+<context>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     <name>et_et_core</name>
     <message>
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of Kingsoft Spreadsheets if they:
@@ -3019,22 +3996,38 @@ Do you want Kingsoft Spreadsheets to recalculate all formulas when this workbook
     <message>
         <source>Normal</source>
         <comment>TX_DESC_NORMAL_STYLE_NAME</comment>
+<<<<<<< HEAD
         <translation>標準</translation>
+=======
+        <translation>Normal</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The real-time data server &apos;%s&apos; is not responding. Would you like %s to attempt to restart the server?</source>
         <comment>TX_RTD_SERVER_NO_RESPONSE</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>即時資料伺服器 &apos;%s&apos; 沒有回應。您要讓 %s 嘗試重新啟動伺服器嗎?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Macro Error</source>
         <comment>TX_MSF_RUN_ERR_TITLE</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>巨集錯誤</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Macro error at cell: </source>
         <comment>TX_MSF_RUN_ERR_ERROR_IN</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>巨集錯誤位置: </translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Defined names or formulas in this workbook may display different values when they are recalculated in an earlier version of WPS Spreadsheets if they:
@@ -3056,7 +4049,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Macro interrupted at cell:</source>
         <comment>TX_MSF_RUN_ERR_INTERRUPT</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>巨集中斷位置: </translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Defined names or formulas in this workbook may display differrent values when they are recalculated in an earlier version of WPS Spreadsheets if they:
@@ -3078,31 +4075,115 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Missing loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>遺漏迴圈。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Missing NEXT function for loop.</source>
         <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>迴圈遺漏 NEXT 函數。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Missing IF.</source>
         <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>遗漏 IF 函數。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>遺漏 END.IF 函數。</translation>
+    </message>
+    <message>
+        <source>Invalid reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation>無效參照引數位置:</translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function found on macro sheet!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation>巨集表內找不到 RETURN() 或 HALT() 函數。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>No RETURN() or HALT() function fount on macro sheet.</source>
         <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid reference argument at:</source>
         <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+=======
+        <translation type="obsolete">巨集表內找不到 RETURN() 或 HALT() 函數。</translation>
+    </message>
+    <message>
+        <source>Miss Next function for loop!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_NEXT</comment>
+        <translation type="obsolete">迴圈遺漏 NEXT 函數。</translation>
+    </message>
+    <message>
+        <source>Miss Loop!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_LOOP</comment>
+        <translation type="obsolete">遺漏迴圈。</translation>
+    </message>
+    <message>
+        <source>Miss IF function!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_IF</comment>
+        <translation type="obsolete">遗漏 IF 函數。</translation>
+    </message>
+    <message>
+        <source>Miss END.IF function!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
+        <translation type="obsolete">遺漏 END.IF 函數。</translation>
+    </message>
+    <message>
+        <source>No RETURN() or HALT() function fount on macro sheet!</source>
+        <comment>TX_MSF_RUN_ERR_MISS_RETURN</comment>
+        <translation type="obsolete">巨集表內找不到 RETURN() 或 HALT() 函數。</translation>
+    </message>
+    <message>
+        <source>Illegal reference argument at:</source>
+        <comment>TX_MSF_RUN_ERR_ILLEGAL_REF</comment>
+        <translation type="obsolete">無效參照引數位置: </translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>TX_TABLE_RANGE_ALL</comment>
+        <translation type="unfinished">全部</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_TABLE_RANGE_DATA</comment>
+        <translation type="unfinished">資料</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>TX_TABLE_RANGE_HEADERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Totals</source>
+        <comment>TX_TABLE_RANGE_TOTALS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TX_TABLE_PREFIX_NAME</comment>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3276,7 +4357,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>StDev</source>
         <comment>TX_DAP_FunctionItem_StDev</comment>
+<<<<<<< HEAD
         <translation>标准偏差</translation>
+=======
+        <translation>標準差估計值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>StdDev of </source>
@@ -3286,7 +4371,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>StdDevp</source>
         <comment>TX_DAP_FunctionItem_StDevp</comment>
+<<<<<<< HEAD
         <translation>总体标准偏差</translation>
+=======
+        <translation>母體標準差</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>StdDevp of </source>
@@ -3352,6 +4441,14 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
  將列或欄的欄位隱藏或組成群組。
 修改來源資料。</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>A PivotTable report cannot overlap a table or XML mapping.</source>
+        <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
+        <translation type="unfinished"></translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>et_et_dbe</name>
@@ -3364,7 +4461,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source> +-/*[]~!@#$%^&amp;*(),./;&apos;\[]&lt;&gt;?:|{}&quot;	
 </source>
         <comment>TX_ETDBE_INVALIDFIELDWORDS</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation></translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source> &lt;,</source>
@@ -3449,14 +4550,24 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
+<<<<<<< HEAD
         <translation type="unfinished">要續繼更新嗎?</translation>
+=======
+        <translation>要續繼更新嗎?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Could not obtain parameter from reference(Bad name or workbook not open). Proceed to prompt for value?</source>
         <comment>TX_ETDBE_STR_RANGENOTVALID</comment>
+<<<<<<< HEAD
         <translation type="unfinished">無法獲得所需參數（名稱有誤，或工作簿未開啟）。
 1.如果需要重新獲取參數值，請按 [確定]。
 2.如果要取消操作，請按 [取消]。</translation>
+=======
+        <translation>無法根據參照位址以獲得參數 (可能是名稱錯誤或是活頁簿未開啟)。
+1.如果需要重新獲取參數的值，請按一下[確定]。
+2.如果要取消操作，請按一下[取消]。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Descending</source>
@@ -3612,17 +4723,29 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>The following data range failed to refresh:</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_1</comment>
+<<<<<<< HEAD
         <translation>下列資料範圍更新失敗:</translation>
+=======
+        <translation>下列資料範圍更新失敗:|</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The process cannot access the file because it is being used by another process.</source>
         <comment>TX_ETDBE_STR_XMLFILEINUSE</comment>
+<<<<<<< HEAD
         <translation type="unfinished">由於已有另一個處理序正在使用該檔案，所以無法存取該檔案。</translation>
+=======
+        <translation>其他程式正在使用此檔案。處理序無法存取。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
         <comment>TX_ETDBE_STR_DELETEQT</comment>
+<<<<<<< HEAD
         <translation>删除的区域与从外部源中提取数据的查询相关。是否与也删除该查询？如果单击“否”，则下次刷新时，查询将向工作表中提取新数据。</translation>
+=======
+        <translation>您刪除的範圍與從外部來源讀取資料的查詢相關，除了此範圍外，您要刪除查詢嗎 ? 如果您按 [否]，下次此查詢被更新時，將會讀取新資料至工作表。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>This Web query returned no data.</source>
@@ -3668,7 +4791,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source.The connection string is blank.The string you typed is not corret.The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
+<<<<<<< HEAD
         <translation>無法進行下一步動作，可能存在以下問題之一：
+=======
+        <translation type="obsolete">無法進行下一步動作，可能存在以下問題之一：
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
  
 1. 未選取任何資料來源或是連線字元串為空。
  
@@ -3730,12 +4857,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Connection</source>
         <comment>TX_ETDBE_STR_CONDEFAULTNAME</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>連線</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
+<<<<<<< HEAD
         <translation type="unfinished">WPS Spreadsheets 無法開啟或讀取這個查詢檔。檔案已經毀損或檔案格式不正確。</translation>
+=======
+        <translation>WPS Spreadsheets 無法開啟或是讀取此查詢檔案。檔案可能已損壞，或是檔案格式無效。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
@@ -3750,36 +4885,57 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Parameter</source>
         <comment>TX_ETDBE_STR_PARAMDEFAULTNAME</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>參數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Unable to open %s. Cannot download the information you requested.</source>
         <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>無法開啟 %s。無法下載您要求的資訊。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="unfinished"></translation>
+=======
+        <translation>無法開啟檔案，因為指定的檔案路徑太長。請以小於 256 個字元將檔案重新命名。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>對應</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+<<<<<<< HEAD
         <translation type="unfinished">所有文件(*.*)|*.*|所有支持的數據庫文件(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access 數據庫(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro 數據庫(*.dbc)|*.dbc|DBase 文件(*.dbf)|*.dbf|Excel 文件(*.xls)|*.xls|WPS表格 文件(*.et)|*.et|CSV 文本文件(*.csv)|*.csv|PRN 文本文件(*.prn)|*.prn|文本文件(*.txt)|*.txt|Office 數據庫連接(*.odc)|*.odc|Microsoft 數據鏈接(*.udl)|*.udl|ODBC 文件數據源名稱(*.dsn)|*.dsn|查詢文件(*.dqy)|*.dqy||</translation>
+=======
+        <translation>所有文件(*.*)|*.*|所有支持的數據庫文件(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access 數據庫(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro 數據庫(*.dbc)|*.dbc|DBase 文件(*.dbf)|*.dbf|Excel 文件(*.xls)|*.xls|WPS表格 文件(*.et)|*.et|CSV 文本文件(*.csv)|*.csv|PRN 文本文件(*.prn)|*.prn|文本文件(*.txt)|*.txt|Office 數據庫連接(*.odc)|*.odc|Microsoft 數據鏈接(*.udl)|*.udl|ODBC 文件數據源名稱(*.dsn)|*.dsn|查詢文件(*.dqy)|*.dqy||</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
         <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3791,6 +4947,61 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>:Getting Data ...</source>
         <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
         <translation type="unfinished"></translation>
+=======
+        <translation>正在執行背景查詢 ... (按一下這裡以取消)</translation>
+    </message>
+    <message>
+        <source>:Getting Data ...</source>
+        <comment>TX_ETDBE_STR_DESTINATE_TAG</comment>
+        <translation>: 擷取資料中 ...</translation>
+    </message>
+    <message>
+        <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
+        <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
+        <translation>無法進行下一步動作，可能存在以下問題之一：
+ 
+1. 未選取任何資料來源或是連線字元串為空。
+ 
+2. 輸入的字串不正確。
+ 
+3. 產生連線失敗。
+</translation>
+    </message>
+    <message>
+        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation>開啟 XML 數據文件時失敗。檔案不存在或語法錯誤。</translation>
+    </message>
+    <message>
+        <source>This will cancel a pending data refresh. Continue?</source>
+        <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
+        <translation>這個動作將會取消正等著執行的資料更新命令，您還要繼續嗎?</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">所有檔案(*.*)|*.*|所有支援的資料庫檔案(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access 資料庫(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro 資料庫(*.dbc)|*.dbc|DBase 檔案(*.dbf)|*.dbf|Excel 檔案(*.xls)|*.xls|WPS Spreadsheets 檔案(*.et)|*.et|CSV 文字檔(*.csv)|*.csv|文字檔(*.txt)|*.txt|Office 資料庫連接(*.odc)|*.odc|Microsoft 資料連結(*.udl)|*.udl|ODBC 檔案 DSN(*.dsn)|*.dsn|查詢檔案(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
+        <translation type="obsolete">開啟 XML 數據文件時失敗。檔案不存在或語法錯誤。</translation>
+    </message>
+    <message>
+        <source>map</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="obsolete">對應</translation>
+    </message>
+    <message>
+        <source>Fail to open xml file. file not exit or syntax error</source>
+        <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
+        <translation type="obsolete">開啟 XML 數據檔案時失敗。檔案不存在或 XML 語法錯誤。</translation>
+    </message>
+    <message>
+        <source>Unable to open XML file. File does not exit or XML syntax error.</source>
+        <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
+        <translation type="obsolete">開啟 XML 數據文件時失敗。檔案不存在或語法錯誤。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -4033,7 +5244,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
+<<<<<<< HEAD
         <translation>COMBIN(number,number_chosen)</translation>
+=======
+        <translation type="unfinished">COMBIN(number,number_chosen)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -4103,7 +5318,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COUPDAYBS Returns the number of days from the beginning of the coupon periond to the settlement date.</source>
         <comment>COUPDAYBS_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>COUPDAYBS 函数返回从付息期开始到结算日的天数.</translation>
+=======
+        <translation type="obsolete">COUPDAYBS 傳回從票息週期的開始到結帳日期之間的日數.</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>COUPDAYBS(settlement, maturity, frequency, [basis])</source>
@@ -4248,7 +5467,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Convert a number to a chinese string</source>
         <comment>NUMBERSTRING_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>将数字转换为中文字符串</translation>
+=======
+        <translation>將數字轉換為中文字串</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Converts a binary number to decimal.</source>
@@ -4633,12 +5856,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Extract data stored in a PivotTable</source>
         <comment>GETPIVOTDATA_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>提取存储在数据透视表的数据</translation>
+=======
+        <translation>從樞紐分析表中抽選資料。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Extract the phonetic character of the text string.</source>
         <comment>PHONETIC_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>提取文本字符串中的拼音 (furigana) 字符。</translation>
+=======
+        <translation>取得注音標示字串。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Extracts a single value in the column of a list or database that matches the conditions you specify.</source>
@@ -5118,7 +6349,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
+<<<<<<< HEAD
         <translation>LTRIM(text)</translation>
+=======
+        <translation type="unfinished">LTRIM(text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Logical</source>
@@ -5543,7 +6778,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
+<<<<<<< HEAD
         <translation>RTRIM(text)</translation>
+=======
+        <translation type="unfinished">RTRIM(text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Recently Used</source>
@@ -5558,12 +6797,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
+<<<<<<< HEAD
         <translation>清除純文字中左邊的空格。</translation>
+=======
+        <translation type="unfinished">清除純文字中左邊的空格。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
+<<<<<<< HEAD
         <translation>清除純文字中右邊的空格。</translation>
+=======
+        <translation type="unfinished">清除純文字中右邊的空格。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -5753,7 +7000,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns information about the current operating environment</source>
         <comment>INFO_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回有关当前操作环境的信息</translation>
+=======
+        <translation>傳回目前作業系統環境的相關資訊。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns information about the formatting, location and cell contents.</source>
@@ -5948,12 +7199,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the cumulative interest paid between start_period and  end_period.</source>
         <comment>CUMIPMT_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回一笔贷款在给定的 start_period 到 end_period 期间累计偿还的利息数额。</translation>
+=======
+        <translation>傳回在 start_period 與 end_period 兩個週期之間所支付的累計利息。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the cumulative principal paid on a loan between start_period and end_period.</source>
         <comment>CUMPRINC_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回一笔贷款在给定的 start_period 到 end_period 期间累计偿还的本金数额。</translation>
+=======
+        <translation>傳回在 start_period 與 end_period 兩個週期之間的貸款上所支付累計資金。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the current date and time formatted as a date and time.</source>
@@ -5973,7 +7232,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the depreciation for each settlement period.</source>
         <comment>AMORDEGRC_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回每个结算期间的折旧值。该函数主要为法国会计系统提供。</translation>
+=======
+        <translation>傳回資產每一個會計週期的按比例線性折舊。此函數為法國會計系統提供。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
@@ -6023,12 +7286,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive).</source>
         <comment>SEARCH_REMARK</comment>
+<<<<<<< HEAD
         <translation>傳回某特定文字串首次出現在另一個文字串的字元位置。（大小寫視為相同）。</translation>
+=======
+        <translation type="obsolete">傳回某特定文字串首次出現在另一個文字串的字元位置。（大小寫視為相同）。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the first-found location of the specified charcter or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
         <comment>SEARCHB_REMARK</comment>
+<<<<<<< HEAD
         <translation>傳回某特定文字串首次出現在另一個文字串的字元位置（大小寫視為相同）。與雙位元組字元集(DBCS)一起使用</translation>
+=======
+        <translation type="obsolete">傳回某特定文字串首次出現在另一個文字串的字元位置（大小寫視為相同）。與雙位元組字元集(DBCS)一起使用</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the formula in a cell.</source>
@@ -6113,7 +7384,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the internal rate of return for a schedule of crash flows.</source>
         <comment>XIRR_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回一组不一定定期发生的现金流的内部收益率.</translation>
+=======
+        <translation>傳回現金流時程的內部收益率。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
@@ -6183,7 +7458,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSINV_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>傳回標準正態累積分佈函數的反函數。該分佈的平均值為 0，標準偏差為 1。</translation>
+=======
+        <translation type="obsolete">傳回標準正態累積分佈函數的反函數。該分佈的平均值為 0，標準偏差為 1。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
@@ -6373,7 +7652,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of charcters in the text. Use with double-byte characters(DBCS).</source>
         <comment>LENB_REMARK</comment>
+<<<<<<< HEAD
         <translation>傳回純文字中的字元個數。與雙位元組字元集(DBCS)一起使用</translation>
+=======
+        <translation type="obsolete">傳回純文字中的字元個數。與雙位元組字元集(DBCS)一起使用</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the number of columns in an array or reference.</source>
@@ -6383,7 +7666,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
+<<<<<<< HEAD
         <translation>傳回從數值物件中選取特定數量的物件所有可能排列方式的個數。</translation>
+=======
+        <translation type="unfinished">傳回從數值物件中選取特定數量的物件所有可能排列方式的個數。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
@@ -6398,7 +7685,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of days from the settlement date to the next coupon date.</source>
         <comment>COUPDAYSNC_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回从结算日到下一票息支付日之间的天数.</translation>
+=======
+        <translation>傳回從結帳日期到下一個票息日期之間的日數。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the number of nonblank cells in the column of a list or database that matches the conditions you specify.</source>
@@ -6493,7 +7784,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the prorated linear depreciation of an asset for each accounting period.</source>
         <comment>AMORLINC_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation>返回每个结算期间的折旧值，该函数为法国会计系统提供。如果某项资产是在结算期间的中期购入的，则按线性折旧法计算。</translation>
+=======
+        <translation>傳回資產每一個會計週期的按比例線性折舊，此函數為法國會計系統提供。若一項資產是于會計週期的中期購買的，則按比例線性折舊法計算。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
@@ -6678,7 +7973,11 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contian numbers.</source>
         <comment>SUMSQ_REMARK</comment>
+<<<<<<< HEAD
         <translation>傳回所有引數的平方和。這些引數可以是數字、陣列、名稱，或是包含數字的儲存格參照。</translation>
+=======
+        <translation type="obsolete">傳回所有引數的平方和。這些引數可以是數字、陣列、名稱，或是包含數字的儲存格參照。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
@@ -7163,336 +8462,604 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTD(progID, server, topic1, [topic2], ...)</source>
         <comment>RTD_GRAMMER</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>RTD(progID, server, topic1, [topic2], ...)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Retrieves real-time data from a program that supports COM automation.</source>
         <comment>RTD_REMARK</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>從支援 COM Automation 的程式中取出即時資料</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>See Help for help on this function and its arguments.</source>
         <comment>SEE_HELP_FORMORE_DESC</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>如需此函數及其引數的說明，請參閱 [說明]。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ARGUMENT(name_text, data_type_num, reference)</source>
         <comment>ARGUMENT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ARGUMENT(name_text, data_type_num, reference)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>BREAK()</source>
         <comment>BREAK_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>BREAK()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ELSE()</source>
         <comment>ELSE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ELSE()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ELSE.IF(logical_test)</source>
         <comment>ELSEIF_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ELSE.IF(logical_test)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>END.IF()</source>
         <comment>ENDIF_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>END.IF()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>FOR(counter_text, start_num, end_num, step_num)</source>
         <comment>FOR_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>FOR(counter_text, start_num, end_num, step_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>FOR.CELL(ref_name, area_ref, skip_blanks)</source>
         <comment>FORCELL_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>FOR.CELL(ref_name, area_ref, skip_blanks)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GOTO(reference)</source>
         <comment>GOTO_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GOTO(reference)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>HALT(cancel_close)</source>
         <comment>HALT_STNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>HALT(cancel_close)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>NEXT()</source>
         <comment>NEXT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>NEXT()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>PAUSE(no_tool)</source>
         <comment>PAUSE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>PAUSE(no_tool)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>RESTART(level_num)</source>
         <comment>RESTART_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>RESTART(level_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>RESULT(type_num)</source>
         <comment>RESULT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>RESULT(type_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>RETURN(value)</source>
         <comment>RETURN_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>RETURN(value)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>SET.NAME(name_text, value)</source>
         <comment>SETNAME_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>SET.NAME(name_text, value)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>SET.VALUE(reference, values)</source>
         <comment>SETVALUE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>SET.VALUE(reference, values)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>STEP()</source>
         <comment>STEP_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>STEP()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>VOLATILE(logical)</source>
         <comment>VOLATILE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>VOLATILE(logical)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WHILE(logical_test)</source>
         <comment>WHILE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>WHILE(logical_test)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.NAME(name_text, info_type)</source>
         <comment>GETNAME_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.NAME(name_text, info_type)</translation>
+    </message>
+    <message>
+        <source>REGISTER(module_text, procedure, type_text, function_text,...)</source>
+        <translation>REGISTER(module_text, procedure, type_text, function_text,...)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>REGISTER.ID(module_text, procedure, type_text)</source>
         <comment>REGISTERID_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>REGISTER.ID(module_text, procedure, type_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>UNREGISTER(register_id)</source>
         <comment>UNREGISTER_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>UNREGISTER(register_id)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.DOCUMENT(type_num, name_text)</source>
         <comment>GETDOCUMENT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.DOCUMENT(type_num, name_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.WORKBOOK(type_num, name_text)</source>
         <comment>GETWORKBOOK_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.WORKBOOK(type_num, name_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.WORKSPACE(type_num)</source>
         <comment>GETWORKSPACE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.WORKSPACE(type_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>APP.TITLE(text)</source>
         <comment>APPTITLE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>APP.TITLE(text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WINDOW.TITLE(text)</source>
         <comment>WINDOWTITLE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>WINDOW.TITLE(text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ACTIVE.CELL()</source>
         <comment>ACTIVECELL_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ACTIVE.CELL()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>DOCUMENTS(type_num, match_text)</source>
         <comment>DOCUMENTS_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>DOCUMENTS(type_num, match_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.FORMULA(reference)</source>
         <comment>GETFORMULA_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.FORMULA(reference)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.NOTE(cell_ref, start_char, num_chars)</source>
         <comment>GETNOTE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.NOTE(cell_ref, start_char, num_chars)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.WINDOW(type_num, window_text)</source>
         <comment>GETWINDOW_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.WINDOW(type_num, window_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WINDOWS(type_num, match_text)</source>
         <comment>WINDOWS_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>WINDOWS(type_num, match_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</source>
         <comment>FORMULACONVERT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>FORMULA.CONVERT(formula_text, from_a1, to_a1, to_ref_type, rel_to_ref)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>TEXTREF(text, a1)</source>
         <comment>TEXTREF_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>TEXTREF(text, a1)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>REFTEXT(reference, a1)</source>
         <comment>REFTEXT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>REFTEXT(reference, a1)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.BAR(bar_num, menu, command, subcommand)</source>
         <comment>GETBAR_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.BAR(bar_num, menu, command, subcommand)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ADD.BAR(bar_num)</source>
         <comment>ADDBAR_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ADD.BAR(bar_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ADD.MENU(bar_num, menu_ref, position1, position2)</source>
         <comment>ADDMENU_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ADD.MENU(bar_num, menu_ref, position1, position2)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>DELETE.MENU(bar_num, menu, submenu)</source>
         <comment>DELETEMENU_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>DELETE.MENU(bar_num, menu, submenu)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>GET.TOOLBAR(type_num, bar_id)</source>
         <comment>GETTOOLBAR_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>GET.TOOLBAR(type_num, bar_id)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ALERT(message_text, type_num, help_ref)</source>
         <comment>ALERT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ALERT(message_text, type_num, help_ref)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>CALLER()</source>
         <comment>CALLER_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>CALLER()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ECHO(logical)</source>
         <comment>ECHO_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ECHO(logical)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>NEW(type_num, xy_series, add_logical)</source>
         <comment>NEW_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>NEW(type_num, xy_series, add_logical)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>CALCULATE.NOW()</source>
         <comment>CALCULATENOW_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>CALCULATE.NOW()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>CALCULATE.DOCUMENT()</source>
         <comment>CALCULATEDOCUMENT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>CALCULATE.DOCUMENT()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.DATA(document_text, macro_text)</source>
         <comment>ONDATA_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.DATA(document_text, macro_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.DOUBLECLICK(sheet_text, macro_text)</source>
         <comment>ONDOUBLECLICK_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.DOUBLECLICK(sheet_text, macro_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.ENTRY(sheet_text, macro_text)</source>
         <comment>ONENTRY_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.ENTRY(sheet_text, macro_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.KEY(key_text, macro_text)</source>
         <comment>ONKEY_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.KEY(key_text, macro_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.RECALC(sheet_text, macro_text)</source>
         <comment>ONRECALC_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.RECALC(sheet_text, macro_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.SHEET(sheet_text, macro_text, activate_logical)</source>
         <comment>ONSHEET_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.SHEET(sheet_text, macro_text, activate_logical)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.TIME(time, macro_text, tolerance, insert_logical)</source>
         <comment>ONTIME_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.TIME(time, macro_text, tolerance, insert_logical)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ON.WINDOW(window_text, macro_text)</source>
         <comment>ONWINDOW_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ON.WINDOW(window_text, macro_text)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>QUIT()</source>
         <comment>QUIT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>QUIT()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>SELECT(selection, active_cell)</source>
         <comment>SELECT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>SELECT(selection, active_cell)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>SELECT.LAST.CELL()</source>
         <comment>SELECTLASTCELL_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>SELECT.LAST.CELL()</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>COPY(from_reference, to_reference)</source>
         <comment>COPY_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>COPY(from_reference, to_reference)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>FORMULA(formula_text, reference)</source>
         <comment>FORMULA_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>FORMULA(formula_text, reference)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</source>
         <comment>DEFINENAME_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>DEFINE.NAME(name_text, refers_to, macro_type, shortcut_text, hidden, category, local)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ROW.HEIGHT(height_num, reference, standard_height, type_num)</source>
         <comment>ROWHEIGHT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ROW.HEIGHT(height_num, reference, standard_height, type_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</source>
         <comment>COLUMNWIDTH_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>COLUMN.WIDTH(width_num, reference, standard, type_num, standard_num)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
@@ -7547,66 +9114,107 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
         <comment>PASTESPECIAL_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ERROR(enable_logical, macro_ref)</source>
         <comment>ERROR_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ERROR(enable_logical, macro_ref)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>RUN(reference, step)</source>
         <comment>RUN_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>RUN(reference, step)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>FILE.CLOSE(save_logical, route_logical)</source>
         <comment>FILECLOSE_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>FILE.CLOSE(save_logical, route_logical)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>PRINT(range_num, from, to, copies,...)</source>
         <comment>PRINT_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>PRINT(range_num, from, to, copies,...)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>CALL(module_text, procedure, type_text, argument1, ...)</source>
         <comment>CALL_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>CALL(module_text, procedure, type_text, argument1, ...)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Calls a procedure in a dynamic link library or code resource.</source>
         <comment>CALL_DESCRIPTION</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>呼叫動態連結程式庫 (DLL) 或是原始程式碼中的一個程序。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list.</source>
         <comment>RANK_REMARK</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>傳回某數字在某串列數字中之順序，亦即該數字相對於清單中其他數值的大小。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>RANK.AVG(number,ref,order)</source>
         <comment>RANKAVG_GRAMMER</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
         <comment>RANKAVG_REMARK</comment>
         <translation type="unfinished"></translation>
+=======
+        <translation>RANK.AVG(number,ref,order)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>RANK.EQ(number,ref,order)</source>
         <comment>RANKEQ_GRAMMER</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Returns the rank of a number in a list of numbers; its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
         <comment>RANKEQ_REMARK</comment>
         <translation type="unfinished"></translation>
+=======
+        <translation>RANK.EQ(number,ref,order)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>FILES(directory_text)</source>
         <comment>FILES_SYNTAX</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7617,6 +9225,133 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the yields of regular payment securities.</source>
         <comment>VOLATILE_SYNTAX</comment>
+=======
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>VOLATILE_SYNTAX</comment>
+        <translation type="obsolete">傳回定期支付利息的證券收益。</translation>
+    </message>
+    <message>
+        <source>Returns the sum of the squares of all the arguments. The arguments may be varied as numbers, arrays, names or references to cells which contain numbers.</source>
+        <comment>SUMSQ_REMARK</comment>
+        <translation>傳回所有引數的平方和。這些引數可以是數字、陣列、名稱，或是包含數字的儲存格參照。</translation>
+    </message>
+    <message>
+        <source>Returns the inverse of the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
+        <comment>NORMSINV_DESCRIPTION</comment>
+        <translation>傳回標準正態累積分佈函數的反函數。該分佈的平均值為 0，標準偏差為 1。</translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the average rank is returned.</source>
+        <comment>RANKAVG_REMARK</comment>
+        <translation>傳回某數字在某串列數字中之等級，亦即該數字相對於清單中其他數值的大小; 若有多值有相同等級，將會傳回平均等級。</translation>
+    </message>
+    <message>
+        <source>Returns the rank of a number in a list of numbers: its size relative to other values in the list; if more than one value has the same rank, the top rank of that set of values is returned.</source>
+        <comment>RANKEQ_REMARK</comment>
+        <translation>傳回某數字在某串列數字中之等級，亦即該數字相對於清單中其他數值的大小; 若有多值有相同等級，將會傳回該組數值中的最高等級。</translation>
+    </message>
+    <message>
+        <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive).</source>
+        <comment>SEARCH_REMARK</comment>
+        <translation>傳回某特定文字串首次出現在另一個文字串的字元位置。（大小寫視為相同）。</translation>
+    </message>
+    <message>
+        <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
+        <comment>LENB_REMARK</comment>
+        <translation>傳回純文字中的字元個數。與雙位元組字元集(DBCS)一起使用</translation>
+    </message>
+    <message>
+        <source>Returns the first-found location of the specified character or string within a text string, reading from left to right (not case-sensitive). Use with double-byte character set(DBCS).</source>
+        <comment>SEARCHB_REMARK</comment>
+        <translation>傳回某特定文字串首次出現在另一個文字串的字元位置（大小寫視為相同）。與雙位元組字元集(DBCS)一起使用</translation>
+    </message>
+    <message>
+        <source>COUPDAYBS Returns the number of days from the beginning of the coupon period to the settlement date.</source>
+        <comment>COUPDAYBS_DESCRIPTION</comment>
+        <translation>傳回從票息週期的開始到結帳日期之間的日數。</translation>
+    </message>
+    <message>
+        <source>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</source>
+        <comment>FORMULAFIND_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
+        <comment>CALCULATION_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Returns the yields of regular payment securities.</source>
+        <comment>YIELD_DESCRIPTION</comment>
+        <translation>傳回定期支付利息的證券收益。</translation>
+    </message>
+    <message>
+        <source>YIELD(settlement, maturity, rate, pr, redemption, frequency, [basis])</source>
+        <comment>YIELD_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DIALOGBOX(dialog_ref)</source>
+        <comment>DIALOGBOX_SYNTAX</comment>
+        <translation>DIALOGBOX(dialog_ref)</translation>
+    </message>
+    <message>
+        <source>WORKBOOKINSERT(type_num)</source>
+        <comment>WORKBOOKINSERT_SYNTAX</comment>
+        <translation>WORKBOOKINSERT(type_num)</translation>
+    </message>
+    <message>
+        <source>SELECTION()</source>
+        <comment>SELECTION_SYNTAX</comment>
+        <translation>SELECTION()</translation>
+    </message>
+    <message>
+        <source>NAMES(document_text, type_num, match_text)</source>
+        <comment>NAMES_SYNTAX</comment>
+        <translation>NAMES(document_text, type_num, match_text)</translation>
+    </message>
+    <message>
+        <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
+        <comment>GETOBJECT_SYNTAX</comment>
+        <translation>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</translation>
+    </message>
+    <message>
+        <source>Options.Lists.Get(list_num)</source>
+        <comment>OPTIONSLISTSGET_SYNTAX</comment>
+        <translation>Options.Lists.Get(list_num)</translation>
+    </message>
+    <message>
+        <source>DEREF(reference)</source>
+        <comment>DEREF_SYNTAX</comment>
+        <translation>DEREF(reference)</translation>
+    </message>
+    <message>
+        <source>ABSREF(ref_text, reference)</source>
+        <comment>ABSREF_SYNTAX</comment>
+        <translation>ABSREF(ref_text, reference)</translation>
+    </message>
+    <message>
+        <source>RELREF(reference, rel_to_ref)</source>
+        <comment>RELREF_SYNTAX</comment>
+        <translation>RELREF(reference, rel_to_ref)</translation>
+    </message>
+    <message>
+        <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
+    </message>
+    <message>
+        <source>XNPV(rate, values, dates)</source>
+        <comment>XNPV_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the net present value for a schedule of crash flows.</source>
+        <comment>XNPV_DESCRIPTION</comment>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7789,12 +9524,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>DIF (Data Interchange File)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
+<<<<<<< HEAD
         <translation type="obsolete">DIF (數據交換文件)(*.dif)</translation>
+=======
+        <translation type="obsolete">DIF 檔案(*.dif)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>DIF Data Interchange File(*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
+<<<<<<< HEAD
         <translation type="obsolete">DIF 數據交換文件(*.dif)</translation>
+=======
+        <translation type="obsolete">DIF 檔案(*.dif)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Field</source>
@@ -7974,12 +9717,20 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>XML SpreadSheet Template(*.xmt)</source>
         <comment>TX_ssDesc_XmlTemp_</comment>
+<<<<<<< HEAD
         <translation>XML SpreadSheet Template(*.xmt)</translation>
+=======
+        <translation>XML Spreadsheet Template(*.xmt)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>XML SpreadSheet(*.xml)</source>
         <comment>TX_ssDesc_Xml_</comment>
+<<<<<<< HEAD
         <translation>XML SpreadSheet(*.xml)</translation>
+=======
+        <translation>XML Spreadsheet(*.xml)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>You can not save the following functions in macro-disabled workbook:
@@ -8021,17 +9772,29 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy; *.dqy)</source>
         <comment>TX_ssDesc_Qy_</comment>
+<<<<<<< HEAD
         <translation type="unfinished">查詢文件(*.iqy; *.dqy)</translation>
+=======
+        <translation>查詢檔(*.iqy; *.dqy)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>All Data Source(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
+<<<<<<< HEAD
         <translation type="obsolete">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+=======
+        <translation type="obsolete">所有資料來源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
         <comment>TX_UPDATE_OLD_FORMAT_TO_NEW_FORTMAT</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>%s 是 Microsoft Excel 5.0/95 活頁簿。是否用最新 %s 格式替代？</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
@@ -8130,7 +9893,11 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Query Files(*.iqy)</source>
         <comment>TX_ssDesc_Iqy_</comment>
+<<<<<<< HEAD
         <translation type="unfinished">查詢檔(*.iqy)</translation>
+=======
+        <translation>查詢檔(*.iqy)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format， any of the permission will be removed. Do you want to continue?</source>
@@ -8151,22 +9918,38 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
+<<<<<<< HEAD
         <translation type="unfinished">所有數據源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+=======
+        <translation>所有資料來源(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>DIF (Data Interchange Format)(*.dif)</source>
         <comment>TX_ssDesc_Dif_Exp_</comment>
+<<<<<<< HEAD
         <translation type="unfinished">DIF (數據交換文件)(*.dif)</translation>
+=======
+        <translation>DIF (數據交換文件)(*.dif)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Data Interchange Format (*.dif)</source>
         <comment>TX_ssDesc_Dif_</comment>
+<<<<<<< HEAD
         <translation type="unfinished">DIF 數據交換文件(*.dif)</translation>
+=======
+        <translation>DIF 數據交換文件(*.dif)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Template(*.ettx)</source>
         <comment>TX_ssDesc_EtxTemp_</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>WPS Spreadsheets 2007/2010 範本(*.ettx)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Errors occur when regular backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
@@ -8176,6 +9959,7 @@ This backup will be saved to(%s)</source>
 此次備份將保存到(%s)。</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>The following features cannot be saved in macro-disabled workbooks:
 </source>
         <comment>TX_Save_Xlsx_Warning_1</comment>
@@ -8192,30 +9976,52 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
 </source>
         <comment>TX_Save_Xlsx_Warning_VBA</comment>
         <translation type="unfinished"></translation>
+=======
+        <source> · VB project
+</source>
+        <comment>TX_Save_Xlsx_Warning_VBA</comment>
+        <translation>· VB 專案</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source> · Excel 4.0 function stored in defined names.
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroNames</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation> · Excel 4.0 函數儲存在定義的名稱。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source> · Excel 4.0 Macro Sheets(these will be converted to normal worksheets)
 </source>
         <comment>TX_Save_Xlsx_Warning_MacroSheet</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation> · Excel 4.0 巨集表 (這些將會轉換為一般工作表)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
 This backup will be saved to(%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
+<<<<<<< HEAD
         <translation type="unfinished">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+=======
+        <translation type="obsolete">在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 此次備份將保存到(%s)。</translation>
     </message>
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</source>
         <comment>TX_ssDesc_Normal_</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation type="obsolete">通用檔案(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
@@ -8223,8 +10029,76 @@ This backup will be saved to(%s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+<<<<<<< HEAD
         <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
         <comment>TX_Recommended_Read_Only</comment>
+=======
+        <source>The following features cannot be saved in macro-free workbooks:</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation>下列功能無法儲存在無巨集的活頁簿：</translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation>
+若要儲存具有這些功能的檔案，請按一下 [否]，再於 [檔案類型] 清單選擇啟用巨集的檔案類型。
+        若要繼續儲存為無巨集活頁簿，請按一下 [是]。</translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>TX_Persist_MsgBackupToDef</comment>
+        <translation>在進行文件備份時發生錯誤！可能是由於您設置的備份目錄沒有寫權限，請嘗試更改備份目錄。
+此次備份將保存到(%s)。</translation>
+    </message>
+    <message>
+        <source>The author would like you to open &quot;%s&quot; as read-only unless you need to make changes. Open as read-only?</source>
+        <comment>TX_Recommended_Read_Only</comment>
+        <translation>作者希望您以唯讀方式開啟&quot;%s&quot;,除非您需要進行變更。以唯讀方式開啟?</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-disabled workbooks:
+</source>
+        <comment>TX_Save_Xlsx_Warning_1</comment>
+        <translation type="obsolete">下列功能無法儲存在無巨集的活頁簿：</translation>
+    </message>
+    <message>
+        <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list. To continue saving as a macro-free workbook, click Yes.</source>
+        <comment>TX_Save_Xlsx_Warning_2</comment>
+        <translation type="obsolete">
+	若要儲存具有這些功能的檔案，請按一下 [否]，再於 [檔案類型] 清單選擇啟用巨集的檔案類型。
+        若要繼續儲存為無巨集活頁簿，請按一下 [是]。</translation>
+    </message>
+    <message>
+        <source>File Unsaved</source>
+        <comment>TX_FILE_UNSAVED</comment>
+        <translation>檔案未儲存</translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation type="obsolete">Excel 2007 XML 範本</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
+        <comment>TX_ssDesc_XLTX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel2007 XML Template(*.xltm)</source>
+        <comment>TX_ssDesc_XLTM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TX_ssDesc_Ofd_</comment>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8279,7 +10153,11 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Preview</source>
         <comment>TX_Preview_Format</comment>
+<<<<<<< HEAD
         <translation>Preview</translation>
+=======
+        <translation>預覽</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>〈《「『【〔〖（｛［{[(&lt;、。…〉》」』】〕〗）｝］}])&gt;ー←↑→↓</source>
@@ -8332,32 +10210,56 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Comma</source>
         <comment>TX_StyleName_COMMA</comment>
+<<<<<<< HEAD
         <translation>千分位</translation>
+=======
+        <translation type="obsolete">千分位</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Comma[0]</source>
         <comment>TX_StyleName_COMMA0</comment>
+<<<<<<< HEAD
         <translation>千分位[0]</translation>
+=======
+        <translation type="obsolete">千分位[0]</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Currency</source>
         <comment>TX_StyleName_CURRENCY</comment>
+<<<<<<< HEAD
         <translation>貨幣</translation>
+=======
+        <translation type="obsolete">貨幣</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Currency[0]</source>
         <comment>TX_StyleName_CURRENCY0</comment>
+<<<<<<< HEAD
         <translation>貨幣[0]</translation>
+=======
+        <translation type="obsolete">貨幣[0]</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Followed Hyperlink</source>
         <comment>TX_StyleName_FOLLOWED_HYPERLINK</comment>
+<<<<<<< HEAD
         <translation>已瀏覽過的超連結</translation>
+=======
+        <translation type="obsolete">已瀏覽過的超連結</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_StyleName_HYPERLINK</comment>
+<<<<<<< HEAD
         <translation>超連結</translation>
+=======
+        <translation type="obsolete">超連結</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Italic</source>
@@ -8382,7 +10284,11 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Normal</source>
         <comment>TX_StyleName_Normal</comment>
+<<<<<<< HEAD
         <translation>一般</translation>
+=======
+        <translation type="obsolete">一般</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Page %d</source>
@@ -8407,7 +10313,11 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Percent</source>
         <comment>TX_StyleName_PERCENT</comment>
+<<<<<<< HEAD
         <translation>百分比</translation>
+=======
+        <translation type="obsolete">百分比</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Regular</source>
@@ -8434,6 +10344,264 @@ This backup will be saved to(%s)</source>
         <comment>TX_FontName_Regular3</comment>
         <translation>regular</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Normal</source>
+        <comment>STR_STYLE_Normal</comment>
+        <translation>一般</translation>
+    </message>
+    <message>
+        <source>Comma</source>
+        <comment>STR_STYLE_COMMA</comment>
+        <translation>千分位</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <comment>STR_STYLE_CURRENCY</comment>
+        <translation>貨幣</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <comment>STR_STYLE_PERCENT</comment>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>千分位[0]</translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>貨幣[0]</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>STR_STYLE_HYPERLINK</comment>
+        <translation>超連結</translation>
+    </message>
+    <message>
+        <source>Followed Hyperlink</source>
+        <comment>STR_STYLE_FOLLOWED_HYPERLINK</comment>
+        <translation>已瀏覽過的超連結</translation>
+    </message>
+    <message>
+        <source>Note</source>
+        <comment>STR_STYLE_NOTE</comment>
+        <translation>備註</translation>
+    </message>
+    <message>
+        <source>Warning Text</source>
+        <comment>STR_STYLE_WARNING_TEXT</comment>
+        <translation>警告文字</translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <comment>STR_STYLE_TITLE</comment>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <comment>STR_STYLE_HEADING_1</comment>
+        <translation>標題 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <comment>STR_STYLE_HEADING_2</comment>
+        <translation>標題 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <comment>STR_STYLE_HEADING_3</comment>
+        <translation>標題 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <comment>STR_STYLE_HEADING_4</comment>
+        <translation>標題 4</translation>
+    </message>
+    <message>
+        <source>Input</source>
+        <comment>STR_STYLE_INPUT</comment>
+        <translation>輸入</translation>
+    </message>
+    <message>
+        <source>Output</source>
+        <comment>STR_STYLE_OUTPUT</comment>
+        <translation>輸出</translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <comment>STR_STYLE_CALCULATION</comment>
+        <translation>計算方式</translation>
+    </message>
+    <message>
+        <source>Check Cell</source>
+        <comment>STR_STYLE_CHECK_CELL</comment>
+        <translation>檢查儲存格</translation>
+    </message>
+    <message>
+        <source>Linked Cell</source>
+        <comment>STR_STYLE_LINKED_CELL</comment>
+        <translation>連結的儲存格</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>STR_STYLE_TOTAL</comment>
+        <translation>加總</translation>
+    </message>
+    <message>
+        <source>Good</source>
+        <comment>STR_STYLE_GOOD</comment>
+        <translation>好</translation>
+    </message>
+    <message>
+        <source>Bad</source>
+        <comment>STR_STYLE_BAD</comment>
+        <translation>壞</translation>
+    </message>
+    <message>
+        <source>Neutral</source>
+        <comment>STR_STYLE_NEUTRAL</comment>
+        <translation>中性</translation>
+    </message>
+    <message>
+        <source>Accent1</source>
+        <comment>STR_STYLE_ACCENT1</comment>
+        <translation>輔色1</translation>
+    </message>
+    <message>
+        <source>20% - Accent1</source>
+        <comment>STR_STYLE_20P_ACCENT_1</comment>
+        <translation>20% - 輔色1</translation>
+    </message>
+    <message>
+        <source>40% - Accent1</source>
+        <comment>STR_STYLE_40P_ACCENT_1</comment>
+        <translation>40% - 輔色1</translation>
+    </message>
+    <message>
+        <source>60% - Accent1</source>
+        <comment>STR_STYLE_60P_ACCENT_1</comment>
+        <translation>60% - 輔色1</translation>
+    </message>
+    <message>
+        <source>Accent2</source>
+        <comment>STR_STYLE_ACCENT2</comment>
+        <translation>輔色2</translation>
+    </message>
+    <message>
+        <source>20% - Accent2</source>
+        <comment>STR_STYLE_20P_ACCENT_2</comment>
+        <translation>20% - 輔色2</translation>
+    </message>
+    <message>
+        <source>40% - Accent2</source>
+        <comment>STR_STYLE_40P_ACCENT_2</comment>
+        <translation>40% - 輔色2</translation>
+    </message>
+    <message>
+        <source>60% - Accent2</source>
+        <comment>STR_STYLE_60P_ACCENT_2</comment>
+        <translation>60% - 輔色2</translation>
+    </message>
+    <message>
+        <source>Accent3</source>
+        <comment>STR_STYLE_ACCENT3</comment>
+        <translation>輔色3</translation>
+    </message>
+    <message>
+        <source>20% - Accent3</source>
+        <comment>STR_STYLE_20P_ACCENT_3</comment>
+        <translation>20% - 輔色3</translation>
+    </message>
+    <message>
+        <source>40% - Accent3</source>
+        <comment>STR_STYLE_40P_ACCENT_3</comment>
+        <translation>40% - 輔色3</translation>
+    </message>
+    <message>
+        <source>60% - Accent3</source>
+        <comment>STR_STYLE_60P_ACCENT_3</comment>
+        <translation>60% - 輔色3</translation>
+    </message>
+    <message>
+        <source>Accent4</source>
+        <comment>STR_STYLE_ACCENT4</comment>
+        <translation>輔色4</translation>
+    </message>
+    <message>
+        <source>20% - Accent4</source>
+        <comment>STR_STYLE_20P_ACCENT_4</comment>
+        <translation>20% - 輔色4</translation>
+    </message>
+    <message>
+        <source>40% - Accent4</source>
+        <comment>STR_STYLE_40P_ACCENT_4</comment>
+        <translation>40% - 輔色4</translation>
+    </message>
+    <message>
+        <source>60% - Accent4</source>
+        <comment>STR_STYLE_60P_ACCENT_4</comment>
+        <translation>60% - 輔色4</translation>
+    </message>
+    <message>
+        <source>Accent5</source>
+        <comment>STR_STYLE_ACCENT5</comment>
+        <translation>輔色5</translation>
+    </message>
+    <message>
+        <source>20% - Accent5</source>
+        <comment>STR_STYLE_20P_ACCENT_5</comment>
+        <translation>20% - 輔色5</translation>
+    </message>
+    <message>
+        <source>40% - Accent5</source>
+        <comment>STR_STYLE_40P_ACCENT_5</comment>
+        <translation>40% - 輔色5</translation>
+    </message>
+    <message>
+        <source>60% - Accent5</source>
+        <comment>STR_STYLE_60P_ACCENT_5</comment>
+        <translation>60% - 輔色5</translation>
+    </message>
+    <message>
+        <source>Accent6</source>
+        <comment>STR_STYLE_ACCENT6</comment>
+        <translation>輔色6</translation>
+    </message>
+    <message>
+        <source>20% - Accent6</source>
+        <comment>STR_STYLE_20P_ACCENT_6</comment>
+        <translation>20% - 輔色6</translation>
+    </message>
+    <message>
+        <source>40% - Accent6</source>
+        <comment>STR_STYLE_40P_ACCENT_6</comment>
+        <translation>40% - 輔色6</translation>
+    </message>
+    <message>
+        <source>60% - Accent6</source>
+        <comment>STR_STYLE_60P_ACCENT_6</comment>
+        <translation>60% - 輔色6</translation>
+    </message>
+    <message>
+        <source>CExplanatory Text</source>
+        <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
+        <translation>說明文字</translation>
+    </message>
+    <message>
+        <source>RowLevel</source>
+        <comment>STR_STYLE_ROWLEVEL</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ColLevel</source>
+        <comment>STR_STYLE_COLLEVEL</comment>
+        <translation></translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 <context>
     <name>et_et_uil</name>
@@ -8635,7 +10803,11 @@ Continue ?</source>
     <message>
         <source>Arithmetic Average</source>
         <comment>TX_ParaInfo_117</comment>
+<<<<<<< HEAD
         <translation>算術平均值</translation>
+=======
+        <translation type="obsolete">算術平均值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Array</source>
@@ -8660,32 +10832,56 @@ Continue ?</source>
     <message>
         <source>As eighths (%s)</source>
         <comment>TX_FRACTION_STYLE_06</comment>
+<<<<<<< HEAD
         <translation>以 8 為分母 (%s)</translation>
+=======
+        <translation type="obsolete">以 8 為分母 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>TX_FRACTION_STYLE_04</comment>
+<<<<<<< HEAD
         <translation>以 2 為分母 (%s)</translation>
+=======
+        <translation type="obsolete">以 2 為分母 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>TX_FRACTION_STYLE_09</comment>
+<<<<<<< HEAD
         <translation>百分之幾 (%s)</translation>
+=======
+        <translation type="obsolete">百分之幾 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>TX_FRACTION_STYLE_05</comment>
+<<<<<<< HEAD
         <translation>以 4 為分母 (%s)</translation>
+=======
+        <translation type="obsolete">以 4 為分母 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>TX_FRACTION_STYLE_07</comment>
+<<<<<<< HEAD
         <translation>以 16 為分母 (%s)</translation>
+=======
+        <translation type="obsolete">以 16 為分母 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>TX_FRACTION_STYLE_08</comment>
+<<<<<<< HEAD
         <translation>以 10 為分母 (%s)</translation>
+=======
+        <translation type="obsolete">以 10 為分母 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>As the array of dependent variable data point or area</source>
@@ -8830,7 +11026,11 @@ Continue ?</source>
     <message>
         <source>Cannot find the named range you specified.</source>
         <comment>TX_DV_List</comment>
+<<<<<<< HEAD
         <translation>找不到您所指定的名稱範圍。</translation>
+=======
+        <translation type="obsolete">找不到您所指定的名稱範圍。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Cell </source>
@@ -8891,7 +11091,11 @@ Spelling</source>
     <message>
         <source>Close the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
         <comment>TX_RevisionMsgUnTrackChanges</comment>
+<<<<<<< HEAD
         <translation>關閉修訂將刪除所有修訂記錄，確定關閉修訂吗?</translation>
+=======
+        <translation type="obsolete">關閉修訂將刪除所有修訂記錄，確定關閉修訂吗?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Coefficients</source>
@@ -9096,7 +11300,11 @@ Spelling</source>
     <message>
         <source>Every data series in a 2-D chart can hold at most 32,000 data points. If more data points are to be analyzed, two or more data series are required.</source>
         <comment>TX_Chart_DataOverflow</comment>
+<<<<<<< HEAD
         <translation>二维圖表上，資料數列的資料點不可超過 32,000 個。如果您會使用到超過 32,000 個資料點，您必須要建立二個以上的資料數列。</translation>
+=======
+        <translation type="obsolete">二维圖表上，資料數列的資料點不可超過 32,000 個。如果您會使用到超過 32,000 個資料點，您必須要建立二個以上的資料數列。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Expected_range</source>
@@ -9221,7 +11429,11 @@ Spelling</source>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>TX_Help_NoHelpFile</comment>
+<<<<<<< HEAD
         <translation>没有找到說明文件或說明文件出错!</translation>
+=======
+        <translation type="obsolete">没有找到說明文件或說明文件出错!</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Hex</source>
@@ -9725,7 +11937,11 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>PivotTable area</source>
         <comment>TX_ParaInfo_209</comment>
+<<<<<<< HEAD
         <translation>数据透视表区域</translation>
+=======
+        <translation>樞紐分析表區域</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Places</source>
@@ -9735,7 +11951,11 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Please enter a valid reference or a valid name of the selection.</source>
         <comment>TX_Invalid_Name</comment>
+<<<<<<< HEAD
         <translation>必須輸入您要前往的有效參照，或鍵入範圍的有效名稱。</translation>
+=======
+        <translation type="obsolete">必須輸入您要前往的有效參照，或鍵入範圍的有效名稱。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Please exit editing cell or formula first before closing the window.</source>
@@ -9780,7 +12000,11 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Press Alt and click the mouse to trace the link</source>
         <comment>TX_Hyperlink_Alt_Tip</comment>
+<<<<<<< HEAD
         <translation>按Alt+按一下滑鼠可以跟踪連線</translation>
+=======
+        <translation type="obsolete">按Alt+按一下滑鼠可以跟踪連線</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Prob_range</source>
@@ -9897,7 +12121,11 @@ Workbook</source>
     <message>
         <source>References to other workbooks cannot be used for Data Validation criteria.</source>
         <comment>TX_DV_CrossSheet</comment>
+<<<<<<< HEAD
         <translation>在資料有效性條件中不能使用其他活頁簿的參照。</translation>
+=======
+        <translation type="obsolete">在資料有效性條件中不能使用其他活頁簿的參照。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reinvest_rate</source>
@@ -10157,7 +12385,11 @@ Workbook</source>
     <message>
         <source>The List Source must be a delimited data list, or a reference to a single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
+<<<<<<< HEAD
         <translation>來源清單必須是一個有分隔符號的清單，或是一個列或欄的參照。</translation>
+=======
+        <translation type="obsolete">來源清單必須是一個有分隔符號的清單，或是一個列或欄的參照。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The Maximum contains an error now. Do you want to continue?</source>
@@ -10187,12 +12419,20 @@ Workbook</source>
     <message>
         <source>The Minimum must be a integer, numeric expression, or reference to a cell containing numeric values.</source>
         <comment>TX_DV_WholeNumber1</comment>
+<<<<<<< HEAD
         <translation>最小值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+=======
+        <translation type="obsolete">最小值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The Minumum contains an error now. Do you want to continue?</source>
         <comment>TX_DV_WholeNumberErr1</comment>
+<<<<<<< HEAD
         <translation>最小值目前包含錯誤。是否繼續?</translation>
+=======
+        <translation type="obsolete">最小值目前包含錯誤。是否繼續?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
@@ -10232,7 +12472,11 @@ Workbook</source>
     <message>
         <source>The Value must be a integer, numeric expression, or reference to a cell containing  numeric values.</source>
         <comment>TX_DV_WholeNumber</comment>
+<<<<<<< HEAD
         <translation>數值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+=======
+        <translation type="obsolete">數值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
@@ -10378,7 +12622,11 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>The number used to be converted to chinese string.</source>
         <comment>TX_ParaDesc_541</comment>
+<<<<<<< HEAD
         <translation>被转换为中文字符串的数值</translation>
+=======
+        <translation type="obsolete">被转换为中文字符串的数值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The octal number to convert</source>
@@ -10438,7 +12686,11 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>The selection contains some cells without Data Validation settings. Do you want to make this Data Validation settings to these cells too?</source>
         <comment>TX_DV_APPLYVALIDATION</comment>
+<<<<<<< HEAD
         <translation>這個選取範圍未包含資料驗證方式。是否對其施用目前的 [資料有效性] 設定?</translation>
+=======
+        <translation type="obsolete">這個選取範圍未包含資料驗證方式。是否對其施用目前的 [資料有效性] 設定?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The selection is invalid.
@@ -10449,7 +12701,11 @@ There are several possible reasons:
 •If the specified name is in a row or column, you must select more than one rows or columns.
 •If you click the Table command on Data menu, the selected range must be a single rectangle, and the number of rows or columns must be greater than one.</source>
         <comment>TX_DESC_Paste_OverlapRange_ET</comment>
+<<<<<<< HEAD
         <translation>選取範圍無效。
+=======
+        <translation type="obsolete">選取範圍無效。
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 可能原因有:
 
 . 大小和形狀不同，複製與貼上區域不允許有重疊。
@@ -10460,7 +12716,11 @@ There are several possible reasons:
     <message>
         <source>The sheet(s) you are deleting is not empty. If you want to delete the data permanently, please click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
+<<<<<<< HEAD
         <translation>資料可能存在您所選取的刪除的工作表中。若要永久刪除此資料，請按 [確定]。</translation>
+=======
+        <translation type="obsolete">資料可能存在您所選取的刪除的工作表中。若要永久刪除此資料，請按 [確定]。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The upper limit of the integrated ERF</source>
@@ -10500,7 +12760,11 @@ There are several possible reasons:
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
         <comment>TX_DS_MULSEL</comment>
+<<<<<<< HEAD
         <translation>您不能在選取多個不連續範圍時執行這個命令。
+=======
+        <translation type="obsolete">您不能在選取多個不連續範圍時執行這個命令。
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 請一次只選取一個範圍，然後執行這個命令。</translation>
     </message>
     <message>
@@ -10516,7 +12780,11 @@ There are several possible reasons:
     <message>
         <source>This word you used does not exist in both main dictionary and custom dictionary. Do you want to add it to the custom dictionary?</source>
         <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
+<<<<<<< HEAD
         <translation>你使用了一個在主字典和自訂字典中都没有的單字，是否將該單字加入到自訂字典?</translation>
+=======
+        <translation type="obsolete">你使用了一個在主字典和自訂字典中都没有的單字，是否將該單字加入到自訂字典?</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Threshold</source>
@@ -10619,17 +12887,29 @@ Workbook</source>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>TX_FRACTION_STYLE_01</comment>
+<<<<<<< HEAD
         <translation>分母為一位元數 (%s)</translation>
+=======
+        <translation type="obsolete">分母為一位元數 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>TX_FRACTION_STYLE_03</comment>
+<<<<<<< HEAD
         <translation>分母為三位元數 (%s)</translation>
+=======
+        <translation type="obsolete">分母為三位元數 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>TX_FRACTION_STYLE_02</comment>
+<<<<<<< HEAD
         <translation>分母為兩位元數 (%s)</translation>
+=======
+        <translation type="obsolete">分母為兩位元數 (%s)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Upper Case Chinese number</source>
@@ -10684,7 +12964,11 @@ Workbook</source>
     <message>
         <source>Value 1,value 2,...1 to 30 of plural numbers, used to calculate the product.</source>
         <comment>TX_ParaDesc_522</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數字1,數字2,... 1 到 30 個複數，用於求其乘積。</translation>
+=======
+        <translation type="obsolete">數字1,數字2,... 1 到 30 個複數，用於求其乘積。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Value Date</source>
@@ -10784,7 +13068,11 @@ Workbook</source>
     <message>
         <source>You cannot modify the read-only cells in the protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
+<<<<<<< HEAD
         <translation>不能在保護的工作表上修改被保護的唯讀儲存格。</translation>
+=======
+        <translation type="obsolete">不能在保護的工作表上修改被保護的唯讀儲存格。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>You have not selected the data to be parsed.</source>
@@ -10909,7 +13197,11 @@ Workbook</source>
     <message>
         <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
         <comment>TX_ParaDesc_386</comment>
+<<<<<<< HEAD
         <translation type="unfinished">陣列1,陣列2,... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+=======
+        <translation type="obsolete">陣列1,陣列2,... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>binary number</source>
@@ -11029,7 +13321,11 @@ Workbook</source>
     <message>
         <source>is a logical value: return additonal regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
         <comment>TX_ParaDesc_213</comment>
+<<<<<<< HEAD
         <translation>為邏輯值: 若為 TRUE 將傳回額外的迴歸統計資料; 若為 FALSE 或省略則只傳回 m 係數和常數項 b</translation>
+=======
+        <translation type="obsolete">為邏輯值: 若為 TRUE 將傳回額外的迴歸統計資料; 若為 FALSE 或省略則只傳回 m 係數和常數項 b</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is a logical value: return the cumulative distribution function = TRUE; return the probability mass function = FALSE or omitted.</source>
@@ -11179,7 +13475,11 @@ Workbook</source>
     <message>
         <source>is a number, a reference to a cell containing a number, or a formula that evalueates to a number, 2 if omitted.</source>
         <comment>TX_ParaDesc_337</comment>
+<<<<<<< HEAD
         <translation>為小數點的位數。數值將四捨五入至指定的小數位數，若不設定小數位數，預設值是兩位</translation>
+=======
+        <translation type="obsolete">為小數點的位數。數值將四捨五入至指定的小數位數，若不設定小數位數，預設值是兩位</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is a number: for Sunday = 1 through Saturday = 7, use 1; for Monday = 1 through Sunday = 7, use 2; for Monday = 0 through Sunday = 6, use 3.</source>
@@ -11484,17 +13784,29 @@ Workbook</source>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
         <comment>TX_ParaDesc_024</comment>
+<<<<<<< HEAD
         <translation>是 x 區間上限 (選擇性引數)。若省略則 B = 1</translation>
+=======
+        <translation type="obsolete">是 x 區間上限 (選擇性引數)。若省略則 B = 1</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range =0.</source>
         <comment>TX_ParaDesc_027</comment>
+<<<<<<< HEAD
         <translation>為 x 區間下限 (選擇性引數)。若省略則 A = 0</translation>
+=======
+        <translation type="obsolete">為 x 區間下限 (選擇性引數)。若省略則 A = 0</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is an optional value that identifies the number of singnificant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
         <comment>TX_ParaDesc_288</comment>
+<<<<<<< HEAD
         <translation>為欲求百分比值的小數有效位數 (選擇性引數)，若省略則採用小數 3 位 (0.xxx%)</translation>
+=======
+        <translation type="obsolete">為欲求百分比值的小數有效位數 (選擇性引數)，若省略則採用小數 3 位 (0.xxx%)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is any real number between -1 and 1 excluding -1 and 1.</source>
@@ -11504,7 +13816,11 @@ Workbook</source>
     <message>
         <source>is any real number equal or greater than 1.</source>
         <comment>TX_ParaDesc_013</comment>
+<<<<<<< HEAD
         <translation>大於等於 1 的任何實數</translation>
+=======
+        <translation type="obsolete">大於等於 1 的任何實數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is any real number equal to or greater than 1</source>
@@ -11639,12 +13955,20 @@ Workbook</source>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_359</comment>
+<<<<<<< HEAD
         <translation>傳回一角度之正弦值。為欲求算其正弦值的角度，以弧度表示。度數 * PI()/180 = 弧度</translation>
+=======
+        <translation type="obsolete">傳回一角度之正弦值。為欲求算其正弦值的角度，以弧度表示。度數 * PI()/180 = 弧度</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the angle in radians for which you want the sine. Degress *PI()/180 = radians.</source>
         <comment>TX_ParaDesc_395</comment>
+<<<<<<< HEAD
         <translation>為欲求算其正弦值的角度，以弧度表示。度數 * PI()/180 = 弧度</translation>
+=======
+        <translation type="obsolete">為欲求算其正弦值的角度，以弧度表示。度數 * PI()/180 = 弧度</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the angle in radians that you want to convert.</source>
@@ -11744,12 +14068,20 @@ Workbook</source>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
         <comment>TX_ParaDesc_063</comment>
+<<<<<<< HEAD
         <translation>為比較的條件，條件可以是可以是數字，表示式或文字</translation>
+=======
+        <translation type="obsolete">為比較的條件，條件可以是可以是數字，表示式或文字</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the condition or criteria in the form of a number, experession, or text that defines which cells will be used to find the average.</source>
         <comment>TX_ParaDesc_384</comment>
+<<<<<<< HEAD
         <translation>為比較的條件，條件可以是可以是數字，表示式或文字，用以指定哪些儲存格會被計算</translation>
+=======
+        <translation type="obsolete">為比較的條件，條件可以是可以是數字，表示式或文字，用以指定哪些儲存格會被計算</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the cosine of the angle you want and must be from -1 to 1.</source>
@@ -11919,7 +14251,11 @@ Workbook</source>
     <message>
         <source>is the interest rate per period. For example, use 6%4 for quarterly payment at 6% APR.</source>
         <comment>TX_ParaDesc_139</comment>
+<<<<<<< HEAD
         <translation type="unfinished">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+=======
+        <translation type="obsolete">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the interest rate you pay on the money used in the cash flows.</source>
@@ -12089,12 +14425,20 @@ Workbook</source>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearst integer.</source>
         <comment>TX_ParaDesc_343</comment>
+<<<<<<< HEAD
         <translation>為所要捨位之小數位數。負數代表捨位至小數點左方的位數 (即整數位數); 0 或省略不填，則捨位至最接近的整數</translation>
+=======
+        <translation type="obsolete">為所要捨位之小數位數。負數代表捨位至小數點左方的位數 (即整數位數); 0 或省略不填，則捨位至最接近的整數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearst integer.</source>
         <comment>TX_ParaDesc_341</comment>
+<<<<<<< HEAD
         <translation>為所要捨位之小數位數。負數代表捨位至小數點左方的位數 (即整數位數); 0 或省略不填，則捨位至最接近的整數</translation>
+=======
+        <translation type="obsolete">為所要捨位之小數位數。負數代表捨位至小數點左方的位數 (即整數位數); 0 或省略不填，則捨位至最接近的整數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the number of events.</source>
@@ -12259,7 +14603,11 @@ Workbook</source>
     <message>
         <source>is the population standard deviation for the data range and is assumed to be know. Standard_dev must be greater than 0.</source>
         <comment>TX_ParaDesc_053</comment>
+<<<<<<< HEAD
         <translation>為此資料的母體標準差，且假定為已知。標準差需大於 0</translation>
+=======
+        <translation type="obsolete">為此資料的母體標準差，且假定為已知。標準差需大於 0</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>is the position (from the smallest) in the array or range of the value to return.</source>
@@ -13069,12 +15417,20 @@ Workbook</source>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
         <comment>TX_ParaDesc_281</comment>
+<<<<<<< HEAD
         <translation type="unfinished">邏輯值1,邏輯值2,... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
+=======
+        <translation type="obsolete">邏輯值1,邏輯值2,... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
         <comment>TX_ParaDesc_009</comment>
+<<<<<<< HEAD
         <translation type="unfinished">邏輯值1, 邏輯值2,... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
+=======
+        <translation type="obsolete">邏輯值1, 邏輯值2,... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>lump sum amount that series of future payments is right now.</source>
@@ -13099,12 +15455,20 @@ Workbook</source>
     <message>
         <source>number 1, number 2,...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
         <comment>TX_ParaDesc_307</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number 1,number 2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
         <comment>TX_ParaDesc_360</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
+=======
+        <translation type="obsolete">數值1,數值2,...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number of payment periods in an investment.</source>
@@ -13119,102 +15483,182 @@ Workbook</source>
     <message>
         <source>number1, number2,... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
         <comment>TX_ParaDesc_094</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
+=======
+        <translation type="obsolete">數值1,數值2,...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
         <comment>TX_ParaDesc_160</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
         <comment>TX_ParaDesc_203</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1, number2,... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
         <comment>TX_ParaDesc_153</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,... are 1 to 255 values for which you want the least common multiple.</source>
         <comment>TX_ParaDesc_205</comment>
+<<<<<<< HEAD
         <translation type="unfinished">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+=======
+        <translation type="obsolete">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_372</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
         <comment>TX_ParaDesc_382</comment>
+<<<<<<< HEAD
         <translation type="unfinished">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
+=======
+        <translation type="obsolete">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_234</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
         <comment>TX_ParaDesc_254</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
+=======
+        <translation type="obsolete">數值1,數值2,...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,... are 1 to 30 numeric arguments for which you want the average.</source>
         <comment>TX_ParaDesc_019</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個欲求其平均值的數值引數</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個欲求其平均值的數值引數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 255 values for which you want the multinomial.</source>
         <comment>TX_ParaDesc_476</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數字1,數字2,... 是 1 到 255 您要多項式的值</translation>
+=======
+        <translation type="obsolete">數字1,數字2,... 是 1 到 255 您要多項式的值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
         <comment>TX_ParaDesc_018</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
         <comment>TX_ParaDesc_374</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數字1, 數字2, ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
+=======
+        <translation type="obsolete">數字1, 數字2, ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
         <comment>TX_ParaDesc_237</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
         <comment>TX_ParaDesc_387</comment>
+<<<<<<< HEAD
         <translation type="unfinished">数字1,数字2, ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
+=======
+        <translation type="obsolete">数字1,数字2, ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_244</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_423</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_425</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a population.</source>
         <comment>TX_ParaDesc_426</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>number1,number2,...are 1 to 30 values.</source>
         <comment>TX_ParaDesc_152</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>period for which you want to find interest.</source>
@@ -13229,7 +15673,11 @@ Workbook</source>
     <message>
         <source>ref 1, ref 2,...are 1 to 29 ranges or references for which you want the subtotal.</source>
         <comment>TX_ParaDesc_381</comment>
+<<<<<<< HEAD
         <translation type="unfinished">Ref1, Ref2, ... 為 1 到 29 個要計算小計的範圍或參照</translation>
+=======
+        <translation type="obsolete">Ref1, Ref2, ... 為 1 到 29 個要計算小計的範圍或參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>reference</source>
@@ -13314,7 +15762,11 @@ Workbook</source>
     <message>
         <source>specifies the number of distribution tails to return: ont-tailed distribution = 1; tow-tailed distribution = 2.</source>
         <comment>TX_ParaDesc_398</comment>
+<<<<<<< HEAD
         <translation>指定要傳回的分配尾數的個數: 1 表示傳回單尾分配; 2 表示傳回雙尾分配</translation>
+=======
+        <translation type="obsolete">指定要傳回的分配尾數的個數: 1 表示傳回單尾分配; 2 表示傳回雙尾分配</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>specifies the period and must be in the range 1 to nper.</source>
@@ -13354,7 +15806,11 @@ Workbook</source>
     <message>
         <source>text1, text2,... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
         <comment>TX_ParaDesc_051</comment>
+<<<<<<< HEAD
         <translation type="unfinished">字串1,字串2,... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
+=======
+        <translation type="obsolete">字串1,字串2,... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>the numbers you want to convert.</source>
@@ -13364,62 +15820,110 @@ Workbook</source>
     <message>
         <source>topic1,topic2,...are 1 to 28 parameters that specify a piece of data.</source>
         <comment>TX_ParaDesc_351</comment>
+<<<<<<< HEAD
         <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料</translation>
+=======
+        <translation type="obsolete">是個數從 1 到 28 的參數，用來指定一段資料</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>topic1,topic2,...are 1 to 38 parameters that specify a piece of data.</source>
         <comment>TX_ParaInfo_548</comment>
+<<<<<<< HEAD
         <translation type="unfinished">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
+=======
+        <translation type="obsolete">是個數從 1 到 28 的參數，用來指定一段資料 {1,?} {2,?} {1 ?} {38 ?}</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
         <comment>TX_ParaDesc_044</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
         <comment>TX_ParaDesc_274</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2, ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
+=======
+        <translation type="obsolete">數值1,數值2, ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1, value2,... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
         <comment>TX_ParaDesc_060</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
+=======
+        <translation type="obsolete">數值1,數值2,...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
         <comment>TX_ParaDesc_059</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
+=======
+        <translation>數值1,數值2,...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
         <comment>TX_ParaDesc_235</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 value arguments corresponding to a sample of a population.</source>
         <comment>TX_ParaDesc_424</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
         <comment>TX_ParaDesc_373</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 arguments for which you want the average.</source>
         <comment>TX_ParaDesc_020</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 是 1 到 30 個欲求其平均值的引數</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 是 1 到 30 個欲求其平均值的引數</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
         <comment>TX_ParaDesc_245</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value1,value2,...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
         <comment>TX_ParaDesc_375</comment>
+<<<<<<< HEAD
         <translation type="unfinished">數值1,數值2,... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+=======
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>value_if_error</source>
@@ -13434,412 +15938,740 @@ Workbook</source>
     <message>
         <source>Topic</source>
         <comment>TX_ParaInfo_219</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Topic</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Topic</source>
         <comment>TX_ParaInfo_220</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Topic</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_217</comment>
+<<<<<<< HEAD
         <translation type="unfinished">測試條件</translation>
+=======
+        <translation>Logical_test</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Counter_text</source>
         <comment>TX_ParaInfo_218</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Counter_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Start_num</source>
         <comment>TX_ParaInfo_219</comment>
+<<<<<<< HEAD
         <translation type="unfinished">開始位置</translation>
+=======
+        <translation>Start_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>End_num</source>
         <comment>TX_ParaInfo_220</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>End_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Step_num</source>
         <comment>TX_ParaInfo_221</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Step_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Ref_name</source>
         <comment>TX_ParaInfo_222</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Ref_name</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Area_ref</source>
         <comment>TX_ParaInfo_223</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Area_ref</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Skip_blanks</source>
         <comment>TX_ParaInfo_224</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Skip_blanks</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Logical_test</source>
         <comment>TX_ParaInfo_225</comment>
+<<<<<<< HEAD
         <translation type="unfinished">測試條件</translation>
+=======
+        <translation>Logical_test</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_226</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Value</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_227</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Name_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Data_type_num</source>
         <comment>TX_ParaInfo_228</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Data_type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_229</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Cancel_close</source>
         <comment>TX_ParaInfo_230</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Cancel_close</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_231</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>No_tool</source>
         <comment>TX_ParaInfo_232</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>No_tool</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Level_num</source>
         <comment>TX_ParaInfo_233</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation></translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_234</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_235</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Name_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Value</source>
         <comment>TX_ParaInfo_236</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Value</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_237</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Values</source>
         <comment>TX_ParaInfo_238</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Values</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_239</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Name_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Info_type</source>
         <comment>TX_ParaInfo_240</comment>
+<<<<<<< HEAD
         <translation type="unfinished">資訊類型</translation>
+=======
+        <translation>Info_type</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Module_text</source>
         <comment>TX_ParaInfo_241</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Module_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Procedure</source>
         <comment>TX_ParaInfo_242</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Procedure</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_text</source>
         <comment>TX_ParaInfo_243</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Function_text</source>
         <comment>TX_ParaInfo_244</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Function_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Argument_text</source>
         <comment>TX_ParaInfo_245</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Argument_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_246</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Macro_type</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Category</source>
         <comment>TX_ParaInfo_247</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Category</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Shortcut_text</source>
         <comment>TX_ParaInfo_248</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Shortcut_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Help_topic</source>
         <comment>TX_ParaInfo_249</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Help_topic</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Function_help</source>
         <comment>TX_ParaInfo_250</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Function_help</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Argument_help</source>
         <comment>TX_ParaInfo_251</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Argument_help</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Register_id</source>
         <comment>TX_ParaInfo_252</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Register_id</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_253</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_254</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Name_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Text</source>
         <comment>TX_ParaInfo_255</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Match_text</source>
         <comment>TX_ParaInfo_256</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Match_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Cell_ref</source>
         <comment>TX_ParaInfo_257</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Cell_ref</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Start_char</source>
         <comment>TX_ParaInfo_258</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Start_char</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Num_chars</source>
         <comment>TX_ParaInfo_259</comment>
+<<<<<<< HEAD
         <translation type="unfinished">字元個數</translation>
+=======
+        <translation>Num_chars</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Window_text</source>
         <comment>TX_ParaInfo_260</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Window_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Formula_text</source>
         <comment>TX_ParaInfo_261</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Formula_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>From_a1</source>
         <comment>TX_ParaInfo_262</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>From_a1</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>To_a1</source>
         <comment>TX_ParaInfo_263</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>To_a1</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>To_ref_type</source>
         <comment>TX_ParaInfo_264</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>To_ref_type</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Rel_to_ref</source>
         <comment>TX_ParaInfo_265</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Rel_to_ref</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>A1</source>
         <comment>TX_ParaInfo_266</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>A1</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Bar_num</source>
         <comment>TX_ParaInfo_267</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Bar_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Menu</source>
         <comment>TX_ParaInfo_268</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Menu</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Command</source>
         <comment>TX_ParaInfo_269</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Command</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Subcommand</source>
         <comment>TX_ParaInfo_270</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Subcommand</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Menu_ref</source>
         <comment>TX_ParaInfo_271</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Menu_ref</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Position1</source>
         <comment>TX_ParaInfo_272</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Position1</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Position2</source>
         <comment>TX_ParaInfo_273</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Position2</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Submenu</source>
         <comment>TX_ParaInfo_274</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Submenu</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Bar_id</source>
         <comment>TX_ParaInfo_275</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Bar_id</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>ProgID</source>
         <comment>TX_ParaInfo_217</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>ProgID</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Server</source>
         <comment>TX_ParaInfo_218</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Server</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Message_text</source>
         <comment>TX_ParaInfo_280</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Message_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_281</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Help_ref</source>
         <comment>TX_ParaInfo_282</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Help_ref</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Logical</source>
         <comment>TX_ParaInfo_283</comment>
+<<<<<<< HEAD
         <translation type="unfinished">邏輯</translation>
+=======
+        <translation>Logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_284</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Xy_series</source>
         <comment>TX_ParaInfo_285</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Xy_series</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Add_logical</source>
         <comment>TX_ParaInfo_286</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Add_logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Document_text</source>
         <comment>TX_ParaInfo_287</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Document_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Macro_text</source>
         <comment>TX_ParaInfo_288</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Macro_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Sheet_text</source>
         <comment>TX_ParaInfo_289</comment>
+<<<<<<< HEAD
         <translation type="unfinished">工作表名稱</translation>
+=======
+        <translation>Sheet_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Key_text</source>
         <comment>TX_ParaInfo_290</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Key_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Activate_logical</source>
         <comment>TX_ParaInfo_291</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Activate_logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Time</source>
         <comment>TX_ParaInfo_292</comment>
+<<<<<<< HEAD
         <translation type="unfinished">時間</translation>
+=======
+        <translation>Time</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Tolerance</source>
         <comment>TX_ParaInfo_293</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Tolerance</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Insert_logical</source>
         <comment>TX_ParaInfo_294</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Insert_logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Window_text</source>
         <comment>TX_ParaInfo_295</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Window_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_296</comment>
+<<<<<<< HEAD
         <translation type="unfinished">選取範圍</translation>
+=======
+        <translation>Selection</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Active_cell</source>
         <comment>TX_ParaInfo_297</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Active_cell</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>From_reference</source>
         <comment>TX_ParaInfo_298</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>From_reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Format_text</source>
@@ -13849,107 +16681,191 @@ Workbook</source>
     <message>
         <source>Icon_number</source>
         <comment>TX_ParaInfo_303</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Icon_number</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Icon_label</source>
         <comment>TX_ParaInfo_304</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Icon_label</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Name_text</source>
         <comment>TX_ParaInfo_305</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Name_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Refers_to</source>
         <comment>TX_ParaInfo_306</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Refers_to</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Macro_type</source>
         <comment>TX_ParaInfo_307</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Macro_type</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Shortcut_text</source>
         <comment>TX_ParaInfo_308</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Shortcut_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Hidden</source>
         <comment>TX_ParaInfo_309</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Hidden</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Category</source>
         <comment>TX_ParaInfo_310</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Category</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Local</source>
         <comment>TX_ParaInfo_311</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Local</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Height_num</source>
         <comment>TX_ParaInfo_312</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Height_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_313</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Standard_height</source>
         <comment>TX_ParaInfo_314</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Standard_height</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_315</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Width_num</source>
         <comment>TX_ParaInfo_316</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Width_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_317</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Standard</source>
         <comment>TX_ParaInfo_318</comment>
+<<<<<<< HEAD
         <translation type="unfinished">一般</translation>
+=======
+        <translation>Standard</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Type_num</source>
         <comment>TX_ParaInfo_319</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Type_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Standard_num</source>
         <comment>TX_ParaInfo_320</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Standard_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Formula_text</source>
         <comment>TX_ParaInfo_321</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Formula_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_322</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>To_reference</source>
         <comment>TX_ParaInfo_323</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>To_reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
@@ -13957,14 +16873,22 @@ Workbook</source>
 .Click a single cell, and then paste. 
 .Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+<<<<<<< HEAD
         <translation>WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
+=======
+        <translation type="obsolete">WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 . 選擇單一儲存格，然後貼上。
 . 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot remove grouping. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
+<<<<<<< HEAD
         <translation>無法取消群組。選取詳細資料列或欄後，設定群組屬性以建立大綱。</translation>
+=======
+        <translation type="obsolete">無法取消群組。選取詳細資料列或欄後，設定群組屬性以建立大綱。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>The formula you typed contains errors. WPS Spreadsheets will automatically correct it as: 
@@ -13973,7 +16897,11 @@ Workbook</source>
 •If you want to close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid using a equal sign(=), plus sign(+) or minus sign(-) at the beginning.</source>
         <comment>TX_InputFormula_Error</comment>
+<<<<<<< HEAD
         <translation>您輸入的公式存在錯誤，WPS Spreadsheets 將自動更正為:
+=======
+        <translation type="obsolete">您輸入的公式存在錯誤，WPS Spreadsheets 將自動更正為:
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 &apos;%s
 · 若要接受修正，請按一下 [确定]。
 · 若要關閉此訊息並自行修正公式，請按一下 [取消]。
@@ -13986,7 +16914,11 @@ Workbook</source>
 • To close this message and correct the formula by yourself, click Cancel.
 • If you are not typing a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
         <comment>TX_InputFormulaStringTooLong_Error</comment>
+<<<<<<< HEAD
         <translation>您輸入的公式中，常數字元串太長，WPS Spreadsheets 將自動更正為:
+=======
+        <translation type="obsolete">您輸入的公式中，常數字元串太長，WPS Spreadsheets 將自動更正為:
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 &apos;%s
 · 若要接受修正，請按一下 [确定]。
 · 若要關閉此訊息並自行修正公式，請按一下 [取消]。
@@ -14002,7 +16934,11 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>The Maximum must be a whole number, numeric expression, or reference to a cell containing numeric values.</source>
         <comment>TX_DV_WholeNumber2</comment>
+<<<<<<< HEAD
         <translation>最大值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+=======
+        <translation type="obsolete">最大值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Format Text box</source>
@@ -14015,7 +16951,11 @@ Please make sure the selected regions are continuous cells.</source>
 •If you do not want to  create the circular reference, click OK, and correct the formula.
 •If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
         <comment>TX_FORMULA_RECURSION</comment>
+<<<<<<< HEAD
         <translation>WPS Spreadsheets 不能計算該公式。公式中的儲存格參照指向的是公式的結果，從而造成循環參照。請嘗試:
+=======
+        <translation type="obsolete">WPS Spreadsheets 不能計算該公式。公式中的儲存格參照指向的是公式的結果，從而造成循環參照。請嘗試:
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 
 · 如屬意外，請傳回上一步動作的儲存格改正公式。
 · 如果您期望通過循環參照傳回正確的計算結果，請選擇 [選項]中的 [反覆運算]。</translation>
@@ -14023,7 +16963,11 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>WPS Spreadsheets only can convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
         <comment>TX_DS_MULCOLS</comment>
+<<<<<<< HEAD
         <translation>WPS Spreadsheets 一次只能轉換一欄。所選取的範圍可以很多列，但是只能有一欄。請重新選取一欄中的儲存格，然後再試一次。</translation>
+=======
+        <translation type="obsolete">WPS Spreadsheets 一次只能轉換一欄。所選取的範圍可以很多列，但是只能有一欄。請重新選取一欄中的儲存格，然後再試一次。</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
@@ -14044,7 +16988,11 @@ Please make sure the selected regions are continuous cells.</source>
         <source>Spell 
 Check</source>
         <comment>TX_SpellCheck_Caption</comment>
+<<<<<<< HEAD
         <translation>拼字檢查</translation>
+=======
+        <translation type="obsolete">拼字檢查</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Not force the coefficient to be 0</source>
@@ -14280,121 +17228,214 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Paste_num</source>
         <comment>TX_ParaInfo_299</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Paste_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Operation_num</source>
         <comment>TX_ParaInfo_300</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Operation_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Skip_blanks</source>
         <comment>TX_ParaInfo_301</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Skip_blanks</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Transpose</source>
         <comment>TX_ParaInfo_302</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Transpose</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Enable_logical</source>
         <comment>TX_ParaInfo_324</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Enable_logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Macro_ref</source>
         <comment>TX_ParaInfo_325</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Macro_ref</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Reference</source>
         <comment>TX_ParaInfo_326</comment>
+<<<<<<< HEAD
         <translation type="unfinished">參照範圍</translation>
+=======
+        <translation>Reference</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Step</source>
         <comment>TX_ParaInfo_327</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Step</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Save_logical</source>
         <comment>TX_ParaInfo_328</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Save_logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Route_logical</source>
         <comment>TX_ParaInfo_329</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Route_logical</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Range_num</source>
         <comment>TX_ParaInfo_330</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Range_num</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>From</source>
         <comment>TX_ParaInfo_331</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>From</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>To</source>
         <comment>TX_ParaInfo_332</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>To</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Copies</source>
         <comment>TX_ParaInfo_333</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Copies</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Draft</source>
         <comment>TX_ParaInfo_334</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Draft</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Preview</source>
         <comment>TX_ParaInfo_335</comment>
+<<<<<<< HEAD
         <translation type="unfinished">Preview</translation>
+=======
+        <translation>Preview</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Print_what</source>
         <comment>TX_ParaInfo_336</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Print_what</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Color</source>
         <comment>TX_ParaInfo_337</comment>
+<<<<<<< HEAD
         <translation type="unfinished">色彩</translation>
+=======
+        <translation></translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Feed</source>
         <comment>TX_ParaInfo_338</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Feed</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Quality</source>
         <comment>TX_ParaInfo_339</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Quality</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Y_resolution</source>
         <comment>TX_ParaInfo_340</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Y_resolution</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Selection</source>
         <comment>TX_ParaInfo_341</comment>
+<<<<<<< HEAD
         <translation type="unfinished">選取範圍</translation>
+=======
+        <translation></translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Printer_text</source>
         <comment>TX_ParaInfo_342</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
+=======
+        <translation>Printer_text</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Print_to_file</source>
         <comment>TX_ParaInfo_343</comment>
+<<<<<<< HEAD
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14680,6 +17721,791 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Even Page </source>
         <comment>TX_CHECKSPELLING_FromEvenPage</comment>
+=======
+        <translation>Print_to_file</translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <comment>TX_ParaInfo_344</comment>
+        <translation>Collate</translation>
+    </message>
+    <message>
+        <source>Filename</source>
+        <comment>TX_ParaInfo_345</comment>
+        <translation>Filename</translation>
+    </message>
+    <message>
+        <source>Ignore_print_area</source>
+        <comment>TX_ParaInfo_346</comment>
+        <translation>Ignore_print_area</translation>
+    </message>
+    <message>
+        <source>Module_text</source>
+        <comment>TX_ParaInfo_347</comment>
+        <translation>Module_text</translation>
+    </message>
+    <message>
+        <source>Procedure</source>
+        <comment>TX_ParaInfo_348</comment>
+        <translation>Procedure</translation>
+    </message>
+    <message>
+        <source>Type_text</source>
+        <comment>TX_ParaInfo_349</comment>
+        <translation>Type_text</translation>
+    </message>
+    <message>
+        <source>Argument</source>
+        <comment>TX_ParaInfo_350</comment>
+        <translation>Argument</translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="obsolete">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="obsolete">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
+    </message>
+    <message>
+        <source>Directory_text</source>
+        <comment>TX_ParaInfo_351</comment>
+        <translation>目錄文字</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FAlSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation type="obsolete">邏輯值1%1 邏輯值2%1... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 arguments for which you want the average of the absolute deviations.</source>
+        <comment>TX_ParaDesc_018</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個用來求其計算絕對平均差的引數</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numeric arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_019</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個欲求其平均值的數值引數</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 arguments for which you want the average.</source>
+        <comment>TX_ParaDesc_020</comment>
+        <translation>數值1%1數值2%1... 是 1 到 30 個欲求其平均值的引數</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 numbers, cell references, defined names, formulas, functions, or text arguments from which CHOOSE selects.</source>
+        <comment>TX_ParaDesc_044</comment>
+        <translation>數值1%1數值2%1... 為 1 到 29 個數值、儲存格參照、名稱、公式、函數、或文字的引數，CHOOSE 函數會依照 Index_num 的值從中取用</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or single-cell references.</source>
+        <comment>TX_ParaDesc_051</comment>
+        <translation>字串1%1字串2%1... 為1 到 30 個文字串，用以合併為單一字串。它們可以是文字串、數字、或單一儲存格的參照</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 arguments that can contain or refer to a variety of different types of data, but only numbers are counted.</source>
+        <comment>TX_ParaDesc_059</comment>
+        <translation type="obsolete">數值1%1數值2%1...為 1 到 30 的引數，可以包含或參照到不同類型的資料，但是只會計算數值資料</translation>
+    </message>
+    <message>
+        <source>value1%1 value2%1... are 1 to 30 argument representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation type="obsolete">數值1%1數值2%1...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 arguments, or an array or array reference, on which you want DEVSQ to calculate.</source>
+        <comment>TX_ParaDesc_094</comment>
+        <translation>數值1%1數值2%1...計算差異平方和的 1 至 30 個引數，或陣列或陣列參照</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 values.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="obsolete">數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_153</comment>
+        <translation>數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or name, arrays, or references that contain numbers for which you want the harmonic mean.</source>
+        <comment>TX_ParaDesc_160</comment>
+        <translation>數值1%1數值2%1... 是您想計算其調和平均數的 1 到 30 個引數，可為數字或含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>number1%1 number2%1... are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the kurtosis.</source>
+        <comment>TX_ParaDesc_203</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個引數。可為數字，或是含有數字的名稱、陣列或參照位址，用以求算其峰度值</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 255 values for which you want the least common multiple.</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="obsolete">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_234</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the maximum.</source>
+        <comment>TX_ParaDesc_235</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the median.</source>
+        <comment>TX_ParaDesc_237</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個數字、名稱、陣列或參照，其內容包含欲求出中位數的數字</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_244</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 numbers, empty cells, logical values, or text numbers for which you want the minimum.</source>
+        <comment>TX_ParaDesc_245</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個引數，其內容可為數值、空白儲存格、邏輯值、文字字串。此函數將傳回這些引數的最小值</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers, or names, arrays, or references that contain numbers for which you want the mode.</source>
+        <comment>TX_ParaDesc_254</comment>
+        <translation>數值1%1數值2%1...為 1 到 30 個引數。可為數值，或是含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>value 1%1 value 2%1... are 1 to 29 payments and income, equally spaced in time and occuring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation>數值1%1數值2%1 ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
+    </message>
+    <message>
+        <source>logical1%1logical2%1... are 1 to 30 conditions you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation>邏輯值1%1邏輯值2%1... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
+    </message>
+    <message>
+        <source>number 1%1 number 2%1...are 1 to 30 numbers, logical values, or text representations of numbers that you want to multiply.</source>
+        <comment>TX_ParaDesc_307</comment>
+        <translation>數值1%1數值2%1... 為 1 到 30 個欲相乘之引數，其值為數字、邏輯值或數字的文字格式</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 28 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_351</comment>
+        <translation>topic1%1topic2%1... 是個數從 1 到 28 的參數，用來指定一段資料</translation>
+    </message>
+    <message>
+        <source>number 1%1number 2%1...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the skewness.</source>
+        <comment>TX_ParaDesc_360</comment>
+        <translation>數值1%1數值2%1...為 1 到 255 個引數。可為數值，或是內容為數值的陣列、名稱、儲存格參照，用以求算偏態</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers corresponding to a sample of a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_372</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個自母體抽樣出來的樣本值。可以直接輸入數值到函數中，或是輸入樣本所在的儲存格參照位址</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 values corresponding to a sample of a population and can be values or names or references to values.</source>
+        <comment>TX_ParaDesc_373</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個母體樣本資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers corresponding to a population and can be numbers or references that contain numbers.</source>
+        <comment>TX_ParaDesc_374</comment>
+        <translation>數字1%1 數字2%1 ... 為 1 到 255 個母體數值。可以直接輸入數值到函數中，或是輸入母體所在的儲存格參照</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1...are 1 to 30 values corresponding to a population and can be values, names, arrays, or references that contain values.</source>
+        <comment>TX_ParaDesc_375</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個母體資料，可為數值，內容為數值的陣列、名稱、或是數值儲存格的參照</translation>
+    </message>
+    <message>
+        <source>ref 1%1 ref 2%1...are 1 to 29 ranges or references for which you want the subtotal.</source>
+        <comment>TX_ParaDesc_381</comment>
+        <translation>Ref1%1 Ref2%1 ... 為 1 到 29 個要計算小計的範圍或參照</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if types as arguments.</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation>為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have teh same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation type="obsolete">陣列1%1陣列2%1... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numbers, arrays, names, or references to arrays for which you want the sum of the squares.</source>
+        <comment>TX_ParaDesc_387</comment>
+        <translation>数字1%1数字2%1 ... 用以求算平方和的 1 至 30 个数字，可以是數字，或是含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric argument corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="obsolete">數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
+    </message>
+    <message>
+        <source>value1%1value2%1... are 1 to 30 value arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_424</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_425</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 30 numeric arguments corresponding to a population.</source>
+        <comment>TX_ParaDesc_426</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個數值引數，用以代表母體樣本</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 values for which you want the multinomial.</source>
+        <comment>TX_ParaDesc_476</comment>
+        <translation>數字1%1數字2%1... 是 1 到 255 您要多項式的值</translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1...1 to 30 of plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation type="obsolete">數字1%1數字2%1... 1 到 30 個複數，用於求其乘積。</translation>
+    </message>
+    <message>
+        <source>is the name of the ProgID of a registered COM automation add-in. Enclose the name in quotation marks.</source>
+        <comment>TX_ParaDesc_546</comment>
+        <translation>是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in quotation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaDesc_547</comment>
+        <translation>是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串</translation>
+    </message>
+    <message>
+        <source>topic1%1topic2%1...are 1 to 38 parameters that specify a piece of data.</source>
+        <comment>TX_ParaDesc_548</comment>
+        <translation>topic1%1topic2%1... 是個數從 1 到 38 的參數，用來指定一段資料</translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payment at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation type="obsolete">為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+    </message>
+    <message>
+        <source>Permission to this workbook is currently restricted.</source>
+        <comment>TX_IRMReadOnly</comment>
+        <translation>必須有此活頁簿有的權限。</translation>
+    </message>
+    <message>
+        <source>First Page </source>
+        <comment>TX_CHECKSPELLING_FromFirstPage</comment>
+        <translation>第一頁</translation>
+    </message>
+    <message>
+        <source>Odd Page </source>
+        <comment>TX_CHECKSPELLING_FromOddPage</comment>
+        <translation>奇數頁</translation>
+    </message>
+    <message>
+        <source>Even Page </source>
+        <comment>TX_CHECKSPELLING_FromEvenPage</comment>
+        <translation>偶數頁</translation>
+    </message>
+    <message>
+        <source>The information cannot be pasted because the copy area and the paste area are not of the same size and shape. Try one of the following: 
+
+.Click a single cell, and then paste. 
+.Select a rectangle area of the same size and shape, and then paste.</source>
+        <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translation>WPS Spreadsheets 無法貼上資訊，原因是複製區域與貼上區域的大小或形狀不同。您可嘗試以下的方法:	
+. 選擇單一儲存格，然後貼上。
+. 選擇相同大小即形狀的儲存格範圍，然後貼上。</translation>
+    </message>
+    <message>
+        <source>The selection is invalid.
+There are several possible reasons:
+
+•Copy and paste areas cannot be overlapping unless they have the same size and shape.
+•If you select Name on the Insert menu and then click the Create command, the rows or columns containing the names will not be included in the named range.
+•If the specified name is in a row or a column, you must select more than one row or column.
+•If you click the Table command on the Data menu, the selected range must be a single rectangle, and the number of rows or columns must not be smaller than one.</source>
+        <comment>TX_DESC_Paste_OverlapRange_ET</comment>
+        <translation>選取範圍無效。
+可能原因有:
+
+. 大小和形狀不同，複製與貼上區域不允許有重疊。
+. 如果使用 [插入] 選單 [名稱] 子選單中的 [建立名稱] 命令，那些包含區域名稱資料的行或列，將不會包含在由此產生的命名區域中。
+. 如果指定的名稱位元於行或列中，動作時須多選一行或一列．
+. 如果單擊 [資料] 功能表中的 [類比運算表] 命令，選定區域必須為單一的矩形區域，並且行列數不能少於一。</translation>
+    </message>
+    <message>
+        <source>Data may exist in the sheet(s) selected for deletion. To permanently delete the data, click OK or press Enter on the keyboard.</source>
+        <comment>TX_Sheet_DEL_ContainsData_ET</comment>
+        <translation>資料可能存在您所選取的刪除的工作表中。若要永久刪除此資料，請按 [確定]。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot ungroup. To start an outline, select the detail rows or columns and group them.</source>
+        <comment>TX_Data_Cannot_Ungroup</comment>
+        <translation>無法取消群組。選取詳細資料列或欄後，設定群組屬性以建立大綱。</translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation>您輸入的公式中，常數字元串太長，WPS Spreadsheets 將自動更正為:
+&apos;%s
+· 若要接受修正，請按一下 [确定]。
+· 若要關閉此訊息並自行修正公式，請按一下 [取消]。
+· 如果不是輸入公式，請避免在開頭輸入等號(=)、加號(+)或減號(-)。</translation>
+    </message>
+    <message>
+        <source>You cannot modify the read-only cells on protected worksheet.</source>
+        <comment>TX_CanNotEdit</comment>
+        <translation>不能在保護的工作表上修改被保護的唯讀儲存格。</translation>
+    </message>
+    <message>
+        <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
+        <comment>TX_Invalid_Name</comment>
+        <translation>必須輸入您要前往的有效參照，或鍵入範圍的有效名稱。</translation>
+    </message>
+    <message>
+        <source>The maximum number of data points you can use in a data series for a 2-D chart is 32,000. If you want to use more than 32,000 data points, you must create two or more series.</source>
+        <comment>TX_Chart_DataOverflow</comment>
+        <translation>二维圖表上，資料數列的資料點不可超過 32,000 個。如果您會使用到超過 32,000 個資料點，您必須要建立二個以上的資料數列。</translation>
+    </message>
+    <message>
+        <source>Cannot find help files, or help files encounter an error.</source>
+        <comment>TX_Help_NoHelpFile</comment>
+        <translation>没有找到說明文件或說明文件出错!</translation>
+    </message>
+    <message>
+        <source>You may not use references to other workbooks for Data Validation criteria.</source>
+        <comment>TX_DV_CrossSheet</comment>
+        <translation>在資料有效性條件中不能使用其他活頁簿的參照。</translation>
+    </message>
+    <message>
+        <source>The Minimum contains an error now. Do you want to continue?</source>
+        <comment>TX_DV_WholeNumberErr1</comment>
+        <translation>最小值目前包含錯誤。是否繼續?</translation>
+    </message>
+    <message>
+        <source>The Value must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
+        <comment>TX_DV_WholeNumber</comment>
+        <translation>數值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+    </message>
+    <message>
+        <source>The Minimum must be an integer, numeric expression, or refer to a cell containing a numeric value.</source>
+        <comment>TX_DV_WholeNumber1</comment>
+        <translation>最小值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+    </message>
+    <message>
+        <source>The Maximum must be an integer, numeric expression, or reference to a cell containing a numeric value.</source>
+        <comment>TX_DV_WholeNumber2</comment>
+        <translation>最大值必須是一個數值、數值表示式、或是一個指到數值儲存格的參照。</translation>
+    </message>
+    <message>
+        <source>A named range you specified cannot be found.</source>
+        <comment>TX_DV_List</comment>
+        <translation>找不到您所指定的名稱範圍。</translation>
+    </message>
+    <message>
+        <source>The List Source must be a delimited list, or a reference to single row or column.</source>
+        <comment>TX_DV_ListMustSingleLine</comment>
+        <translation>來源清單必須是一個有分隔符號的清單，或是一個列或欄的參照。</translation>
+    </message>
+    <message>
+        <source>Arithmetic Mean</source>
+        <comment>TX_ParaInfo_117</comment>
+        <translation>算術平均值</translation>
+    </message>
+    <message>
+        <source>The selection contains some cells without Data Validation settings. Do you want to extend Data Validation to these cells?</source>
+        <comment>TX_DV_APPLYVALIDATION</comment>
+        <translation>這個選取範圍未包含資料驗證方式。是否對其施用目前的 [資料有效性] 設定?</translation>
+    </message>
+    <message>
+        <source>The command you chose cannot be performed with multiple selections. Select a single range and click the command again.</source>
+        <comment>TX_DS_MULSEL</comment>
+        <translation>您不能在選取多個不連續範圍時執行這個命令。
+請一次只選取一個範圍，然後執行這個命令。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets can only convert one column at a time. The selection can contain more than one row but only one column. Select cells only in one column and try again.</source>
+        <comment>TX_DS_MULCOLS</comment>
+        <translation>WPS Spreadsheets 一次只能轉換一欄。所選取的範圍可以很多列，但是只能有一欄。請重新選取一欄中的儲存格，然後再試一次。</translation>
+    </message>
+    <message>
+        <source>The word you used exists in neither main dictionary or custom dictionary. Do you want to add it to the custom dictionary?</source>
+        <comment>TX_CHECKSPELLING_ADDTODICTIONARY</comment>
+        <translation>你使用了一個在主字典和自訂字典中都没有的單字，是否將該單字加入到自訂字典?</translation>
+    </message>
+    <message>
+        <source>Spell Check</source>
+        <comment>TX_SpellCheck_Caption</comment>
+        <translation>拼字檢查</translation>
+    </message>
+    <message>
+        <source>Closing the Track Change is to remove all the recorded changes. Do you want to close it anyway?</source>
+        <comment>TX_RevisionMsgUnTrackChanges</comment>
+        <translation>關閉修訂將刪除所有修訂記錄，確定關閉修訂吗?</translation>
+    </message>
+    <message>
+        <source>Press Alt and click the mouse to follow the link</source>
+        <comment>TX_Hyperlink_Alt_Tip</comment>
+        <translation>按Alt+按一下滑鼠可以跟踪連線</translation>
+    </message>
+    <message>
+        <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
+        <comment>TX_ParaDesc_009</comment>
+        <translation>邏輯值1, 邏輯值2,... 為要測試的條件，有 1 到 30 個，其結果為 TRUE 或 FALSE，可能為邏輯值、陣列或參照</translation>
+    </message>
+    <message>
+        <source>is any real number equal to or greater than 1.</source>
+        <comment>TX_ParaDesc_013</comment>
+        <translation>大於等於 1 的任何實數</translation>
+    </message>
+    <message>
+        <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
+        <comment>TX_ParaDesc_024</comment>
+        <translation>是 x 區間上限 (選擇性引數)。若省略則 B = 1</translation>
+    </message>
+    <message>
+        <source>is an optional upper bound to interval of x. If omitted, upper bound of the x range = 1, lower bound of the x range = 0.</source>
+        <comment>TX_ParaDesc_027</comment>
+        <translation>為 x 區間下限 (選擇性引數)。若省略則 A = 0</translation>
+    </message>
+    <message>
+        <source>is the population standard deviation for the data range and is assumed to be known. Standard_dev must be greater than 0.</source>
+        <comment>TX_ParaDesc_053</comment>
+        <translation>為此資料的母體標準差，且假定為已知。標準差需大於 0</translation>
+    </message>
+    <message>
+        <source>value1, value2,... are 1 to 30 arguments representing the values and cells you want to count. Values can be any type of information.</source>
+        <comment>TX_ParaDesc_060</comment>
+        <translation>數值1,數值2,...為 1 到 30 的引數，可以對數值或儲存格進行計算。它們可以是任何形式的資訊 </translation>
+    </message>
+    <message>
+        <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
+        <comment>TX_ParaDesc_063</comment>
+        <translation>為比較的條件，條件可以是可以是數字，表示式或文字</translation>
+    </message>
+    <message>
+        <source>is the interest rate per period. For example, use 6%/4 for quarterly payments at 6% APR.</source>
+        <comment>TX_ParaDesc_139</comment>
+        <translation>為每期利率。例如，使用 6%/4 表示 6% 之下的每季付款利率</translation>
+    </message>
+    <message>
+        <source>number1,number2,...are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the mean.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation type="obsolete">數值1,數值2,... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>is the position (from the largest) in the array or cell range of the value to return.</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation type="obsolete">為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+    </message>
+    <message>
+        <source>is a logical value: return additional regression statistics = TRUE; return m-coefficient and the constant b = FALSE or omitted.</source>
+        <comment>TX_ParaDesc_213</comment>
+        <translation>為邏輯值: 若為 TRUE 將傳回額外的迴歸統計資料; 若為 FALSE 或省略則只傳回 m 係數和常數項 b</translation>
+    </message>
+    <message>
+        <source>value 1, value 2,... are 1 to 29 payments and income, equally spaced in time and occurring at the end of each period.</source>
+        <comment>TX_ParaDesc_274</comment>
+        <translation type="obsolete">數值1,數值2, ... 為 1 到 29 個付款或收入的組合。並且此些付款或是收入平均地發生於各期的期末</translation>
+    </message>
+    <message>
+        <source>logical1,logical2,... are 1 to 30 conditions that you want to test that can be either TRUE or FALSE</source>
+        <comment>TX_ParaDesc_281</comment>
+        <translation type="obsolete">邏輯值1,邏輯值2,... 為欲測試之 1 到 30 個條件式，其值可為 TRUE 或 FALSE</translation>
+    </message>
+    <message>
+        <source>is an optional value that identifies the number of significant digits for the returned percentage, three digits if omitted(0.xxx%).</source>
+        <comment>TX_ParaDesc_288</comment>
+        <translation>為欲求百分比值的小數有效位數 (選擇性引數)，若省略則採用小數 3 位 (0.xxx%)</translation>
+    </message>
+    <message>
+        <source>is the number of digits to the right of the decimal point. The number is rounded as necessary; if omitted, Decimals = 2!</source>
+        <comment>TX_ParaDesc_337</comment>
+        <translation type="obsolete">為小數點的位數。數值將四捨五入至指定的小數位數，若不設定小數位數，預設值是兩位</translation>
+    </message>
+    <message>
+        <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero to the nearest integer.</source>
+        <comment>TX_ParaDesc_341</comment>
+        <translation>為所要捨位之小數位數。負數代表捨位至小數點左方的位數 (即整數位數); 0 或省略不填，則捨位至最接近的整數</translation>
+    </message>
+    <message>
+        <source>is the number of digits to which you want to round. Negative rounds to the left of the decimal point; zero or omitted, to the nearest integer.</source>
+        <comment>TX_ParaDesc_343</comment>
+        <translation>為所要捨位之小數位數。負數代表捨位至小數點左方的位數 (即整數位數); 0 或省略不填，則捨位至最接近的整數</translation>
+    </message>
+    <message>
+        <source>number1,number2,... are 1 to 30 numbers to sum. Logical values and text are ignored in cells, included if typed as arguments!</source>
+        <comment>TX_ParaDesc_382</comment>
+        <translation type="obsolete">為 1 到 30 個所要加總的數值。在所要加總的儲存格中邏輯值及文字將略過不計，而所要加總的引數如有邏輯值及文字不略過不計</translation>
+    </message>
+    <message>
+        <source>is the condition in the form of a number, expression, or text that defines which cells will be counted</source>
+        <comment>TX_ParaDesc_384</comment>
+        <translation type="obsolete">為比較的條件，條件可以是可以是數字，表示式或文字，用以指定哪些儲存格會被計算</translation>
+    </message>
+    <message>
+        <source>array1,array2,...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation type="obsolete">陣列1,陣列2,... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+    </message>
+    <message>
+        <source>specifies the number of distribution tails to return: one-tailed distribution = 1; two-tailed distribution = 2.</source>
+        <comment>TX_ParaDesc_398</comment>
+        <translation type="obsolete">指定要傳回的分配尾數的個數: 1 表示傳回單尾分配; 2 表示傳回雙尾分配</translation>
+    </message>
+    <message>
+        <source>number1,number2,...are 1 to 30 numeric arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation type="obsolete">數值1,數值2,... 為 1 到 255 個母體樣本資料</translation>
+    </message>
+    <message>
+        <source>The number used to be converted to Chinese string.</source>
+        <comment>TX_ParaDesc_541</comment>
+        <translation>被转换为中文字符串的数值</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TX_ParaInfo_352</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>In_num</source>
+        <comment>TX_ParaInfo_353</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>At_num</source>
+        <comment>TX_ParaInfo_354</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>By_num</source>
+        <comment>TX_ParaInfo_355</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Dir_num</source>
+        <comment>TX_ParaInfo_356</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Match_case</source>
+        <comment>TX_ParaInfo_357</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_358</comment>
+        <translation>Type_num</translation>
+    </message>
+    <message>
+        <source>Iter</source>
+        <comment>TX_ParaInfo_359</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Max_num</source>
+        <comment>TX_ParaInfo_360</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Max_change</source>
+        <comment>TX_ParaInfo_361</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Update</source>
+        <comment>TX_ParaInfo_362</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Precision</source>
+        <comment>TX_ParaInfo_363</comment>
+        <translation>精確度</translation>
+    </message>
+    <message>
+        <source>Date_1904</source>
+        <comment>TX_ParaInfo_364</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calc_save</source>
+        <comment>TX_ParaInfo_365</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save_values</source>
+        <comment>TX_ParaInfo_366</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Alt_exp</source>
+        <comment>TX_ParaInfo_367</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Alt_form</source>
+        <comment>TX_ParaInfo_368</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The formula you entered contains errors. WPS Spreadsheets will automatically correct it as: 
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel.
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormula_Error</comment>
+        <translation>您輸入的公式存在錯誤，WPS Spreadsheets 將自動更正為:
+&apos;%s
+· 若要接受修正，請按一下 [确定]。
+· 若要關閉此訊息並自行修正公式，請按一下 [取消]。
+· 如果不是輸入公式，請避免在開頭輸入等號(=)、加號(+)或減號(-)。</translation>
+    </message>
+    <message>
+        <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
+&apos;%s
+• To accept the correction, click OK.
+• To close this message and correct the formula by yourself, click Cancel
+• If you are not entering a formula, please avoid beginning your input with equal sign(=), plus(+) or minus(-).</source>
+        <comment>TX_InputFormulaStringTooLong_Error</comment>
+        <translation type="obsolete">您輸入的公式中，常數字元串太長，WPS Spreadsheets 將自動更正為:
+&apos;%s
+· 若要接受修正，請按一下 [确定]。
+· 若要關閉此訊息並自行修正公式，請按一下 [取消]。
+· 如果不是輸入公式，請避免在開頭輸入等號(=)、加號(+)或減號(-)。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot calculate the formula. Cell referenced in the formula is the same cell which contains the formula, creating a circular reference. Try one of the following:
+
+•If you do not want to create the circular reference, click OK, and correct the formula.
+•If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
+        <comment>TX_FORMULA_RECURSION</comment>
+        <translation>WPS Spreadsheets 不能計算該公式。公式中的儲存格參照指向的是公式的結果，從而造成循環參照。請嘗試:
+
+· 如屬意外，請傳回上一步動作的儲存格改正公式。
+· 如果您期望通過循環參照傳回正確的計算結果，請選擇 [選項]中的 [反覆運算]。</translation>
+    </message>
+    <message>
+        <source>is the name of the progID of a registered COM automation add-in. Enclose the name in qoutation marks.</source>
+        <comment>TX_ParaInfo_546</comment>
+        <translation type="obsolete">是已註冊之 COM Automation 增益集的 ProgID 的名稱。請將執行增益集的伺服器的名稱置於引號內。</translation>
+    </message>
+    <message>
+        <source>is the name of the server where the add-in should be run. Enclose the name in qoutation marks. If the add-in is run locally, use an empty string.</source>
+        <comment>TX_ParaInfo_547</comment>
+        <translation type="obsolete">是要執行增益集的伺服器的名稱。請將此名稱置於引號內。若要在本機執行增益集，請使用空字串。</translation>
+    </message>
+    <message>
+        <source>is a number, a reference to a cell containing a number, or a formula that evaluates to a number, 2 if omitted.</source>
+        <comment>TX_ParaDesc_337</comment>
+        <translation>為小數點的位數。數值將四捨五入至指定的小數位數，若不設定小數位數，預設值是兩位</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_395</comment>
+        <translation>為欲求算其正弦值的角度，以弧度表示。度數 * PI()/180 = 弧度</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_384</comment>
+        <translation>為比較的條件，條件可以是可以是數字，表示式或文字，用以指定哪些儲存格會被計算</translation>
+    </message>
+    <message>
+        <source>specifies the number of distribution tails to return: one-tailed distribution = 1; tow-tailed distribution = 2.</source>
+        <comment>TX_ParaDesc_398</comment>
+        <translation>指定要傳回的分配尾數的個數: 1 表示傳回單尾分配; 2 表示傳回雙尾分配</translation>
+    </message>
+    <message>
+        <source>is the condition or criteria in the form of a number, expression, or text that defines which cells will be used to find the average.</source>
+        <comment>TX_ParaDesc_063</comment>
+        <translation type="obsolete">為比較的條件，條件可以是可以是數字，表示式或文字，用以指定哪些儲存格會被計算</translation>
+    </message>
+    <message>
+        <source>is the angle in radians for which you want the sine. Degrees *PI()/180 = radians.</source>
+        <comment>TX_ParaDesc_359</comment>
+        <translation>為欲求算其正弦值的角度，以弧度表示。度數 * PI()/180 = 弧度</translation>
+    </message>
+    <message>
+        <source>array1%1array2%1...are 2 to 30 arrays for which you want to multiply and then add components. All arrays must have the same dimensions.</source>
+        <comment>TX_ParaDesc_386</comment>
+        <translation>陣列1%1陣列2%1... 為 2 到 30 個陣列。所有陣列的大小必須相同</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1…are 1 to 30 numbers or names, arrays, or references that contain numbers for which you want the average.</source>
+        <comment>TX_ParaDesc_152</comment>
+        <translation>數值1%1數值2%1... 是您想計算其平均數的 1 到 30 個引數，此為數字或含有數字的名稱、陣列或參照位址</translation>
+    </message>
+    <message>
+        <source>is the position (from the largest) in the array or cell range of the value to return</source>
+        <comment>TX_ParaDesc_205</comment>
+        <translation>為在陣列或儲存格範圍中所欲傳回的位置 (從最大起算)</translation>
+    </message>
+    <message>
+        <source>number1%1number2%1...are 1 to 255 numeric arguments corresponding to a sample of a population.</source>
+        <comment>TX_ParaDesc_423</comment>
+        <translation>數值1%1數值2%1... 為 1 到 255 個母體樣本資料</translation>
+    </message>
+    <message>
+        <source>Value 1%1value 2%1… are 1 to 30 plural numbers, used to calculate the product.</source>
+        <comment>TX_ParaDesc_522</comment>
+        <translation>數字1%1數字2%1... 1 到 30 個複數，用於求其乘積。</translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <comment>TX_SETSHAPECAPTION</comment>
+        <translation>格式化圖案</translation>
+    </message>
+    <message>
+        <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
+        <comment>TX_CHart_EmptyCell</comment>
+        <translation>若要建立圖表，請選擇包含欲使用資料的儲存格。若有列名稱與欄名稱，且您想以之作為標籤，請將其包含在選取範圍中。</translation>
+    </message>
+    <message>
+        <source>New Excel 2007/2010 Workbook</source>
+        <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
+        <translation>新 Excel 2007/2010 活頁簿</translation>
+    </message>
+    <message>
+        <source>New Excel 2003 Workbook</source>
+        <comment>TX_NEWBLANKXLSFILECAPTION</comment>
+        <translation>新 Excel 2003 活頁簿</translation>
+    </message>
+    <message>
+        <source>Dialog_Ref</source>
+        <comment>TX_ParaInfo_369</comment>
+        <translation>Dialog_Ref</translation>
+    </message>
+    <message>
+        <source>Type_num</source>
+        <comment>TX_ParaInfo_370</comment>
+        <translation>Type_num</translation>
+    </message>
+    <message>
+        <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
+        <comment>TX_RemoveTable_ShareBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation type="obsolete">(無同義字建議)</translation>
+    </message>
+    <message>
+        <source>is the discount rate to apply to the cash flows.</source>
+        <comment>TX_ParaDesc_549</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
+        <comment>TX_ParaDesc_550</comment>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14763,7 +18589,11 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>AutoFitSelection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
+<<<<<<< HEAD
         <translation type="obsolete">最適欄寬</translation>
+=======
+        <translation>最適欄寬</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>AutoSum</source>
@@ -15409,7 +19239,41 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>AutoFit Selection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
+<<<<<<< HEAD
         <translation>最適欄寬</translation>
+=======
+        <translation type="obsolete">最適欄寬</translation>
+    </message>
+    <message>
+        <source>PivotTable&apos;s field filter</source>
+        <comment>TX_Undo_PivotTableFilter</comment>
+        <translation>樞紐分析表欄位篩選</translation>
+    </message>
+    <message>
+        <source>Insert New Chart</source>
+        <comment>TX_Undo_InsertNewChart</comment>
+        <translation>插入新圖表</translation>
+    </message>
+    <message>
+        <source>Table Resize</source>
+        <comment>TX_Undo_ListObjectRBDrag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Colunm</source>
+        <comment>TX_Undo_ListColumnDelete</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <comment>TX_Undo_ListRowDelete</comment>
+        <translation type="unfinished">刪除列</translation>
+    </message>
+    <message>
+        <source>New Table Style</source>
+        <comment>TX_Undo_NewTableStyle</comment>
+        <translation type="unfinished"></translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 <context>
@@ -15622,7 +19486,11 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Across Center</source>
         <comment>et_sCenterAcross</comment>
+<<<<<<< HEAD
         <translation>跨欄置中</translation>
+=======
+        <translation type="obsolete">跨欄置中</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
@@ -17314,5 +21182,27 @@ the category you want, and then choose the other options.</source>
         <comment>et_sRangeNotInActiveSheet</comment>
         <translation>範圍不在作用中工作表上，WPS Spreadsheets 不能匯入資料。</translation>
     </message>
+<<<<<<< HEAD
+=======
+    <message>
+        <source>Center Across</source>
+        <comment>et_sCenterAcross</comment>
+        <translation>跨欄置中</translation>
+    </message>
+    <message>
+        <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
+        <comment>et_sListObjectPublishSuccessed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot connect to the server at this time. Your table cannot be published.</source>
+        <comment>et_sListobjectPublishHostNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
 </context>
 </TS>

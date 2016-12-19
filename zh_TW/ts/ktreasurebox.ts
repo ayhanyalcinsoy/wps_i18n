@@ -10,7 +10,11 @@
     </message>
     <message>
         <source>Kingsoft Office recommendation</source>
+<<<<<<< HEAD
         <translation type="obsolete">KingSoft推薦</translation>
+=======
+        <translation type="obsolete">Kingsoft推薦</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Many people are using this great tool. Would you like to try it?</source>
@@ -26,7 +30,11 @@
     </message>
     <message>
         <source>WPS Office Recommendation</source>
+<<<<<<< HEAD
         <translation>KingSoft推薦</translation>
+=======
+        <translation>WPS Office 推薦</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Treasure_Box_Prompt_No</source>
@@ -46,7 +54,11 @@
     </message>
     <message>
         <source>WPS Office recommendation</source>
+<<<<<<< HEAD
         <translation type="obsolete">KingSoft推薦</translation>
+=======
+        <translation type="obsolete">Kingsoft推薦</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
 </context>
 </TS>

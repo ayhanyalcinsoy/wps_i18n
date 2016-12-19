@@ -50,6 +50,7 @@
     </message>
     <message>
         <source>First Row</source>
+<<<<<<< HEAD
         <translation>首列</translation>
     </message>
     <message>
@@ -59,6 +60,17 @@
     <message>
         <source>Last Row</source>
         <translation>末列</translation>
+=======
+        <translation>首列:</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>最後一欄</translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation>最後一列</translation>
+>>>>>>> 4dbf44e3cd04f61c0310ab1c326cf908b8a0f2ea
     </message>
     <message>
         <source>Light Style</source>
