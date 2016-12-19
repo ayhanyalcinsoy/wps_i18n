@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Altın Sarısı</translation>
     </message>
     <message>
         <source>Gray-10%</source>
@@ -85,67 +85,67 @@
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-37.5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-62.5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-87.5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Gri-95%</translation>
     </message>
     <message>
         <source>Green</source>
@@ -161,23 +161,23 @@
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık Mavi</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık Yeşil</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık Turuncu</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık Turkuaz</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık Sarı</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -185,15 +185,15 @@
     </message>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Dolgu Yok</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeytin Yeşili</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Turuncu</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Gök Mavisi</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation type="unfinished"></translation>
+        <translation>ilişkilendi&amp;r</translation>
     </message>
 </context>
 <context>
@@ -551,7 +551,7 @@
     </message>
     <message>
         <source>&amp;Equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Eşit sütun genişliği</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -618,7 +618,7 @@
     </message>
     <message>
         <source>&amp;Number style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sayı biçemi:</translation>
     </message>
     <message>
         <source>&amp;Previous level number:</source>
@@ -678,7 +678,7 @@
     </message>
     <message>
         <source>Number format </source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı biçemi</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -702,7 +702,7 @@
     </message>
     <message>
         <source>Text position</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin konumu</translation>
     </message>
 </context>
 <context>
@@ -716,7 +716,7 @@
     <name>KApplication</name>
     <message>
         <source>Loading KUI</source>
-        <translation type="unfinished"></translation>
+        <translation>KUI yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -724,7 +724,7 @@
     <message>
         <source>&amp;Begin style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Başlama biçemi:</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
@@ -734,32 +734,32 @@
     <message>
         <source>&amp;End style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bitirme biç&amp;emi:</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Biçem:</translation>
     </message>
     <message>
         <source>Begin s&amp;ize:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Başlama &amp;boyutu:</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Yeni ögeler için &amp;varsayılan</translation>
     </message>
     <message>
         <source>End si&amp;ze:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>B&amp;itirme boyutu:</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ölçek</translation>
     </message>
     <message>
         <source>Size</source>
@@ -778,11 +778,11 @@
     <name>KUnderLineCombo</name>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Hiç)</translation>
     </message>
     <message>
         <source>Words only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sadece kelime</translation>
     </message>
 </context>
 <context>
@@ -853,15 +853,15 @@
     <name>KxCaptionNumberDlg</name>
     <message>
         <source>- (Hyphen)</source>
-        <translation type="unfinished"></translation>
+        <translation>- (Tire)</translation>
     </message>
     <message>
         <source>. (Period)</source>
-        <translation type="unfinished"></translation>
+        <translation>. (Nokta)</translation>
     </message>
     <message>
         <source>: (Colon)</source>
-        <translation type="unfinished"></translation>
+        <translation>: (İki Nokta Üstüste)</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -869,46 +869,46 @@
     </message>
     <message>
         <source>– (En dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>– (Kısa tire)</translation>
     </message>
     <message>
         <source>— (Em dash)</source>
-        <translation type="unfinished"></translation>
+        <translation>— (Uzun tire)</translation>
     </message>
 </context>
 <context>
     <name>KxCheckSpellingDlg</name>
     <message>
         <source>A&amp;lways suggest corrections</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Daima düzeltme öner</translation>
     </message>
     <message>
         <source>Check spelling is complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>İmla denetimi tamamlandı.</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"></translation>
+        <translation>Büyük harfli kelimeleri &amp;yoksay</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayı içeren kelimeleri yok&amp;say</translation>
     </message>
     <message>
         <source>No Spelling Suggestions</source>
-        <translation type="unfinished"></translation>
+        <translation>İmla denetimi önerisi yok</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Varsayılan özel bir sözlük bulunamadı. Lütfen listeden bir sözlük seçin ve tekrar başlatın.</translation>
     </message>
     <message>
         <source>An error occurred when adding new words.</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni kelime eklenirken hata oluştu.</translation>
     </message>
     <message>
         <source>Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kelime işlemci seçilen bölümde kontrolü bitirdi. Belgenin geri kalanı için devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Cannot check spelling on original revision status</source>
@@ -919,7 +919,7 @@
     <name>KxCheckboxFormFieldDlg</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiç</translation>
     </message>
     <message>
         <source>The bookmark name is not valid.</source>
@@ -942,7 +942,7 @@
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı bölümlerde seçtiğiniz sayfa sağ vesol boşlukları, sütun boşluğu veya parağraf girintisi ayarları sayfa genişliğinden fazla.</translation>
     </message>
     <message>
         <source>This point forward</source>
@@ -1013,7 +1013,7 @@
     </message>
     <message>
         <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı bölümlerde seçtiğiniz sayfa sağ vesol boşlukları, sütun boşluğu veya parağraf girintisi ayarları sayfa genişliğinden fazla.</translation>
     </message>
 </context>
 <context>
@@ -1163,7 +1163,7 @@
     </message>
     <message>
         <source>Scheme&amp;1</source>
-        <translation>Şemalar&amp;1</translation>
+        <translation>Şema&amp;1</translation>
     </message>
     <message>
         <source>Scheme&amp;2</source>
@@ -1198,7 +1198,7 @@
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Öntanımlı)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
@@ -1206,11 +1206,11 @@
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; eklenirken hata oluştu, lütfen dosya biçemini kontrol edin.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; eklenirken hata oluştu. Dosya zaten var.</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
@@ -1230,7 +1230,7 @@
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel sözlük sayısı üst sınıra ulaştı.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
@@ -1268,7 +1268,7 @@
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Hiç)</translation>
     </message>
 </context>
 <context>
